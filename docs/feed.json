@@ -1,7 +1,19 @@
 {
  "version": 4,
- "generated_at": "2026-11-03T06:00:05+00:00",
+ "generated_at": "2026-11-03T06:03:55+00:00",
  "items": [
+  {
+   "id": "3ad12a2993ca",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
+   "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-03T07:00:00+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/216890_221044_2953.jpg",
+   "summary": "AI가 분석한 결과를 토대로 전문가가 최종 결정을 내렸다면, 그 판단은 누구의 것일까요.",
+   "category": "ai",
+   "buzz": 0
+  },
   {
    "id": "f8af8feb351f",
    "url": "https://news.hada.io/topic?id=36513",
@@ -264,7 +276,7 @@
    "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/mmmm-1024x683.png",
    "summary": "바텐더가 셰이커를 흔들고 목수가 대패를 미는 장면을 그 사람의 눈높이에서 찍은 영상은 로봇에게 교과서가 된다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "e4becec0594d",
@@ -324,7 +336,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/unnamed-44-789x444.jpg",
    "summary": "인공지능(AI)이 디지털 콘텐츠를 생성하는 단계를 넘어 로봇과 자율 시스템을 통해 현실 세계에서 움직이는 기술로 확장되면서 사람의 동작을 정밀하게 수집하고 분석하",
    "category": "business",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "7ca4a803be8c",
@@ -408,18 +420,6 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/MICRO-789x443.png",
    "summary": "기업의 인공지능(AI) 도입이 확대되면서 데이터를 수집하고 저장하는 단계를 넘어 분석과 활용이 가능한 형태로 관리하는 역량이 중요해지고 있다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "6a07cead2016",
-   "url": "https://yozm.wishket.com/magazine/detail/4021",
-   "title": "인하우스 IT 기획자가 AI로 대시보드 만들며 배운 4가지",
-   "source": "요즘IT",
-   "source_id": "yozm",
-   "published_at": "2026-11-03T00:00:17+00:00",
-   "image": "https://yozm.wishket.com/media/news/4021/img-01.png",
-   "summary": "'솔루션 업체에 가능한지부터 확인해 봐야 한다.",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -699,18 +699,6 @@
    "buzz": 1
   },
   {
-   "id": "8c412b2d518f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216903",
-   "title": "뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-02T16:34:18+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/216903_221069_4912.jpg",
-   "summary": "일론 머스크 CEO의 설립한 뇌-컴퓨터 인터페이스(BCI) 기업 뉴럴링크가 시력 회복을 목표로 개발한 뇌 임플란트 ‘블라인드사이트(Blindsight)’의 공학적",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "ec77eb572c7b",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21864",
    "title": "알티엠·이화여대, 반도체 공정 이상탐지 AI 개발...국제학술지 게재",
@@ -732,18 +720,6 @@
    "image": "https://cdn.bloter.net/news/thumbnail/202611/677431_291726_314_v150.jpg",
    "summary": "롯데그룹의 정보기술(IT) 서비스 계열사 롯데이노베이트가 그룹 계열사 중심의 사업 구조에서 벗어나 외부 데이터센터 시장 공략에 속도를 낸다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "79f2ac4fdf83",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=677460",
-   "title": "에넥스, 가구 포함 ‘로봇·AI·바이오’ 확대 시동",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-02T15:46:17+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/677460_291776_3956_v150.jpg",
-   "summary": "국내 가구업체 에넥스가 로봇 부품과 인공지능(AI), 바이오 분야를 사업목적에 추가했다.",
-   "category": "ai",
    "buzz": 0
   },
   {
@@ -975,18 +951,6 @@
    "buzz": 0
   },
   {
-   "id": "27b8be24ace7",
-   "url": "https://yozm.wishket.com/magazine/detail/4019",
-   "title": "Next.js 모바일 웹을 일주일 만에 앱으로 바꾼 방법 ②",
-   "source": "요즘IT",
-   "source_id": "yozm",
-   "published_at": "2026-11-02T05:00:17+00:00",
-   "image": "https://yozm.wishket.com/media/news/4019/img-01.png",
-   "summary": "지난 1편은 빠르게 앱 POC를 만드는 데는 성공했지만, 바로 출시까지 가는 데는 실패했습니다.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "e2c28cd6d801",
    "url": "https://discuss.pytorch.kr/t/komos/12380",
    "title": "KOMOS – 한국어 음성 품질 평가 모델을 오픈소스로 공개했습니다",
@@ -1008,18 +972,6 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/7/4/7445559cb8c80aa5199d2450f3ba2dcb2b51c775_2_1028x686.jpeg",
    "summary": "핵심 요약 Baseten이 10월 29일 joey-1 발표 글 에서 Qwen3.5-2B를 후학습한 결정 모델 joey-1을 공개했습니다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "72b2cb70d37f",
-   "url": "https://yozm.wishket.com/magazine/detail/4018",
-   "title": "코드 멀쩡한데 트래픽 떨어졌다면? 배포 전 SEO 장애 막는 품질 게이트 전략",
-   "source": "요즘IT",
-   "source_id": "yozm",
-   "published_at": "2026-11-02T00:00:17+00:00",
-   "image": "https://yozm.wishket.com/media/news/4018/img-12.png",
-   "summary": "트래픽이 갑자기 떨어졌는데, 무엇이 바뀌었는지 아무도 모릅니다.",
-   "category": "etc",
    "buzz": 0
   },
   {
