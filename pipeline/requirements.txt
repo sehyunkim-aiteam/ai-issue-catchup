@@ -1,0 +1,4 @@
+feedparser>=6.0.11
+# 선택: build_feed.py --ai 를 쓸 때만
+# anthropic>=0.102.0
+# pydantic>=2.7

@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "AI 이슈 따라잡기 - 새 탭에서 매일 AI 트렌드",
+  "short_name": "AI 이슈 따라잡기",
+  "description": "새 탭을 열면 최신 AI·테크·비즈니스 뉴스를 한국어 한 줄 요약으로 보여줍니다.",
+  "version": "0.1.0",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}
