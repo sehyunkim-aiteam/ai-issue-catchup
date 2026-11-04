@@ -4,14 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>AI 이슈 따라잡기</title>
-  <link rel="icon" href="icons/icon32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/icon32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/icon16.png">
+  <link rel="apple-touch-icon" href="icons/icon128.png">
   <link rel="preload" href="fonts/NotoSansKR-subset.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="newtab.css">
 </head>
 <body>
   <header class="appbar">
-    <a class="brand" href="#" data-home>
-      <img class="logo" src="icons/icon.svg" alt="" width="32" height="32"><span class="brand-name">AI 이슈 따라잡기</span>
+    <a class="brand" href="#" data-home aria-label="AI 이슈 따라잡기">
+      <span class="brand-name" aria-hidden="true"><span class="bl1">AI이슈</span><span class="bl2">따라잡기</span></span>
     </a>
     <form class="search" action="https://www.google.com/search" method="get" role="search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
