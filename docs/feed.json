@@ -1,7 +1,139 @@
 {
  "version": 4,
- "generated_at": "2026-11-04T19:47:13+00:00",
+ "generated_at": "2026-11-04T23:19:39+00:00",
  "items": [
+  {
+   "id": "f21b7667b890",
+   "url": "https://www.venturesquare.net/1124848",
+   "title": "“4분 진료 한계 넘어 1인 1주치의 시대로”… AI 건강비서 ‘퍼슬리’의 남궁현·오상준 공동대표",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-04T23:17:11+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Demo-789x444.jpg",
+   "summary": "국내 대형병원의 진료 시간은 환자가 자신의 상태를 충분히 이해하고 앞으로의 치료 방향을 고민하기에 넉넉하지 않다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "fbb8ba5c4e74",
+   "url": "https://news.hada.io/topic?id=36615",
+   "title": "Go의 새로운 JSON API",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T22:37:03+00:00",
+   "image": "https://social.news.hada.io/topic/36615?v=75f439e98552aa9fbbde1873744cdd9d",
+   "summary": "Go 1.27 에서 encoding/json/v2 와 encoding/json/jsontext 가 안정화되어 정식 제공됨.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "03c3c2e15109",
+   "url": "https://news.hada.io/topic?id=36613",
+   "title": "Tencent, 오픈소스 최상위권을 목표로 한 멀티모달 AI 모델 Hy4 공개",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T21:36:08+00:00",
+   "image": "https://social.news.hada.io/topic/36613?v=81dde5c20da4b222d2523bf52f97089f",
+   "summary": "Tencent가 멀티모달 AI 모델 Hy4 정식 버전 을 공개함.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "c2c3bfb8ed2b",
+   "url": "https://news.hada.io/topic?id=36612",
+   "title": "백악관 네트워크에서 주거용 프록시 탐지",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T21:33:08+00:00",
+   "image": "https://social.news.hada.io/topic/36612?v=bd3ac7f1235d2d6452ca7c51eba874bb",
+   "summary": "Layer3 Intel이 백악관 네트워크를 운영하는 대통령 행정실 등록 네트워크 AS2650 에서 공개 주거용 프록시 서비스의 출구 활동을 관측함 10월 5일부터",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "77399ee1d0e8",
+   "url": "https://news.hada.io/topic?id=36611",
+   "title": "화성의 거대 협곡, 지금도 지각 변동이 이어짐",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T20:44:01+00:00",
+   "image": "https://social.news.hada.io/topic/36611?v=6a5ef1abf377f10eac4793cae6e1d5ca",
+   "summary": "Columbia University와 Imperial College London 연구진이 Valles Marineris 협곡 아래에서 단층 운동으로 화성 지진이 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "b5ab998deeae",
+   "url": "https://news.hada.io/topic?id=36610",
+   "title": "잃어버린 malloc()",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T20:41:00+00:00",
+   "image": "https://social.news.hada.io/topic/36610?v=a9868b67c41639221757a69d3bcde6cd",
+   "summary": "초기 Unix에는 선형 할당, 명시적 메모리 영역, 할당 위치 되돌리기 등 오늘날 아레나 방식과 닮은 메모리 관리 기법이 이미 존재했음 V4 커널의 malloc(",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "f887ca4b0ff5",
+   "url": "https://news.hada.io/topic?id=36609",
+   "title": "LLM은 신경망 가중치를 읽고 쓰는 데 초인적이지 않다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T20:38:00+00:00",
+   "image": "https://social.news.hada.io/topic/36609?v=7c6e96a0cd752e8636d90b97e04c3d69",
+   "summary": "GPT-6 Astra의 신경망 가중치 분석과 수정 은 인상적이지만, 유능한 인간 ML 연구자도 수행할 수 있는 작업임 작은 게임 신경망은 입력 채널에 격자 위치와",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "4af7859d9004",
+   "url": "https://news.hada.io/topic?id=36608",
+   "title": "이게 jank라면 믿으시겠어요?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T20:00:25+00:00",
+   "image": "https://social.news.hada.io/topic/36608?v=dfd4b14a59655c3eab3b2da59ba6647d",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "a9d69bbae685",
+   "url": "https://news.hada.io/topic?id=36607",
+   "title": "Apple의 단어 목록을 덤프해 봤다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T19:45:26+00:00",
+   "image": "https://social.news.hada.io/topic/36607?v=922c42e888c3866d5489735a65ffb2af",
+   "summary": "macOS 시스템 사전에서 비속어(vulgar), 모욕적 표현(offensive), 민감 표현(sensitive) 으로 추정되는 3단계 플래그와 11개 주제 플래",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "50d2ed7d9650",
+   "url": "https://news.hada.io/topic?id=36606",
+   "title": "Synaptics, 법적 위협으로 오픈소스 DisplayLink 드라이버를 차단하는 것으로 보임",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T19:42:25+00:00",
+   "image": "https://social.news.hada.io/topic/36606?v=6d3109afc5367373f39cb511745468d2",
+   "summary": "최신 DisplayLink 하드웨어용 오픈소스 Linux 드라이버 Vino 가 Synaptics의 법적 위협 이후 공개 저장소에서 사라짐 Synaptics는 특허",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "d4c1e4e5dfe3",
+   "url": "https://news.hada.io/topic?id=36605",
+   "title": "게릴라 자전거도로: 샌프란시스코, 불법 설치 인프라를 영구 시설로 전환(2016)",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T19:39:25+00:00",
+   "image": "https://social.news.hada.io/topic/36605?v=49997ea8996dac8d1336bd00d3fa0150",
+   "summary": "샌프란시스코가 활동가들이 Golden Gate Park 인근에 무단 설치한 자전거도로 분리 기둥 을 철거하는 대신 공식 시설로 전환하기로 함 익명 활동가 단체 S",
+   "category": "etc",
+   "buzz": 0
+  },
   {
    "id": "52d3f5675017",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42591",
@@ -483,42 +615,6 @@
    "buzz": 0
   },
   {
-   "id": "015efc2eec65",
-   "url": "https://news.hada.io/topic?id=36598",
-   "title": "GitHub Pull Requests, Git 작업 및 Issues 장애",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T16:42:47+00:00",
-   "image": "https://social.news.hada.io/topic/36598?v=e7949068fe84a5fcf469136fc598e39c",
-   "summary": "GitHub에서 오류 증가와 간헐적 실패 가 발생해 Pull Requests, Git 작업, Issues 등에서 일부 요청이 실패하거나 지연될 수 있었음 영향 범",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "11adedfd3482",
-   "url": "https://news.hada.io/topic?id=36597",
-   "title": "미국 유권자들, 주민투표에서 데이터센터에 압도적 반대",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T16:39:47+00:00",
-   "image": "https://social.news.hada.io/topic/36597?v=0dadb33130bf436a0b7f535e54350479",
-   "summary": "",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "5a9f72ba177a",
-   "url": "https://news.hada.io/topic?id=36596",
-   "title": "북한의 가짜 채용 면접이 Binance의 63억 달러 탈취로 이어짐",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T16:36:47+00:00",
-   "image": "https://social.news.hada.io/topic/36596?v=c7f26490075b8838ec7e9898b36aa65c",
-   "summary": "북한 공격자들이 가짜 채용 면접 으로 Binance 소프트웨어 엔지니어의 업무용 컴퓨터에 악성코드를 실행하게 했으며, 이후 내부 시스템 침해가 63억 달러 규모 ",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "0730279fcd96",
    "url": "https://www.bloter.net/news/articleView.html?idxno=677734",
    "title": "자율주행 트랙터에서 영농비서까지…대동이 그리는 AI 농업 [현장+]",
@@ -543,30 +639,6 @@
    "buzz": 0
   },
   {
-   "id": "ba4887fd7a11",
-   "url": "https://news.hada.io/topic?id=36595",
-   "title": "Kimi K3.1 Pro 가중치 공개",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T15:57:32+00:00",
-   "image": "https://social.news.hada.io/topic/36595?v=a1d8242897cbb791180428f6e837eb2f",
-   "summary": "지난달 API와 Kimi 웹등을 통해 공개되었던 K3.1 Pro의 가중치가 예정대로 공개되었습니다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "3633c7356079",
-   "url": "https://news.hada.io/topic?id=36594",
-   "title": "민주당, 미국 하원 다수당 차지",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T15:34:39+00:00",
-   "image": "https://social.news.hada.io/topic/36594?v=4380a04aa87f2d4a55d0828167bada0e",
-   "summary": "NBC News 예측 에 따르면 민주당이 하원 과반 기준인 218석을 크게 웃도는 약 255석을 확보할 전망이며, 상원도 탈환해 양원을 장악할 것으로 예상됨 민주",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "e5e8e4c358ff",
    "url": "https://www.bloter.net/news/articleView.html?idxno=677642",
    "title": "클라우드 2.7배 키운 삼성SDS, 성장축 '관리'로 옮겨간 까닭",
@@ -587,30 +659,6 @@
    "published_at": "2026-11-04T15:05:53+00:00",
    "image": "https://cdn.bloter.net/news/thumbnail/202611/677665_292055_2120_v150.jpg",
    "summary": "AMD가 국내 인공지능(AI) 반도체 기업 퓨리오사AI, 데이터센터 인프라 기업 망고부스트와 손잡고 이기종 AI 컴퓨팅 인프라 구축에 나선다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "bf70801ece33",
-   "url": "https://news.hada.io/topic?id=36593",
-   "title": "제프리 힌턴: AI가 없었더라면 더 나았을 수도 있다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T14:39:34+00:00",
-   "image": "https://social.news.hada.io/topic/36593?v=f49f1c56fb013c42c38d4ba61fe0d83c",
-   "summary": "Geoffrey Hinton은 AI가 풍요로운 미래 를 열 가능성을 인정하면서도, 위험 관리에 실패하면 빈부 격차와 대량 실업으로 사회가 무너질 수 있으며 10년",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "1e0f6669e3d4",
-   "url": "https://news.hada.io/topic?id=36592",
-   "title": "Tell HN: Gemini는 유료 구독자의 채팅 기록도 학습에 사용함(개인 계정)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T14:36:34+00:00",
-   "image": "https://social.news.hada.io/topic/36592?v=00e6c06d4279c6bd4e556622063ab7d4",
-   "summary": "개인용 Google AI 유료 구독 도 Gemini의 Keep Activity 설정이 켜져 있으면 저장된 채팅 기록이 생성형 AI 모델 학습 등 서비스 개선에 사",
    "category": "ai",
    "buzz": 0
   },
@@ -647,42 +695,6 @@
    "published_at": "2026-11-04T13:45:58+00:00",
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/SB-696x522.jpg",
    "summary": "산업 현장에 로봇 도입이 확대되면서 개별 로봇의 성능뿐 아니라 여러 로봇을 효율적으로 연결하고 운영하는 기술의 중요성이 커지고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "8e7d379e2b7b",
-   "url": "https://news.hada.io/topic?id=36591",
-   "title": "AI가 40년간 쌓인 기술 부채를 갚도록 몰아붙이고 있음",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T13:39:57+00:00",
-   "image": "https://social.news.hada.io/topic/36591?v=38e5fa38266c17395abbd18ca4501e65",
-   "summary": "단순 충돌 버그로 방치됐던 PHP 오류에서 AI의 도움으로 서버 임의 코드 실행 방법이 발견됨.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "695a423d0de6",
-   "url": "https://news.hada.io/topic?id=36590",
-   "title": "Show GN: 브라우저 쿠키 목록 스캐너",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T13:37:10+00:00",
-   "image": "https://social.news.hada.io/topic/36590?v=30201ebc41aaa976faa1cda2e0a1c61e",
-   "summary": "https://news.hada.io/topic?id=36571 이후 늦은감이 있지만 필요해 보여 만들었습니다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "87b4c2fe4e5f",
-   "url": "https://news.hada.io/topic?id=36589",
-   "title": "Nvidia RTX Spark의 암호화된 펌웨어, Linux 추론 속도를 35% 수준으로 낮춤",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T13:36:57+00:00",
-   "image": "https://social.news.hada.io/topic/36589?v=647810a748a453f85389a53aaaac2bf9",
-   "summary": "RTX Spark 노트북에 네이티브 Linux 를 설치하고 CUDA 가속을 사용할 수 있지만, 전원을 연결하면 GPU 클럭이 약 780MHz로 제한돼 추론 성능이",
    "category": "ai",
    "buzz": 0
   },
@@ -769,18 +781,6 @@
    "summary": "생성형 인공지능(AI) 시장이 빠르게 성장하면서 기업용 AI 기술을 일찍 발굴한 벤처캐피털(VC)의 투자 성과에도 관심이 쏠린다.",
    "category": "business",
    "buzz": 1
-  },
-  {
-   "id": "53237d86afe9",
-   "url": "https://www.venturesquare.net/1125644",
-   "title": "휴넷, 사내 특강 ‘혁신아카데미’ 20주년…주 4일제에도 지켜온 646번의 배움",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:07:19+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/clipboardImage.png",
-   "summary": "기업이 직원 교육에 투자하는 방식은 조직의 성장 전략과 맞닿아 있다.",
-   "category": "business",
-   "buzz": 0
   },
   {
    "id": "fdcf823146b7",
@@ -1020,7 +1020,7 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/2/0/20b172ac48f911972ab4341e3ccf8dd89e19ee62_2_1028x609.png",
    "summary": "rikiyat.github.io – 2 Nov 26 Sparks of Weight-Space Programming: LLMs can natively read & ",
    "category": "vibe_coding",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "580cc57e6789",
