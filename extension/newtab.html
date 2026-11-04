@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>AI 이슈 따라잡기</title>
   <link rel="icon" href="icons/icon32.png">
+  <link rel="preload" href="fonts/NotoSansKR-subset.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="newtab.css">
 </head>
 <body>
@@ -32,7 +33,6 @@
     </nav>
 
     <main class="main">
-      <h2 class="view-title" id="viewTitle"></h2>
       <div class="grid" id="grid" aria-live="polite"></div>
       <p class="empty" id="empty" hidden></p>
       <p class="foot" id="foot"></p>
@@ -61,9 +61,9 @@
       <button class="save" type="button" aria-label="저장">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></svg>
       </button>
-      <div class="src-line"><span class="src-mark"></span><span class="src"></span><span class="dot">·</span><time></time></div>
       <a class="title" rel="noopener"></a>
       <p class="summary"></p>
+      <div class="src-line"><span class="src"></span><span class="dot">·</span><time></time></div>
       <span class="cat"></span>
     </article>
   </template>

@@ -1,4 +1,4 @@
-import { FEED_URL, REFRESH_MINUTES } from "./config.js";
+import { FEED_URL, REFRESH_MINUTES, LOG_URL } from "./config.js";
 
 // 사이드바 카테고리 (icon = SVG path)
 const CATEGORIES = [
@@ -34,6 +34,40 @@ const store = {
   },
 };
 
+// ── 행동 로그: PV(새 탭·페이지 열기)와 CLICK(콘텐츠 열기)만 보낸다 ──
+// uid = 처음 열 때 만든 무작위 UUID. 회원 개념이 없어 사용자 구분은 이것뿐이다.
+//   확장: chrome.storage.local에 저장 → 설치 단위(삭제하면 같이 지워진다)
+//   웹:   localStorage에 저장 → 브라우저 단위(브라우저 데이터를 지우면 새 uid)
+const PLATFORM = isExtension ? "extension" : "web";
+const APP_VERSION = isExtension ? chrome.runtime.getManifest().version : "web";
+let uid = null;
+
+async function initUid() {
+  uid = await store.get("uid", null);
+  if (!uid) {
+    uid = crypto.randomUUID();
+    await store.set("uid", uid);
+  }
+}
+
+function track(event, extra = {}) {
+  if (!LOG_URL || !uid) return;
+  const body = JSON.stringify({ event, uid, platform: PLATFORM, version: APP_VERSION,
+                                ts: new Date().toISOString(), ...extra });
+  try {
+    // text/plain이라 CORS preflight가 없다. 링크를 눌러 페이지가 바뀌어도 전송된다.
+    if (!navigator.sendBeacon(LOG_URL, new Blob([body], { type: "text/plain" }))) throw new Error("beacon");
+  } catch {
+    fetch(LOG_URL, { method: "POST", body, keepalive: true, mode: "no-cors" }).catch(() => {});
+  }
+}
+
+// 콘텐츠 열기 = 읽음 표시 + CLICK 로그
+function openContent(id) {
+  track("click", { content_id: id });
+  markRead(id);
+}
+
 const state = { feed: null, view: "all", saved: {}, read: {}, theme: "system" };   // view = 카테고리 id | "saved"
 const $ = (s) => document.querySelector(s);
 const feedUrl = isExtension ? FEED_URL : new URL("feed.json", location.href).href;
@@ -57,13 +91,6 @@ function svgIcon(path) {
   p.setAttribute("d", path);
   svg.append(p);
   return svg;
-}
-
-// 출처마다 고정 색 (이름 해시 → 색상환)
-function sourceColor(name) {
-  let h = 0;
-  for (const ch of name) h = (h * 31 + ch.charCodeAt(0)) % 360;
-  return `hsl(${h} 55% 45%)`;
 }
 
 // 화제도(다른 매체가 같은 이슈를 다룬 수) 우선, 같으면 최신순. 오늘 기사가 부족하면 최근 72시간 전체에서 고른다.
@@ -116,7 +143,8 @@ function renderPopular(all) {
     a.className = "pop-item";
     a.href = it.url;
     a.title = it.summary || it.title;
-    a.addEventListener("click", () => markRead(it.id));
+    a.addEventListener("click", () => openContent(it.id));
+    a.addEventListener("auxclick", (e) => { if (e.button === 1) openContent(it.id); });
 
     const rank = document.createElement("span");
     rank.className = "pop-rank";
@@ -159,9 +187,6 @@ function buildCard(it) {
     thumb.classList.add("noimg");
   }
 
-  const mark = node.querySelector(".src-mark");
-  mark.textContent = it.source.slice(0, 1);
-  mark.style.background = sourceColor(it.source);
   node.querySelector(".src").textContent = it.source;
   const t = node.querySelector("time");
   t.dateTime = it.published_at;
@@ -178,8 +203,8 @@ function buildCard(it) {
   cat.textContent = CAT_LABEL[it.category] ?? "etc";
 
   for (const a of [thumb, title]) {
-    a.addEventListener("click", () => markRead(it.id));
-    a.addEventListener("auxclick", () => markRead(it.id));
+    a.addEventListener("click", () => openContent(it.id));
+    a.addEventListener("auxclick", (e) => { if (e.button === 1) openContent(it.id); });   // 휠 클릭(새 탭)
   }
 
   const save = node.querySelector(".save");
@@ -219,7 +244,6 @@ function render() {
   } else {
     items = state.view === "all" ? all : all.filter((it) => it.category === state.view);
   }
-  $("#viewTitle").textContent = state.view === "saved" ? "저장한 콘텐츠" : state.view === "all" ? "오늘의 콘텐츠" : CAT_LABEL[state.view];
   $("#grid").replaceChildren(...items.map(buildCard));
 
   const empty = $("#empty");
@@ -275,6 +299,8 @@ async function loadFeed() {
 }
 
 async function init() {
+  await initUid();
+  track("pv");
   state.saved = await store.get("saved", {});
   state.read = await store.get("read", {});
   const prefs = await store.get("prefs", {});
