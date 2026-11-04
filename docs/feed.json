@@ -1,7 +1,199 @@
 {
  "version": 4,
- "generated_at": "2026-11-03T21:00:40+00:00",
+ "generated_at": "2026-11-04T01:23:22+00:00",
  "items": [
+  {
+   "id": "137d42a3c873",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=677628",
+   "title": "美 중간선거 민주당 압승 시 증시 하방 압력…AI·방산주 타격 전망",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-04T02:11:53+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/677628_292001_1148_v150.jpg",
+   "summary": "미국 중간선거에서 민주당이 상·하원을 석권할 경우 인공지능(AI) 관련주가 압박 받고 단기적으로 주식시장이 약세를 나타낼 것이라는 분석이 나온다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "04dd04cc302f",
+   "url": "https://www.venturesquare.net/1125505",
+   "title": "블럭스, AI 에이전트 기반 CRM 자동화 전략 공유…캠페인 기획부터 실행·성과 분석까지",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-04T01:21:56+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/BLUX-789x444.jpg",
+   "summary": "기업의 고객관계관리(CRM) 마케팅이 인공지능(AI)을 활용한 콘텐츠 제작에서 캠페인 운영 전반의 자동화로 확장되고 있다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "3345b9ed5f22",
+   "url": "https://www.venturesquare.net/1125495",
+   "title": "잡플래닛·링크드인 경영진 회동…AI 인재 매칭과 한국 채용시장 변화 논의",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-04T01:19:59+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/2026-1104-765x522.jpg",
+   "summary": "인공지능(AI)이 채용시장에 도입되면서 기업과 구직자를 연결하는 방식에도 변화가 나타나고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "b78161e770c6",
+   "url": "https://www.venturesquare.net/1125461",
+   "title": "팀스파르타, AI 토크 콘텐츠 ‘이것도 먀라고?’ 60만 뷰 돌파…사주·범죄·경제로 AI 리터러시 확장",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-04T00:49:02+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/TEAM-2-789x444.jpg",
+   "summary": "인공지능(AI)이 업무 도구를 넘어 일상적인 의사결정에 관여하면서 기술을 이해하는 방식도 달라진다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "61bcd0d8a8b8",
+   "url": "https://news.hada.io/topic?id=36554",
+   "title": "wterm - DOM 렌더링과 Ghostty 코어를 지원하는 웹 터미널 에뮬레이터",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T00:30:02+00:00",
+   "image": "https://social.news.hada.io/topic/36554?v=af1222b6e186dcbfb1b78fedb209bba6",
+   "summary": "Vercel Labs의 웹 터미널 라이브러리로, DOM 렌더링 을 통해 브라우저의 기본 선택과 복사, 찾기, 접근성 기능을 활용 약 26KB의 Zig/WASM 코",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "6be93fe02d7f",
+   "url": "https://news.hada.io/topic?id=36553",
+   "title": "Show GN: Uranus·Venus - 긴 한글 문서를 위한 한글 전용 Typora 테마",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T00:26:37+00:00",
+   "image": "https://social.news.hada.io/topic/36553?v=475225d1b68a1a52a79347e99d0d4b70",
+   "summary": "한글로 작성된 긴 문서를 Typora에서 오래 읽어도 덜 피로하도록 조판한 라이트 테마 두 개입니다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "c1c217ce3688",
+   "url": "https://news.hada.io/topic?id=36552",
+   "title": "지금 쓰는 nix를 선택한 이유는 무엇인가요?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T00:11:18+00:00",
+   "image": "https://social.news.hada.io/topic/36552?v=67fd09332754e48c58c6bcd61b26550f",
+   "summary": "어떤 nix를 선택하면 좋을지 몰라, 현재 쓰는 것을 선택한 이유를 구함 비교 대상으로 C++ 기반 Nix , Determinate Nix , Lix , 또는 G",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "adb22ed3b134",
+   "url": "https://news.hada.io/topic?id=36551",
+   "title": "Ubuntu 26.04의 Rust sudo는 표준 sudo와 호환되지 않음",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T00:08:18+00:00",
+   "image": "https://social.news.hada.io/topic/36551?v=dcfca07b6cbcb8b3b6d17128540190c0",
+   "summary": "Ubuntu 26.04의 sudo-rs 에서 기존 /etc/sudoers.d 규칙으로 허용했던 Exim 명령의 비밀번호 없는 실행이 동작하지 않는 사례가 확인됨 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "1c52f96e7141",
+   "url": "https://news.hada.io/topic?id=36550",
+   "title": "XSLT에 다가오는 죽음",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T00:05:18+00:00",
+   "image": "https://social.news.hada.io/topic/36550?v=3527662c030e413e2852e9920cb33ddf",
+   "summary": "Google의 브라우저 XSLT 지원 제거 를 두고, 기존 웹사이트를 고의로 깨뜨리지 않는다는 하위 호환성 원칙 을 저버린다는 비판이 나옴 지원 제거를 알리기 위",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "19dfbec36897",
+   "url": "https://www.venturesquare.net/1125450",
+   "title": "소풍벤처스·한림대기술지주, 135억원 강원 전략산업 펀드 결성…기후테크·헬스케어 초기기업 투자",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-03T23:37:16+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/SOPOONG-789x414.png",
+   "summary": "지역 벤처투자의 역할이 창업기업에 자금을 공급하는 데서 나아가 지역 산업 인프라와 기술을 연결하는 방향으로 나아가고 있다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "a6410f186b67",
+   "url": "https://www.venturesquare.net/1125448",
+   "title": "클레온, 디지털휴먼 국제표준 개발로 부총리상…서울역·삼성생명서 AI 휴먼 상용화 확대",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-03T23:34:17+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/CLEON-2-783x522.jpg",
+   "summary": "생성형 인공지능(AI)의 활용 범위가 텍스트 기반 대화를 넘어 얼굴과 목소리, 표정과 몸짓을 활용하는 디지털휴먼으로 확장되고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "12bf5cc8320c",
+   "url": "https://news.hada.io/topic?id=36549",
+   "title": "Safari 27.3에 Adaptive Dark Mode 도입",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-03T23:32:30+00:00",
+   "image": "https://social.news.hada.io/topic/36549?v=b49846fcac1d75026d5c7f91f09154e2",
+   "summary": "Safari 27.3 베타 의 Adaptive Dark Mode는 사용자가 활성화하면 다크 모드를 지원하지 않는 밝은 웹사이트를 어둡게 변환함 다크 모드 지원을 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "528076b9bb05",
+   "url": "https://www.venturesquare.net/1125422",
+   "title": "와이즈넛, 공공솔루션마켓서 AI 에이전트 시연…공공 업무 자동화·운영 전략 제시",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-03T23:32:24+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/WISENUT-783x522.png",
+   "summary": "공공부문의 인공지능 전환(AX)이 민원 응대와 정보 검색을 넘어 실제 행정 업무를 수행하는 AI 에이전트 도입으로 진화 중이다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "a9d9534808a6",
+   "url": "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402",
+   "title": "Auto Ontology: DB 메타데이터로 온톨로지를 생성해 AI 에이전트의 SQL을 검증하는 NVIDIA의 시맨틱 레이어 프레임워크",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-03T23:00:14+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/7/a/7ab023c8c3fb48520eb2647bcf9f2b48796ddc96_2_1028x688.jpeg",
+   "summary": "핵심 요약 Auto Ontology 는 NVIDIA가 공개한 파이썬 프레임워크로, 기업 데이터베이스의 메타데이터에서 온톨로지(용어 정의, 컬럼 매핑, 관계)를 생",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "11d4b4e2ff14",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=677375",
+   "title": "오픈AI·앤트로픽은 '두뇌'…스노우플레이크는 '데이터 관문' 맡는다",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-03T23:00:00+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202610/677375_291663_1142_v150.jpg",
+   "summary": "스노우플레이크가 오픈AI·앤트로픽과 다른 방식으로 기업용 인공지능(AI) 에이전트 시장을 공략한다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "53b15cd34618",
+   "url": "https://news.hada.io/topic?id=36547",
+   "title": "에이전트가 일을 할 때의 비판적 사고",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-03T22:04:49+00:00",
+   "image": "https://social.news.hada.io/topic/36547?v=bbdd4ab5c4eb10e4b990316e9c044617",
+   "summary": "에이전트가 빠르고 매끄러우며 대체로 정확한 답을 내놓을수록, 사람이 다시 살펴볼 계기는 줄어듦.",
+   "category": "ai",
+   "buzz": 0
+  },
   {
    "id": "55e7b66b81ee",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42572",
@@ -39,6 +231,18 @@
    "buzz": 0
   },
   {
+   "id": "fe78e34c135b",
+   "url": "https://news.hada.io/topic?id=36546",
+   "title": "Stringman - 천장 케이블로 방 안의 물건을 집고 옮기는 795달러 오픈소스 로봇",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-03T21:32:50+00:00",
+   "image": "https://social.news.hada.io/topic/36546?v=029ac9b51a11b05e634fc306a6880644",
+   "summary": "천장 근처 네 모서리의 케이블과 모터 4개로 집게를 움직여 방 안의 물건을 집고 운반하는 로봇 바퀴나 다리 없이 위에서 접근하며, 바닥 근처 최대 적재량 2.2k",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
    "id": "75716db116fe",
    "url": "https://news.hada.io/topic?id=36545",
    "title": "15년간 사망한 NFL 선수의 75%가 CTE를 앓았을 것으로 추정한 연구",
@@ -53,7 +257,7 @@
   {
    "id": "03ba8c6e341a",
    "url": "https://news.hada.io/topic?id=36543",
-   "title": "어떤 규모에서도 Mac 운영하기",
+   "title": "대규모 Mac 인프라 운영하기 - MacBook 랙부터 macOS VM 이미지 배포까지",
    "source": "GeekNews",
    "source_id": "geeknews",
    "published_at": "2026-11-03T19:39:39+00:00",
@@ -137,7 +341,7 @@
   {
    "id": "70d658ebaac0",
    "url": "https://news.hada.io/topic?id=36538",
-   "title": "Postman, AI 플러그인을 몰래 자동 설치하고 모든 API 데이터 공유 시도",
+   "title": "Postman, 동의 없이 Codex와 Claude Code 플러그인을 자동 설치함",
    "source": "GeekNews",
    "source_id": "geeknews",
    "published_at": "2026-11-03T18:38:04+00:00",
@@ -192,7 +396,7 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42566_63967_5612_v150.jpg",
    "summary": "정부가 개별 공장과 생산공정에 머물러 있던 제조 인공지능(AI) 혁신을 공급망과 산업단지, 공장 전체로 확대하는 새로운 제조업 전환 전략을 추진한다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "45a5689c6e54",
@@ -255,30 +459,6 @@
    "buzz": 0
   },
   {
-   "id": "7cdfbf475dea",
-   "url": "https://news.hada.io/topic?id=36536",
-   "title": "Fujifilm, AI로 아카이빙 수요 늘자 테이프 생산능력 5배 확대 추진",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T17:38:00+00:00",
-   "image": "https://social.news.hada.io/topic/36536?v=d75b2067538a81830178c653be3ce494",
-   "summary": "Fujifilm 이 약 100억 엔(약 6,300만 달러)을 투자해 자기 테이프 생산능력을 2025회계연도 대비 5배 로 확대할 계획임 회사는 생성형 AI 확산에",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "1d8ec67873a6",
-   "url": "https://news.hada.io/topic?id=36535",
-   "title": "시간을 바꾸려고 자동차 내비게이션을 탈옥하기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T17:35:00+00:00",
-   "image": "https://social.news.hada.io/topic/36535?v=b624b544914262b077e2c9a3cf3a3701",
-   "summary": "2014년형 Renault Latitude의 TomTom Carminat LIVE 는 정품 지도 SD 카드가 없으면 시간 설정 메뉴에 접근할 수 없어, 서머타임 ",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "09fce6ccc7de",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21877",
    "title": "오픈AI, 챗GPT ‘채팅’과 ‘작업’ 한 탭으로 묶는다",
@@ -335,6 +515,18 @@
    "published_at": "2026-11-03T17:20:22+00:00",
    "image": "https://cdn.bloter.net/news/thumbnail/202611/677418_291782_4624_v150.jpg",
    "summary": "주요 디지털마케팅 전문기업의 마케팅 솔루션 특징 및 인공지능(AI) 전략에 대해 분석합니다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "2998ce802e09",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216963",
+   "title": "[AI 모델 신작] 사람처럼 대화하는 '프리즘'부터 로봇 제어 AI까지 6종",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-03T17:20:00+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/216963_221134_5932.png",
+   "summary": "라임, 사람처럼 듣고 말하는 음성 AI '프리즘' 출시미국 음성 AI 전문 라임(Rime)이 사람과 구별하기 어려울 정도로 자연스럽게 대화하는 음성 AI 모델 ‘",
    "category": "ai",
    "buzz": 0
   },
@@ -471,30 +663,6 @@
    "buzz": 0
   },
   {
-   "id": "157a72625b74",
-   "url": "https://news.hada.io/topic?id=36534",
-   "title": "Revolut, 자체 호스팅 GLM으로 전환",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T16:32:01+00:00",
-   "image": "https://social.news.hada.io/topic/36534?v=65cbe59201a6f835eb940c7dcff16f25",
-   "summary": "Revolut 이 엔지니어 약 2,000명의 코딩 작업을 자체 호스팅 GLM으로 옮기고, Claude Code와 Codex는 예외적으로 사용하는 도구로 분류함 A",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "411565b76715",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216954",
-   "title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 목소리 공급…한 달 만에 2000만자 돌파",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-03T16:30:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/216954_221129_1221.png",
-   "summary": "AI 음성합성 서비스 '타입캐스트'와 AI 영상 편집 서비스 '브루'의 협력이 사용자의 호응을 이끌며 시너지를 내고 있다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
    "id": "a012324012c0",
    "url": "https://www.bloter.net/news/articleView.html?idxno=677573",
    "title": "[단독]한미반도체-한화세미텍 특허분쟁조정 돌입…합의 결과 '안갯속'",
@@ -516,18 +684,6 @@
    "image": "https://cdn.bloter.net/news/thumbnail/202611/677554_291907_1336_v150.jpg",
    "summary": "글로벌 보안기업 포티넷의 인공지능(AI) 기반 보안 운영 사업이 성장세 둔화에 직면했다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "c00ff91ece57",
-   "url": "https://news.hada.io/topic?id=36533",
-   "title": "Polyend, Tracker 펌웨어 소스 코드 공개",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T16:01:18+00:00",
-   "image": "https://social.news.hada.io/topic/36533?v=9630a00691bf15ca5453687f56455bc1",
-   "summary": "Polyend가 오리지널 Tracker, Tracker+, Tracker Mini 의 펌웨어 소스 코드를 GitHub에 공개하고, 세 기기에 설치할 수 있는 Tr",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -567,66 +723,6 @@
    "buzz": 0
   },
   {
-   "id": "31731abcddbc",
-   "url": "https://news.hada.io/topic?id=36532",
-   "title": "유럽 RISC-V 산업용 컴퓨팅 이니셔티브",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T15:39:57+00:00",
-   "image": "https://social.news.hada.io/topic/36532?v=60f6b8908b905505ab6cd32148a85d31",
-   "summary": "ERICI 는 RVA23 기반 산업용 컴퓨터를 위해 펌웨어부터 실시간 OS와 범용 OS까지 연결하는 참조 스택을 조율하고, 계층 간 인터페이스와 실제 하드웨어에서",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "a7fb4b7c4437",
-   "url": "https://news.hada.io/topic?id=36531",
-   "title": "현대 체스 엔진을 Pentium에서 실행했다면 1996년 Kasparov를 이길 수 있었을까?",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T15:36:57+00:00",
-   "image": "https://social.news.hada.io/topic/36531?v=a8047c156fbb7b6f1cb8d6ff1ec913fa",
-   "summary": "200MHz Pentium Pro와 64MB RAM 에 맞춰 개조한 Stockfish가 수당 30초 조건에서 Elo 3180 ± 80을 기록함.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "cd460598dd0f",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=677557",
-   "title": "구매로 이끄는 AI…위버스브레인, 교육 넘어 AI 세일즈 공략[현장+]",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-03T15:16:49+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/677557_291894_2632_v150.jpg",
-   "summary": "에듀테크 기업 위버스브레인이 신규 대화형 AI 에이전트 플랫폼 ‘에이전트맥스(AgentMAX)’를 앞세워 외부 기업 대상 솔루션 사업에 나선다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "b2ea2407918b",
-   "url": "https://news.hada.io/topic?id=36530",
-   "title": "kill 버그의 10년",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T15:02:40+00:00",
-   "image": "https://social.news.hada.io/topic/36530?v=6cfa2cbf093bb8656ba6ad69cde83a4f",
-   "summary": "Endcrawl에서 프로세스 그룹을 종료하려고 실행한 sudo kill -TERM -1490947 이 init을 제외한 모든 프로세스를 종료 함.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "48739a63f6bd",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=677542",
-   "title": "반도체 소재 국산화 성공 7년…삼성·SK, 다시 日 찾는 이유는",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-03T15:00:03+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/677542_291868_4116_v150.jpg",
-   "summary": "일본산 반도체 소재를 국산으로 대체하겠다던 삼성전자와 SK하이닉스가 다시 일본을 찾고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "b46da6c9e393",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21875",
    "title": "업스테이지, 범정부 AI 공통기반에 ‘솔라 프로 4’ 공급",
@@ -636,7 +732,7 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21875_22665_559.jpg",
    "summary": "업스테이지는 자체 개발한 대형언어모델(LLM) ‘솔라 프로 4’를 범정부 AI 공통기반에 탑재했다고 3일 밝혔다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "9644d674bdc7",
@@ -647,30 +743,6 @@
    "published_at": "2026-11-03T14:42:58+00:00",
    "image": "https://cdn.byline.network/wp-content/uploads/2026/10/snow.png",
    "summary": "스노우플레이크가 AI 에이전트 도입 확산에 따른 데이터 유출과 권한 남용, 비용 증가 문제에 대응하기 위한 기업용 통제 전략을 공개했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "d11242ece304",
-   "url": "https://news.hada.io/topic?id=36528",
-   "title": "NVIDIA Auto Ontology - 기업 데이터의 의미와 관계를 AI 에이전트에 연결하는 오픈소스 도구",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-03T14:37:52+00:00",
-   "image": "https://social.news.hada.io/topic/36528?v=000d2722b0e8ba0fa04a2b9bae728eff",
-   "summary": "데이터의 업무 용어와 지표, 관계를 정리 해 AI 에이전트가 기업 데이터를 이해하고 질의하도록 돕는 도구 메타데이터에서 온톨로지와 지식 그래프를 생성 하며, 기존",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "39e6194e48d1",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=677547",
-   "title": "\"전 고객사와 가격인상 합의\"…SKC, 협상력 높아진 까닭은",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-03T14:24:59+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/677547_291882_3838_v150.jpg",
-   "summary": "SKC가 모든 동박 고객사와 판매가격 인상에 합의했다.",
    "category": "ai",
    "buzz": 0
   },
@@ -723,78 +795,6 @@
    "buzz": 0
   },
   {
-   "id": "f1c336740caa",
-   "url": "https://www.venturesquare.net/1125381",
-   "title": "앵커노드, 대원미디어와 일본 게임 IP 리메이크 개발 계약…AI 게임 제작 사업 확대",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-03T12:18:22+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/CEO_Anchornode-701x522.jpg",
-   "summary": "게임 산업에서 기존 지식재산권(IP)을 활용한 리메이크와 리마스터은 주요 사업 전략이다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "f542e5848d97",
-   "url": "https://www.venturesquare.net/1125382",
-   "title": "뷰웍스, 3분기 영업이익 154.8% 증가…HBM 검사 수요에 머신비전 매출 급증",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-03T12:16:05+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/view-696x522.jpg",
-   "summary": "인공지능(AI) 인프라 투자가 확대되면서 반도체 제조 공정의 정밀 검사 기술에 대한 수요도 자연스럽게 높아지고 있다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "ca9ccf2cc268",
-   "url": "https://www.venturesquare.net/1125369",
-   "title": "텐마인즈, 스마트워치 건강 데이터와 수면 기록 연결하는 ‘Sleep Relay’ 공개",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-03T12:13:12+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Sleep-Relay-358x522.png",
-   "summary": "스마트워치와 건강관리 애플리케이션이 보편화되면서 개인이 일상에서 수집하는 건강 데이터도 다양해진다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "8bd9a44e0072",
-   "url": "https://www.venturesquare.net/1125367",
-   "title": "업스테이지 ‘솔라 프로 4’, 범정부 AI 공통기반 탑재…행정망 내 국산 LLM 활용 확대",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-03T12:09:59+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/solar-2-789x444.png",
-   "summary": "공공기관의 인공지능(AI) 도입이 확대되면서 행정 데이터의 보안과 AI 활용을 위한 인프라 구축이 중요한 과제로 떠오르고 있다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "efbf8acc86db",
-   "url": "https://www.venturesquare.net/1125349",
-   "title": "한국프롭테크포럼, 10일 AI 비전 컨퍼런스 개최…부동산·건설 산업의 AX 전략 논의",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-03T12:04:31+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/11-3-789x427.png",
-   "summary": "인공지능(AI) 기술이 부동산과 건설, 건축설계 등 공간산업 전반으로 확산되면서 프롭테크 기업들의 사업 전략에도 변화의 움직임이 포착된다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "cc83915a86c3",
-   "url": "https://www.venturesquare.net/1125338",
-   "title": "NC AI, 피지컬 AI용 경량 시각언어모델 ‘배키 비전 3B’ 개발…로봇·공간 이해 성능 입증",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-03T11:57:14+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/NC-AI-2-789x444.png",
-   "summary": "피지컬 AI 분야에서 로봇의 움직임을 제어하는 기술에서 주변 환경을 이해하고 판단하는 지능이 경쟁력으로 꼽히고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "9128d017e9b2",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21873",
    "title": "네오사피엔스, 보이저엑스 ‘브루’에 타입캐스트 음성 53종 공급",
@@ -804,7 +804,7 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21873_22663_295.jpg",
    "summary": "네오사피엔스가 영상 제작 서비스 ‘브루(Vrew)’에 공급한 음성 콘텐츠가 한 달여 만에 누적 사용량 2000만 자를 기록했다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "4765198919cf",
@@ -1079,18 +1079,6 @@
    "published_at": "2026-11-02T13:02:26+00:00",
    "image": "https://discuss.pytorch.kr/uploads/default/original/3X/c/f/cfe85c985c39acab69a648e0c4f35b6f611de869.jpeg",
    "summary": "CUDA 커널 34/34 정확 실행, 130배 가속, 백도어 공격 290건 전부 차단.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "3947446bd6f8",
-   "url": "https://discuss.pytorch.kr/t/ai-state-of-ai-2026-3-agi-2027-pdf-244p/12366",
-   "title": "AI 현황 보고서(State of AI) 2026: 프런티어 모델의 3강 구도, 에이전트 보안 사고, AGI 2027 예측 등 [영문/PDF/244p]",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-02T10:30:08+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/8/a/8a3eccda9332768a3a504d8d4b355fce7db11190_2_1028x653.jpeg",
-   "summary": "핵심 요약 지난 10월 9일, Air Street Capital의 Nathan Benaich가 펴낸 9번째 State of AI Report 2026 은 244장",
    "category": "vibe_coding",
    "buzz": 0
   },
