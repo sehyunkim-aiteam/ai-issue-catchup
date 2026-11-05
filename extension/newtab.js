@@ -1,4 +1,4 @@
-import { FEED_URL, REFRESH_MINUTES, LOG_URL } from "./config.js";
+import { FEED_URL, REFRESH_MINUTES, GA_MEASUREMENT_ID, GA_API_SECRET } from "./config.js";
 
 // 사이드바 카테고리 (icon = SVG path)
 const CATEGORIES = [
@@ -34,13 +34,21 @@ const store = {
   },
 };
 
-// ── 행동 로그: PV(새 탭·페이지 열기)와 CLICK(콘텐츠 열기)만 보낸다 ──
-// uid = 처음 열 때 만든 무작위 UUID. 회원 개념이 없어 사용자 구분은 이것뿐이다.
+// ── 행동 로그: PV(새 탭·페이지 열기)와 CLICK(콘텐츠 열기)만 GA4로 보낸다 ──
+// uid = 처음 열 때 만든 무작위 UUID(GA4 client_id). 회원 개념이 없어 사용자 구분은 이것뿐이다.
 //   확장: chrome.storage.local에 저장 → 설치 단위(삭제하면 같이 지워진다)
 //   웹:   localStorage에 저장 → 브라우저 단위(브라우저 데이터를 지우면 새 uid)
+// session_id = 30분 넘게 쉬었다 열면 새로 만든다(GA4 세션 기준과 같음).
 const PLATFORM = isExtension ? "extension" : "web";
 const APP_VERSION = isExtension ? chrome.runtime.getManifest().version : "web";
+const SESSION_IDLE_MS = 30 * 60 * 1000;
+// 로컬 개발(localhost)에서는 GA4 검증용 주소로 보내 실데이터에 섞이지 않게 한다.
+const IS_DEV = ["localhost", "127.0.0.1"].includes(location.hostname);
+const LOG_URL = GA_MEASUREMENT_ID && GA_API_SECRET
+  ? `https://www.google-analytics.com/${IS_DEV ? "debug/" : ""}mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`
+  : "";
 let uid = null;
+let sessionId = null;
 
 async function initUid() {
   uid = await store.get("uid", null);
@@ -48,12 +56,22 @@ async function initUid() {
     uid = crypto.randomUUID();
     await store.set("uid", uid);
   }
+  const now = Date.now();
+  const s = await store.get("session", null);
+  sessionId = s && now - s.last < SESSION_IDLE_MS ? s.id : String(Math.floor(now / 1000));
+  await store.set("session", { id: sessionId, last: now });
 }
 
-function track(event, extra = {}) {
+function track(event, params = {}) {
   if (!LOG_URL || !uid) return;
-  const body = JSON.stringify({ event, uid, platform: PLATFORM, version: APP_VERSION,
-                                ts: new Date().toISOString(), ...extra });
+  store.set("session", { id: sessionId, last: Date.now() });
+  const body = JSON.stringify({
+    client_id: uid,
+    events: [{ name: event, params: {
+      session_id: sessionId, engagement_time_msec: 1,   // 이 둘이 있어야 GA4 보고서에 사용자·세션으로 잡힌다
+      platform: PLATFORM, app_version: APP_VERSION, ...params,
+    } }],
+  });
   try {
     // text/plain이라 CORS preflight가 없다. 링크를 눌러 페이지가 바뀌어도 전송된다.
     if (!navigator.sendBeacon(LOG_URL, new Blob([body], { type: "text/plain" }))) throw new Error("beacon");
