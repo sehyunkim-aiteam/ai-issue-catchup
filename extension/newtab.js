@@ -81,8 +81,9 @@ function track(event, params = {}) {
 }
 
 // 콘텐츠 열기 = 읽음 표시 + CLICK 로그
-function openContent(id) {
-  track("click", { content_id: id });
+// domain = 어느 영역에서 눌렀는지: popular(인기 콘텐츠) | feed(카드 목록) | saved(저장한 콘텐츠 목록)
+function openContent(id, domain) {
+  track("click", { content_id: id, domain });
   markRead(id);
 }
 
@@ -161,8 +162,8 @@ function renderPopular(all) {
     a.className = "pop-item";
     a.href = it.url;
     a.title = it.summary || it.title;
-    a.addEventListener("click", () => openContent(it.id));
-    a.addEventListener("auxclick", (e) => { if (e.button === 1) openContent(it.id); });
+    a.addEventListener("click", () => openContent(it.id, "popular"));
+    a.addEventListener("auxclick", (e) => { if (e.button === 1) openContent(it.id, "popular"); });
 
     const rank = document.createElement("span");
     rank.className = "pop-rank";
@@ -221,8 +222,9 @@ function buildCard(it) {
   cat.textContent = CAT_LABEL[it.category] ?? "etc";
 
   for (const a of [thumb, title]) {
-    a.addEventListener("click", () => openContent(it.id));
-    a.addEventListener("auxclick", (e) => { if (e.button === 1) openContent(it.id); });   // 휠 클릭(새 탭)
+    const domain = () => (state.view === "saved" ? "saved" : "feed");
+    a.addEventListener("click", () => openContent(it.id, domain()));
+    a.addEventListener("auxclick", (e) => { if (e.button === 1) openContent(it.id, domain()); });   // 휠 클릭(새 탭)
   }
 
   const save = node.querySelector(".save");
