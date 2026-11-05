@@ -1,17 +1,245 @@
 {
  "version": 4,
- "generated_at": "2026-11-04T23:19:39+00:00",
+ "generated_at": "2026-11-05T01:28:01+00:00",
  "items": [
   {
-   "id": "f21b7667b890",
-   "url": "https://www.venturesquare.net/1124848",
-   "title": "“4분 진료 한계 넘어 1인 1주치의 시대로”… AI 건강비서 ‘퍼슬리’의 남궁현·오상준 공동대표",
+   "id": "21afa5a559bb",
+   "url": "https://byline.network/2026/11/1105-7",
+   "title": "금융권 37곳서 해킹 40건…580개사 전수점검·AI 보안체계 구축",
+   "source": "바이라인네트워크",
+   "source_id": "byline",
+   "published_at": "2026-11-05T01:20:23+00:00",
+   "image": "https://cdn.byline.network/wp-content/uploads/2026/11/KakaoTalk_20261022_185552270.jpg",
+   "summary": "금융권에서 지난 9월30일 이후 지난 3일까지 총 37개사, 40건의 침해사고가 신고된 것으로 나타났다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "37317c817c42",
+   "url": "https://www.venturesquare.net/1125877",
+   "title": "한국딥러닝, 신한베트남파이낸스와 금융 AI 에이전트 실증…글로벌 오픈이노베이션 수상",
    "source": "벤처스퀘어",
    "source_id": "venturesquare",
-   "published_at": "2026-11-04T23:17:11+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Demo-789x444.jpg",
-   "summary": "국내 대형병원의 진료 시간은 환자가 자신의 상태를 충분히 이해하고 앞으로의 치료 방향을 고민하기에 넉넉하지 않다.",
+   "published_at": "2026-11-05T01:18:20+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/DEEP-789x444.jpg",
+   "summary": "금융기관은 대출과 심사, 고객관리 등 다양한 업무에서 대량의 문서를 처리하지만, 필요한 정보를 추출하고 내부 시스템에 입력하는 과정에는 여전히 반복적인 작업이 발",
    "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "ec86276dce6b",
+   "url": "https://www.venturesquare.net/1125872",
+   "title": "디셈버앤컴퍼니, 연말 IRP 입금 이벤트…핀트 AI 퇴직연금 운용 고객에 상품권 제공",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-05T01:15:39+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/FINT-4-789x396.jpg",
+   "summary": "연말정산을 앞두고 개인형퇴직연금(IRP)을 활용한 절세와 노후 자산관리에 대한 관심이 높아지고 있다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "3bad3f0c8533",
+   "url": "https://www.venturesquare.net/1125863",
+   "title": "이노그리드, VMware 전환기 통합 관리 강화…’탭클라우드잇 3.0’에 오픈시프트·GPU 기능 추가",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-05T01:12:44+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/INNO-2-789x458.png",
+   "summary": "기업의 클라우드 인프라 전환에서 가상화 플랫폼의 선택만큼 중요한 문제가 운영 체계의 연속성이다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "63539ddee2d2",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=677776",
+   "title": "머스크, 공화당 참패에 직격탄…데이터센터·AI 사업 불확실성 확대",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-05T01:10:55+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/677776_292191_1010_v150.jpg",
+   "summary": "미국 공화당이 중간선거에서 참패하고 텍사스주에서 30여 년 만에 처음으로 민주당 주지사가 당선되며 일론 머스크의 사업이 역풍을 맞게 됐다는 분석이 나온다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "3c9ab6ed058c",
+   "url": "https://www.venturesquare.net/1125838",
+   "title": "인포시즈, 한전 전력망 AI 실증서 정확도 100% 기록…BIXPO 2026서 AI 에이전트 공개",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-05T01:02:58+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/BIXPO-2026-743x522.jpg",
+   "summary": "전력망에 인공지능(AI)을 적용하려면 방대한 설비 정보를 검색하는 능력만으로는 충분하지 않다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "2423c80c4952",
+   "url": "https://www.venturesquare.net/1125830",
+   "title": "딜, 딥페이크·대리 면접 잡는 ‘딜 시큐리티’ 출시…원격 채용 신원 사기 대응",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-05T00:59:24+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/1793775115283-364x522.jpeg",
+   "summary": "글로벌 원격근무와 국경 간 채용이 확대되면서 기업의 인사관리 영역에도 새로운 보안 문제가 등장하고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "42dbc598567b",
+   "url": "https://www.venturesquare.net/1125828",
+   "title": "그렙, 아시아 시험평가 어워즈 2관왕…AI 감독 카메라 2027년 상용화 추진",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-05T00:57:17+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/GREP-789x405.jpg",
+   "summary": "생성형 AI가 업무와 교육 현장에 확산되면서 시험과 평가의 기준도 달라지고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "ce4c67063238",
+   "url": "https://news.hada.io/topic?id=36623",
+   "title": "Thoughtworks Technology Radar, Volume 35 공개",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T00:50:02+00:00",
+   "image": "https://social.news.hada.io/topic/36623?v=96756cfee411b0f30b18e7dc77efe0f8",
+   "summary": "테크닉/플랫폼/도구/언어 및 프레임워크 최신 트렌드 117개 항목 을 \"도입 권장/시험 사용/평가/주의\"의 4단계로 분류하고 설명 하네스 엔지니어링 이 개별 에이",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "824fe600961a",
+   "url": "https://www.venturesquare.net/1125814",
+   "title": "NC AI, 지스타 2026서 ‘바르코’ 체험 카페 운영…3D 모델·게임 사운드 AI 제작 시연",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-05T00:48:51+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/NC-AI-789x444.jpg",
+   "summary": "게임 개발 과정에서 생성형 인공지능(AI)의 활용 범위가 코드 작성과 기획을 넘어 그래픽과 사운드 제작으로 확대되고 있다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "261c032f6675",
+   "url": "https://www.venturesquare.net/1125801",
+   "title": "팀뷰어 조사, 제조업 AI 자율화 속도 빨라졌지만…32%는 투자 효과 입증에 어려움",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-05T00:46:45+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/TEAM-3-789x389.jpg",
+   "summary": "생산 공정뿐 아니라 IT 시스템 운영과 장애 대응 영역에서도 인공지능(AI)의 역할은 중요하다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "921370eaffc6",
+   "url": "https://news.hada.io/topic?id=36622",
+   "title": "자율 에이전트를 위한 데이터 플랫폼 구축",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T00:40:02+00:00",
+   "image": "https://social.news.hada.io/topic/36622?v=267047faa4588cff890e06029ed5a77d",
+   "summary": "에이전트가 데이터 플랫폼을 안정적으로 운영하려면 시맨틱 모델 만으로는 부족하며, 데이터의 최신성, 완전성, 파이프라인 실행 상태까지 확인할 수 있어야 함 연결된 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "a04193d54448",
+   "url": "https://news.hada.io/topic?id=36621",
+   "title": "OpenAI, Pierre Computer Company 인수 예정",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T00:31:40+00:00",
+   "image": "https://social.news.hada.io/topic/36621?v=e413ede7972040b60f7aa66dcbc7e902",
+   "summary": "OpenAI가 Code Storage 와 오픈 소스 개발자 도구를 만든 Pierre Computer Company 를 인수해, Codex의 코드 작성, 이해, 검",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "49b6c3cc0c2a",
+   "url": "https://news.hada.io/topic?id=36620",
+   "title": "sutura - AI 에이전트가 회사의 지표 정의로 데이터를 조회하게 해주는 쿼리 엔진",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T00:30:02+00:00",
+   "image": "https://social.news.hada.io/topic/36620?v=c1e1aa5c7648b955593845c340ce9726",
+   "summary": "대시보드에서 보던 매출을 AI 에이전트에 물어도, 회사가 정해 둔 같은 기준으로 계산 할 수 있게 해줌 ‘지난 분기 지역별 월간 매출’처럼 지표, 분류 기준, 기",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "c28382c03ece",
+   "url": "https://news.hada.io/topic?id=36619",
+   "title": "AI는 랜섬웨어 암호화를 해독하지 않고 어떻게 파일을 복구했는가?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T00:21:46+00:00",
+   "image": "https://social.news.hada.io/topic/36619?v=474e7c1d28914e99bfb99d9e404b3f7a",
+   "summary": "원문: AI Unlocked My Ransomware-Encrypted Files — Without the Key 작성자: Vitalijus Weax 주제: Cl",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "21dabf449990",
+   "url": "https://news.hada.io/topic?id=36618",
+   "title": "Show GN: 매주 IT·Non-IT 공모전을 GitHub 알림 메일로 받아보는 오픈소스 서비스",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T00:14:09+00:00",
+   "image": "https://social.news.hada.io/topic/36618?v=23c79e0bcc33721341fe2f72b85b3133",
+   "summary": "공모전 사이트를 매번 확인하기 번거로워, 매주 공모전을 수집하고 GitHub Issue로 정리해 주는 봇을 만들었습니다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "8df85f2e0699",
+   "url": "https://www.mobiinside.co.kr/2026/11/05/golden-globes-genre-classification-trust-structure",
+   "title": "[세삼의 버티고(Vertigo)] 음악 영화는 뮤지컬이 아니고, 호러는 코미디다: 골든글로브의 장르 사기극",
+   "source": "모비인사이드",
+   "source_id": "mobiinside",
+   "published_at": "2026-11-05T00:00:00+00:00",
+   "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/04094105/%ED%99%94%EB%A9%B4-%EC%BA%A1%EC%B2%98-2026-11-04-094009.png",
+   "summary": "<마이클>은 뮤지컬이 아니라고 했다 골든글로브가 라이언스게이트의 <마이클> 뮤지컬·코미디 부문 출품을 반려했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "ed50f7aa925c",
+   "url": "https://news.hada.io/topic?id=36617",
+   "title": "대규모 언어 모델의 검증 가능한 추론 연구 진전",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T23:35:24+00:00",
+   "image": "https://social.news.hada.io/topic/36617?v=46c88a5f5572785a7b5ee04411720160",
+   "summary": "Anthropic이 모델 가중치를 공개하지 않고도 응답이 사전에 지정한 모델에서 나왔는지 검증하는 FlashProve 를 공개함.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "3e5f17d26948",
+   "url": "https://discuss.pytorch.kr/t/google-antigravity-cheminformatics-skills-feat-rdkit-chembl/12413",
+   "title": "Google, Antigravity용 Cheminformatics Skills 출시: 크리조티닙 사례로 본 에이전트 신약 설계 (feat. RDKit, ChEMBL)",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-04T23:30:04+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/6/b/6bc4ca15593c8782f6903964c5dffe71d1fd78ae_2_1028x695.jpeg",
+   "summary": "핵심 요약 Google DeepMind가 Antigravity용 Cheminformatics Skills를 소개한 글 (2026년 11월 3일)입니다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "d1b07c767662",
+   "url": "https://news.hada.io/topic?id=36616",
+   "title": "Ripple-65B Preview: 에이전트 코딩에서 미국 오픈웨이트 최고 성능 달성",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-04T22:40:03+00:00",
+   "image": "https://social.news.hada.io/topic/36616?v=e37dc3dba30ec2b3a9fb738730d36bcf",
+   "summary": "Ricursive Intelligence가 AI 칩 설계 플랫폼용 자체 모델의 범용 변형인 Ripple-65B Preview 를 공개함.",
+   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -99,42 +327,6 @@
    "buzz": 0
   },
   {
-   "id": "a9d69bbae685",
-   "url": "https://news.hada.io/topic?id=36607",
-   "title": "Apple의 단어 목록을 덤프해 봤다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T19:45:26+00:00",
-   "image": "https://social.news.hada.io/topic/36607?v=922c42e888c3866d5489735a65ffb2af",
-   "summary": "macOS 시스템 사전에서 비속어(vulgar), 모욕적 표현(offensive), 민감 표현(sensitive) 으로 추정되는 3단계 플래그와 11개 주제 플래",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "50d2ed7d9650",
-   "url": "https://news.hada.io/topic?id=36606",
-   "title": "Synaptics, 법적 위협으로 오픈소스 DisplayLink 드라이버를 차단하는 것으로 보임",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T19:42:25+00:00",
-   "image": "https://social.news.hada.io/topic/36606?v=6d3109afc5367373f39cb511745468d2",
-   "summary": "최신 DisplayLink 하드웨어용 오픈소스 Linux 드라이버 Vino 가 Synaptics의 법적 위협 이후 공개 저장소에서 사라짐 Synaptics는 특허",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "d4c1e4e5dfe3",
-   "url": "https://news.hada.io/topic?id=36605",
-   "title": "게릴라 자전거도로: 샌프란시스코, 불법 설치 인프라를 영구 시설로 전환(2016)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T19:39:25+00:00",
-   "image": "https://social.news.hada.io/topic/36605?v=49997ea8996dac8d1336bd00d3fa0150",
-   "summary": "샌프란시스코가 활동가들이 Golden Gate Park 인근에 무단 설치한 자전거도로 분리 기둥 을 철거하는 대신 공식 시설로 전환하기로 함 익명 활동가 단체 S",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "52d3f5675017",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42591",
    "title": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자",
@@ -167,42 +359,6 @@
    "published_at": "2026-11-04T18:44:55+00:00",
    "image": "https://cdn.newstheai.com/news/photo/202611/21888_22679_2746.jpg",
    "summary": "AMD가 서울 강남구 웨스틴 서울 파르나스 호텔에서 ‘어드밴싱 AI 월드투어 서울 2026’을 개최했다고 4일 밝혔다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "59e0df04f675",
-   "url": "https://news.hada.io/topic?id=36604",
-   "title": "GitBook 침해 사고 발생",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T18:44:45+00:00",
-   "image": "https://social.news.hada.io/topic/36604?v=d998d45b27f402262b3086b0c58a82c3",
-   "summary": "GitBook이 공유한 사고 안내에 따르면, 11월 2일 19:00 CET 공격자가 일부 인프라 자격 증명에 무단 접근했으며, AI 에이전트를 이용한 정교한 표적",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "7900e2117035",
-   "url": "https://news.hada.io/topic?id=36603",
-   "title": "Ask HN: Cleveland 지역 아마추어 무선 동호회에 아는 분이 있나요?",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T18:41:45+00:00",
-   "image": "https://social.news.hada.io/topic/36603?v=e19cdf21994f67a4d5268d65d11e18dc",
-   "summary": "집에서 반출해야 하는 대량의 무선 장비 가 있으며, 반출하지 못하면 쓰레기 수거함에 버려질 예정임.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "0adc1b57957b",
-   "url": "https://news.hada.io/topic?id=36602",
-   "title": "AMD, 4분기 매출에서 사상 처음 Intel 추월 전망",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T18:38:45+00:00",
-   "image": "https://social.news.hada.io/topic/36602?v=4f629467c14f34aea10ba6599f8250c8",
-   "summary": "AMD가 2026년 4분기 매출 약 170억 달러 를 전망함.",
    "category": "ai",
    "buzz": 0
   },
@@ -252,7 +408,7 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21886_22677_1112.jpg",
    "summary": "AMD가 퓨리오사AI, 망고부스트와 손잡고 국내 개방형 이기종 AI 인프라 구축을 추진한다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "ef922f95a3fb",
@@ -264,7 +420,7 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21885_22674_5750.jpg",
    "summary": "스노우플레이크가 4일 온라인으로 개막한 ‘스노우플레이크 엑스페디션 2026’에서 AI 에이전트를 실제 업무에 투입하려는 기업을 겨냥한 신기능을 대거 공개했다.",
    "category": "vibe_coding",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "347767e35e6b",
@@ -351,18 +507,6 @@
    "buzz": 0
   },
   {
-   "id": "a3046d1752d4",
-   "url": "https://news.hada.io/topic?id=36600",
-   "title": "소소한 즐거움 삼아, AI에 조금 저항하기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T17:40:39+00:00",
-   "image": "https://social.news.hada.io/topic/36600?v=57646789fb08f740af328d0d68c5c19a",
-   "summary": "Ocado에 캘린더 파일 오류 를 신고한 고객이 AI가 쓴 듯한 답변에 항의한 뒤, 사람이 직접 작성했다고 밝히는 사과와 후속 답변을 받음 첫 답변은 기술팀에 전",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "7ea3f22f9522",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217007",
    "title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력",
@@ -371,18 +515,6 @@
    "published_at": "2026-11-04T17:40:04+00:00",
    "image": "https://cdn.aitimes.com/news/photo/202611/217007_221190_2442.jpg",
    "summary": "기업들이 AI의 실제 업무 적용을 지원하는 '전방 배치 엔지니어(FDE)' 확보 경쟁에 나서면서, 이들의 몸값이 치솟고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "8232f26c773a",
-   "url": "https://news.hada.io/topic?id=36599",
-   "title": "검증은 지식이 아니다: 과학에는 정답 이상의 것이 필요하다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-04T17:37:39+00:00",
-   "image": "https://social.news.hada.io/topic/36599?v=907b61486040c213b4b9f80c26b4eec0",
-   "summary": "AI가 만든 결과의 정확성 만으로 과학적 가치를 판단하면, 결과를 비판하고 수정하며 지식으로 발전시키는 인간의 이해와 책임성 을 놓치게 됨 이해는 정답에 덧붙이는",
    "category": "ai",
    "buzz": 0
   },
@@ -552,7 +684,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217013_221198_2937.png",
    "summary": "기업용 AI 전문 올거나이즈(대표 이창수)가 일본 증시에 상장했다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "fb1d06bf1318",
@@ -687,30 +819,6 @@
    "buzz": 0
   },
   {
-   "id": "8a217c53bb0e",
-   "url": "https://www.venturesquare.net/1125715",
-   "title": "스페이스뱅크, 로보월드서 이기종 로봇 통합운영 기술 공개…소프트웨어로 로봇 기능 확장",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:45:58+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/SB-696x522.jpg",
-   "summary": "산업 현장에 로봇 도입이 확대되면서 개별 로봇의 성능뿐 아니라 여러 로봇을 효율적으로 연결하고 운영하는 기술의 중요성이 커지고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "60812e80c8bf",
-   "url": "https://www.venturesquare.net/1125700",
-   "title": "모레, AMD 기반 AI 추론 효율 높인다…“GPU 경쟁력은 소프트웨어가 결정”",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:36:18+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/AMD-Advancing-AI-World-Tour-Seoul_1-725x522.jpg",
-   "summary": "인공지능(AI) 인프라 시장의 경쟁 기준이 GPU 확보량에서 실제 AI 서비스를 운영하는 데 드는 비용으로 옮겨가고 있다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "f5384c9efc17",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42584",
    "title": "반도체 웨이퍼 10장 한 번에 제조…재료연, 350도 저온 2차원 반도체 공정 개발",
@@ -721,66 +829,6 @@
    "summary": "한국재료연구원(KIMS) 연구진이 350℃의 저온에서 4인치 반도체 웨이퍼 10장에 차세대 2차원 반도체 소재를 동시에 형성하고, 별도의 전사 공정 없이 트랜지스",
    "category": "ai",
    "buzz": 0
-  },
-  {
-   "id": "16ac2da6aea2",
-   "url": "https://www.venturesquare.net/1125682",
-   "title": "세이지, 인천공항 셔틀트레인에 AI 안전관제 적용…공공기관 AI 혁신상 수상",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:29:37+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/img-dce341ae-8609-4afe-b42e-0cd4182ed434-789x447.png",
-   "summary": "공항과 철도 등 대규모 교통 인프라에서는 시설의 안정적인 운영만큼 유지보수 작업자의 안전 확보가 중요하다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "1b08b205156b",
-   "url": "https://www.venturesquare.net/1125679",
-   "title": "루닛, 477억원 규모 CB 발행…볼파라 인수금융 대환으로 이자 부담 낮춘다",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:19:30+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Lunit-logo-789x444.png",
-   "summary": "의료 인공지능(AI) 기업들이 글로벌 시장에서 사업을 확장하면서 인수합병(M&A) 이후 재무구조 관리가 중요한 과제로 꼽힌다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "69a505b46b92",
-   "url": "https://www.venturesquare.net/1125664",
-   "title": "제주창조경제혁신센터, JOIN 2026서 일본 진출·AI 혁신 논의…21개국 청년 참여",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:16:55+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/JOIN2026-1-418x522.jpg",
-   "summary": "지역 스타트업의 성장 전략이 국내 시장을 넘어 해외 진출과 글로벌 협력으로 확장되고 있다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "116fe00d90d4",
-   "url": "https://www.venturesquare.net/1125661",
-   "title": "조코딩AX파트너스, 삼일PwC와 AI 실무 인재 선발…’AX인재전쟁 온라인’ 개최",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:13:55+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/white-full-ban1-369x522.png",
-   "summary": "기업의 인공지능 전환(AX)이 확산되면서 AI 도구를 다룰 줄 아는 인재를 넘어 실제 업무 문제를 해결할 수 있는 인력에 대한 수요가 커지고 있다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "4172d51c975a",
-   "url": "https://www.venturesquare.net/1125647",
-   "title": "에이티넘인베스트먼트, 올거나이즈 日 증시 상장 결실…생성형 AI 확산 전 투자 성과",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-04T13:10:22+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-50-410x522.jpeg",
-   "summary": "생성형 인공지능(AI) 시장이 빠르게 성장하면서 기업용 AI 기술을 일찍 발굴한 벤처캐피털(VC)의 투자 성과에도 관심이 쏠린다.",
-   "category": "business",
-   "buzz": 1
   },
   {
    "id": "fdcf823146b7",
@@ -984,7 +1032,7 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2026/10/snow.png",
    "summary": "스노우플레이크가 AI 에이전트 도입 확산에 따른 데이터 유출과 권한 남용, 비용 증가 문제에 대응하기 위한 기업용 통제 전략을 공개했다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "d4db90e1fbf0",
@@ -1021,18 +1069,6 @@
    "summary": "rikiyat.github.io – 2 Nov 26 Sparks of Weight-Space Programming: LLMs can natively read & ",
    "category": "vibe_coding",
    "buzz": 1
-  },
-  {
-   "id": "580cc57e6789",
-   "url": "https://discuss.pytorch.kr/t/openai-pando-git-push-80-1pb-git-anthropic-scion/12394",
-   "title": "OpenAI Pando: Git 호환을 유지한 채 push 지연을 80% 줄이고 하루 1PB를 전송하는 모노레포 Git 백엔드 (& Anthropic Scion 비교)",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-03T06:30:29+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/0/e/0e76814cd9671742ab3e2231a1c56ad37cfe068b_2_1028x678.jpeg",
-   "summary": "핵심 요약 OpenAI가 2026년 11월 2일 Scaling Git at OpenAI 글에서 사내 모노레포(Monorepo)의 Git 백엔드를 자체 개발한 Pa",
-   "category": "vibe_coding",
-   "buzz": 0
   },
   {
    "id": "ded29135db08",
