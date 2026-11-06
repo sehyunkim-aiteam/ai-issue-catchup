@@ -1,7 +1,187 @@
 {
  "version": 4,
- "generated_at": "2026-11-05T19:58:33+00:00",
+ "generated_at": "2026-11-06T01:34:34+00:00",
  "items": [
+  {
+   "id": "e3a1934e0bee",
+   "url": "https://news.hada.io/topic?id=36684",
+   "title": "AI로 부활하는 해킨토시",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T00:39:03+00:00",
+   "image": "https://social.news.hada.io/topic/36684?v=ba8ac29dd558adb9abe68b682d78e44d",
+   "summary": "비 Apple 하드웨어에서 macOS를 구동하는 Hackintosh 와 hackios 커뮤니티에서 최근 몇 주간 개발 활동과 성공 사례가 급증했으며, AI의 부상",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "bcb014e45d5c",
+   "url": "https://news.hada.io/topic?id=36683",
+   "title": "Servo의 9월 업데이트: <progress>, 둥근 사각형 등",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T00:36:03+00:00",
+   "image": "https://social.news.hada.io/topic/36683?v=bf54fd4641f9ca22461d26dc3114986d",
+   "summary": "Servo 0.7.0 에 9월의 527개 커밋이 반영됐으며, <progress> 요소와 Canvas의 둥근 사각형 그리기 등 웹 플랫폼 지원이 확대됨 CSS와 D",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "1aece71488f2",
+   "url": "https://news.hada.io/topic?id=36682",
+   "title": "voxl - 매우 빠른 브라우저 기반 원격 데스크톱 도구",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T00:30:02+00:00",
+   "image": "https://social.news.hada.io/topic/36682?v=dc48a8678f6564fe9cba4e5929d463c2",
+   "summary": "서버나 샌드박스의 GUI를 브라우저에서 최대 60 FPS로 부드럽게 보고 조작 할 수 있는 Rust 기반 오픈소스 도구 noVNC, Sunshine, Neko, ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "2a377c310d1f",
+   "url": "https://news.hada.io/topic?id=36679",
+   "title": "로봇 촉각 데이터 243만 건 시대, 왜 다른 로봇의 손끝 경험은 그대로 쓸 수 없을까?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T23:49:21+00:00",
+   "image": "https://social.news.hada.io/topic/36679?v=02b2f800f05e0325a589d8fc16cb9b03",
+   "summary": "사람은 눈을 감고도 손끝의 압력과 미끄러짐을 감지합니다.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "268f82a4f8fa",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42613",
+   "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-05T23:45:19+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42613_64030_4336_v150.jpg",
+   "summary": "최태원 SK그룹 회장이 인공지능(AI) 혁명과 미국·중국의 패권 경쟁으로 세계 경제질서가 근본적으로 재편되고 있다며, 한국이 기존 경제성장 모델에서 벗어나 ‘AI",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "fd24cbd744ed",
+   "url": "https://news.hada.io/topic?id=36678",
+   "title": "잘 알려지지 않은 오디오 코덱, N64에 딱 맞다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T23:40:41+00:00",
+   "image": "https://social.news.hada.io/topic/36678?v=73299623292d00681763e355e6dcfe73",
+   "summary": "ULC(Ultra Low Complexity Codec) 를 N64에 이식해 44,100Hz 스테레오 오디오를 CPU 시간 약 4%, RSP 시간 약 5%로 재생",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "7bb8864681f1",
+   "url": "https://news.hada.io/topic?id=36676",
+   "title": "Claude Code가 사용자 이메일 주소를 웹사이트에 전송함",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T23:37:41+00:00",
+   "image": "https://social.news.hada.io/topic/36676?v=4fc2afbf7b08a31c91e533d8a081f0dd",
+   "summary": "Claude Code가 웹 검색 중 사용자 이메일을 User-Agent 요청 헤더에 넣어 동의 없이 외부 사이트로 전송했다는 신고 가 등록됨 사이트의 자동화 클라",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "8fba9afffd71",
+   "url": "https://news.hada.io/topic?id=36675",
+   "title": "MS 그림판, 클릭 없이 원격 코드 실행 가능한 취약점 발견",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T23:34:41+00:00",
+   "image": "https://social.news.hada.io/topic/36675?v=e47a36834b13f46362586b85d1b9b811",
+   "summary": "Windows Paint(그림판)에서 인증이나 사용자 조작 없이 원격 코드 실행이 가능한 취약점 이 공개됨.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "f4bca8e823d6",
+   "url": "https://news.hada.io/topic?id=36671",
+   "title": "Nasdaq, 4% 급락하며 조정 국면 진입",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T22:50:36+00:00",
+   "image": "https://social.news.hada.io/topic/36671?v=da9daeeb8f8b2e7996bea4f694011eb5",
+   "summary": "미국 중간선거 이후 데이터센터 증설 둔화 우려 로 기술주 매도가 가속되며 전날 증시 상승분을 지움 Nasdaq Composite는 종가 기준 5.52% 하락 해 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "16e4efc150f9",
+   "url": "https://news.hada.io/topic?id=36670",
+   "title": "모두를 위한 Kagi Search - 가입 없이 50회 무료 검색 지원",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T22:47:36+00:00",
+   "image": "https://social.news.hada.io/topic/36670?v=5b94e4b48ed49292f720c53b09843ac5",
+   "summary": "Kagi Search 가 가입 없이 처음 50회 검색할 수 있는 체험을 도입함.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "7b2932cdf6ed",
+   "url": "https://discuss.pytorch.kr/t/llm-inference-handbook-pd-gpu-modular/12414",
+   "title": "LLM Inference Handbook: 지표부터 PD 분리, GPU 커널, 추론 비용까지 다룬 Modular의 안내서",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-05T22:30:44+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/c/4/c49779e46fa9d0fc8ad699703e9114c427c0f78e_2_1028x578.jpeg",
+   "summary": "핵심 요약 Modular의 LLM Inference Handbook 은 LLM 추론의 지표 정의부터 배칭, KV 캐시, 커널 최적화, 운영 비용까지를 7개 부, ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "418dd8079b34",
+   "url": "https://news.hada.io/topic?id=36669",
+   "title": "Window Sweaters - macOS 창에 뜨개질 무늬 테두리를 입히는 앱",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T21:36:39+00:00",
+   "image": "https://social.news.hada.io/topic/36669?v=b617ee1287019047448cd9960f4b2d30",
+   "summary": "macOS 창에 뜨개질 무늬 테두리를 추가해, 앱마다 다른 색상과 패턴을 입혀 데스크톱을 포근하게 꾸밀 수 있음 Finder, Spotify, Claude, Co",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "f56e2ca2c095",
+   "url": "https://news.hada.io/topic?id=36668",
+   "title": "온라인 잡지 Salon의 작별 인사 - 31년 만에 발행 중단",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-05T21:33:38+00:00",
+   "image": "https://social.news.hada.io/topic/36668?v=14555feafb63f631ca5d22cb9555ead7",
+   "summary": "Salon이 31년 만에 발행을 중단함 .",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "7de36ba22df3",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=677902",
+   "title": "미래에셋그룹, AI·보안 전진배치…증권·운용 중심 조직 재편",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-05T21:19:19+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/677902_292329_121_v150.jpg",
+   "summary": "미래에셋그룹이 인공지능(AI)과 디지털 기술을 중심으로 조직개편과 임원 인사를 단행했다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "bd497b15aa9c",
+   "url": "https://byline.network/2026/11/05_398172-2",
+   "title": "AI 에이전트 제휴사 늘리지 못하던 카카오의 해법은?",
+   "source": "바이라인네트워크",
+   "source_id": "byline",
+   "published_at": "2026-11-05T20:49:33+00:00",
+   "image": "https://cdn.byline.network/wp-content/uploads/2026/10/20261013_kakao_CEO.jpeg",
+   "summary": "카카오가 인공지능(AI) 서비스 확산 속도가 시장 기대에 미치지 못했다고 인정했다.",
+   "category": "ai",
+   "buzz": 0
+  },
   {
    "id": "e9f3d897cfd9",
    "url": "https://news.hada.io/topic?id=36667",
@@ -85,42 +265,6 @@
    "summary": "카카오가 올해 3분기에 주력인 카카오톡 기반의 광고와 커머스 사업 성장으로 호실적을 거뒀지만 인공지능(AI) 서비스 부문의 영업손실이 확대됐다.",
    "category": "business",
    "buzz": 0
-  },
-  {
-   "id": "ea053598b3c4",
-   "url": "https://news.hada.io/topic?id=36663",
-   "title": "내 ISP가 DNS를 가로채고 있었다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T18:07:32+00:00",
-   "image": "https://social.news.hada.io/topic/36663?v=4ede5cd726ab8e4ac64547dbdafa0c16",
-   "summary": "홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, ISP가 DNS 질의를 가로채 자신의 IP 주소를 반환 하고 있었음 Unbound 자체 ",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "d8a325c7cfec",
-   "url": "https://news.hada.io/topic?id=36662",
-   "title": "OpenSSH 10.6p2 - PAM 없는 Alpine의 심각한 보안 문제 우회 조치",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T18:04:31+00:00",
-   "image": "https://social.news.hada.io/topic/36662?v=15fae604e58c7b5275722ad0cd6a09e9",
-   "summary": "Portable OpenSSH 10.6p2 는 musl libc를 사용하고 PAM 지원 없이 빌드하고 실행한 일부 Linux 시스템에서 가능한 비밀번호 인증 우회",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "64b7a0c1f01d",
-   "url": "https://news.hada.io/topic?id=36661",
-   "title": "GPT-6 Astra, 안전 연구에서 사용자 몰래 낮은 성능을 보임",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T18:01:31+00:00",
-   "image": "https://social.news.hada.io/topic/36661?v=f48b2b8c6ae2ca53acaac4370ebaba2a",
-   "summary": "GPT-6 Astra 가 안전 및 정렬 연구에서 불필요한 선행 조건을 추가하거나 작동하는 해결책을 포기하고, 존재하지 않거나 스스로 만든 장애물을 보고하는 행동을",
-   "category": "vibe_coding",
-   "buzz": 1
   },
   {
    "id": "51ae15ca96ce",
@@ -315,30 +459,6 @@
    "buzz": 0
   },
   {
-   "id": "30c7489a0bbb",
-   "url": "https://news.hada.io/topic?id=36660",
-   "title": "Alpine Linux 보안 권고: openssh-server 비밀번호 인증 우회",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T16:54:59+00:00",
-   "image": "https://social.news.hada.io/topic/36660?v=320825ea80c989b5f66b3018e9372d1a",
-   "summary": "Alpine Linux의 특정 SSH 설정에서 공격자가 비밀번호를 모른 채 로그인 할 수 있는 취약점이 확인됨.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "fb230500ff8e",
-   "url": "https://news.hada.io/topic?id=36659",
-   "title": "“전자담배 가게, 네일숍, 자선가게뿐”: 영국 중심 상점가를 살릴 방법은 있을까?",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T16:51:59+00:00",
-   "image": "https://social.news.hada.io/topic/36659?v=40c0ed1ee8ab1c4d5a03a535c53c0f34",
-   "summary": "영국 소비자가 교외 쇼핑단지 로 이동하면서 중심 상점가의 쇠퇴가 이어짐.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "6432bebf0afa",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42606",
    "title": "HP, 새 CEO에 전 GSK 수장 엠마 월름슬리 선임…AI PC·온디바이스 AI 성장 전략 이끈다",
@@ -351,18 +471,6 @@
    "buzz": 1
   },
   {
-   "id": "e07150516bd0",
-   "url": "https://news.hada.io/topic?id=36658",
-   "title": "OpenSSH 10.6p2, 치명적 취약점 우회 조치를 담아 출시",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T16:48:59+00:00",
-   "image": "https://social.news.hada.io/topic/36658?v=95c5a4b8f07a4645d9a86c0cdf93ddee",
-   "summary": "OpenSSH 10.6p2 가 치명적 취약점 완화 조치를 포함해 출시됐으며, 영향 대상은 PAM 없이 musl libc를 사용하는 Linux 시스템임 해당 시스템",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "0d3d7125cea9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217045",
    "title": "메타, AI 코딩 스타트업 컨덕터 인수...병렬 에이전트 조율 기술 확보",
@@ -372,18 +480,6 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217045_221232_3443.png",
    "summary": "메타가 여러 AI 코딩 에이전트를 동시에 실행하고 관리할 수 있도록 지원하는 스타트업 컨덕터(Conductor)를 인수했다.",
    "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "c3015de02293",
-   "url": "https://news.hada.io/topic?id=36657",
-   "title": "Discord, Electron을 버리고 RAM 사용량이 적은 새 앱으로 전환",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T16:45:59+00:00",
-   "image": "https://social.news.hada.io/topic/36657?v=03a6b0a059f43c584c1cdcb6035c55e2",
-   "summary": "Discord가 데스크톱 앱 전체를 Rust로 전환 하며 Electron을 제거하고 있음 모바일에서도 React Native를 제거 하되 네이티브 UI는 유지하고",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -531,18 +627,6 @@
    "buzz": 1
   },
   {
-   "id": "2a39da973ca0",
-   "url": "https://news.hada.io/topic?id=36656",
-   "title": "Awesome 저장소는 더 이상 멋지지 않다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T15:33:33+00:00",
-   "image": "https://social.news.hada.io/topic/36656?v=e32b5c108aefd0c8250c9c3108e88999",
-   "summary": "GitHub의 awesome 목록 은 여전히 좋은 자료를 담을 수 있지만, 자료를 찾는 일반적인 수단으로서의 유용성은 예전보다 떨어짐 적극적으로 관리하지 않은 목",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "f42d741bceb7",
    "url": "https://www.bloter.net/news/articleView.html?idxno=677829",
    "title": "침실에서 병원까지 원스톱…삼성생명, 시니어 돌봄에 AI 접목 [현장+]",
@@ -579,15 +663,15 @@
    "buzz": 2
   },
   {
-   "id": "a869e4d9ecc7",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42603",
-   "title": "삼성, 1.2조 투자한 미래기술 연구 성과 공개…기초과학부터 AI·반도체·차세대 에너지까지 연구 생태계 구축",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-05T14:58:37+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42603_64016_5659_v150.jpg",
-   "summary": "삼성이 지난 14년간 1조2000억원을 투입해 지원한 기초과학과 미래기술 연구 성과를 공개했다.",
-   "category": "ai",
+   "id": "995ee60dddce",
+   "url": "https://tech.kakao.com/posts/846",
+   "title": "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개",
+   "source": "카카오 테크",
+   "source_id": "kakao",
+   "published_at": "2026-11-05T15:00:00+00:00",
+   "image": "https://img1.kakaocdn.net/thumb/U896x0/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakao_tech%2Fmedia%2Fa992c6d001a100001.jpeg",
+   "summary": "안녕하세요, 카카오 Applied AI Model팀의 Shawn(정성효), Michael(이주영)입니다.",
+   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -615,18 +699,6 @@
    "buzz": 2
   },
   {
-   "id": "ab8a0609e566",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=677795",
-   "title": "[어바웃 C] '개발자' 류석문 현대오토에버 대표, AI 수익화 시험대",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-05T13:52:00+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/677795_292225_1846_v150.jpg",
-   "summary": "기업 최고 의사결정권자(CEO, CFO, COO, CIO 등)의 행보에서 투자 인사이트를 얻어 가세요.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "bd93582a1515",
    "url": "https://www.venturesquare.net/1126169",
    "title": "벤처기업협회, 2027년 한국 경제성장률 2.4% 전망…AI 시대 벤처기업 생존 전략은",
@@ -636,18 +708,6 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/in-2-783x522.jpg",
    "summary": "2027년 사업계획을 준비하는 벤처기업에 거시경제 전망과 소비자 행동의 변화는 함께 살펴야 할 변수다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "2c7a9dfdc981",
-   "url": "https://news.hada.io/topic?id=36654",
-   "title": "Sshole - musl 기반 OpenSSH에서 비밀번호 인증을 우회하는 취약점",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T13:34:40+00:00",
-   "image": "https://social.news.hada.io/topic/36654?v=d689476fc235e0e78ee10b06db7a4668",
-   "summary": "musl 기반 Linux에서 PAM 없이 실행되는 OpenSSH 에 특정 계정의 비밀번호 인증을 우회하는 문제가 있음.",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -723,18 +783,6 @@
    "buzz": 1
   },
   {
-   "id": "a8abf88fab29",
-   "url": "https://news.hada.io/topic?id=36653",
-   "title": "돌아온 페인트공 Shlemiel: Zig의 libc 재작성이 SQLite를 느리게 만든 과정",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T13:02:35+00:00",
-   "image": "https://social.news.hada.io/topic/36653?v=50e72ea19a1ab3ffd2aa8478ca6c0380",
-   "summary": "Rust 기반 체스 분석 서비스에서 약 4만 건의 JSON 레코드를 SQLite에 저장하는 데 수 분이 걸리고 CPU 코어 하나가 포화 되는 문제가 발생함 원인은",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "0215e8bfa851",
    "url": "https://www.venturesquare.net/1126097",
    "title": "남도마켓, 스케일업 팁스 선정…도매시장 거래 대화로 주문·재고·정산 자동화하는 AI 개발",
@@ -783,18 +831,6 @@
    "buzz": 0
   },
   {
-   "id": "d1f0a6761758",
-   "url": "https://news.hada.io/topic?id=36652",
-   "title": "Qualcomm Cloud AI 100 Ultra - 128GB 메모리와 548GB/s 대역폭을 갖춘 150W AI 가속기 카드",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-05T11:32:05+00:00",
-   "image": "https://social.news.hada.io/topic/36652?v=1493bc35435849646e47af58a8905c73",
-   "summary": "Cloud AI 100 Ultra 는 생성형 AI와 대규모 언어 모델(LLM)을 위해 설계된 추론 카드로, 대규모 배포에 필요한 성능과 전력 효율, 비용 최적화를",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "162c151006a8",
    "url": "https://discuss.pytorch.kr/t/700-isaac-sim-ncrc-2026/12420",
    "title": "고등학생 700명이 Isaac Sim에서 로봇에게 걷는 법을 가르친 기록 (NCRC 2026)",
@@ -828,7 +864,7 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/e/6/e6a087f09a198822e8f3d2486172ab2f51625ea4_2_1028x667.jpeg",
    "summary": "핵심 요약 MIT CSAIL 연구진은 Sparks of Weight-Space Programming 블로그 글 (2026-11-02)에서 OpenAI의 GPT-6",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "74b877c7b431",
@@ -1059,18 +1095,6 @@
    "buzz": 0
   },
   {
-   "id": "0c61d140a16c",
-   "url": "https://discuss.pytorch.kr/t/109m-jepa-72b-llm-feat-yann-lecun/12393",
-   "title": "플라토닉 표현 정리: 같은 장면의 두 묘사로 학습한 109M JEPA 모델이 72B LLM보다 비전 모델과 더 잘 정렬됨을 확인한 연구 (feat. Yann LeCun)",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-04T06:30:42+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/6/3/63a631af594840a3719d842047b7f622eb3c5ac8_2_1028x690.jpeg",
-   "summary": "핵심 요약 Randall Balestriero와 Yann LeCun의 Proving and Improving the Platonic Representation H",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "7b1974d09fc4",
    "url": "https://www.mobiinside.co.kr/2026/11/04/ai-agent-learning-through-virtual-experience-and-memory",
    "title": "[광화문덕의 AX 행간읽기] AI에게 아무 일도 않 시켰더니, 혼자 놀기 시작했다",
@@ -1092,18 +1116,6 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2026/11/20261027_line_2.jpeg",
    "summary": "라인(LINE)의 한국 법인 라인플러스가 아마존 판매자들의 상품페이지를 만들기 시작했습니다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "3ffd162a4eb3",
-   "url": "https://byline.network/2026/11/1013-16",
-   "title": "투자 앱 이름까지 바꾼 미래에셋증권, AI로 무엇을 노리나",
-   "source": "바이라인네트워크",
-   "source_id": "byline",
-   "published_at": "2026-11-03T15:55:09+00:00",
-   "image": "https://cdn.byline.network/wp-content/uploads/2026/11/1103.jpg",
-   "summary": "미래에셋증권은 테크&인공지능(AI)부문 산하 본부에서 AI 관련 업무를 담당하고 있다.",
-   "category": "business",
    "buzz": 0
   },
   {
@@ -1140,18 +1152,6 @@
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
    "summary": "늘어난 정산 업무를 재무팀은 어떻게 버티고 있을까 한눈에 보기 해외 인플루언서와의 협업이 늘면 정산 업무는 인플루언서 수에 정산 횟수까지 곱해져 늘어납니다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "cfe3ae11b85e",
-   "url": "https://outstanding.kr/startupdbipo20261102",
-   "title": "[스타트업 DB 10월 IPO 리포트] 상장 직후 폭락한 엘리스, 적자 지속된 뱅크샐러드.. 주목할 IPO 23곳",
-   "source": "아웃스탠딩",
-   "source_id": "outstanding",
-   "published_at": "2026-11-02T23:58:10+00:00",
-   "image": "https://outstanding.kr/wp-content/uploads/2026/11/2026-11-03-08-49-25.png",
-   "summary": "폭락과 폭등이 매일 일어나는 시장 엘리스그룹의 주가는 상장 첫날 폭락했습니다.",
-   "category": "vibe_coding",
    "buzz": 0
   }
  ]
