@@ -1,7 +1,139 @@
 {
  "version": 4,
- "generated_at": "2026-11-06T19:26:05+00:00",
+ "generated_at": "2026-11-07T00:57:08+00:00",
  "items": [
+  {
+   "id": "9dd27f29b42d",
+   "url": "https://discuss.pytorch.kr/t/thinking-machines-lab-17b-2-inkling-2-small-tinker/12438",
+   "title": "Thinking Machines Lab, 활성 17B의 2세대 모델 Inkling 2 Small을 Tinker에 먼저 출시 (가중치는 다음 주 공개 예정)",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-07T00:30:35+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/2/a/2ae6a46e7e2c0417e17afc94276ceafd8730810d_2_1028x685.jpeg",
+   "summary": "핵심 요약 Thinking Machines Lab이 Inkling 2 Small 소개 글 에서 2세대 첫 모델을 발표했습니다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "253200a1c9c9",
+   "url": "https://news.hada.io/topic?id=36727",
+   "title": "UEFI를 활용한 베어메탈 프로그래밍 첫걸음",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T22:43:38+00:00",
+   "image": "https://social.news.hada.io/topic/36727?v=e9c9f08dcc9dbd6d5de3a3ddf4eebdb6",
+   "summary": "Linux 워크스테이션 에서 UEFI 펌웨어를 사용하는 PC용 베어메탈 애플리케이션을 개발하는 연재임 숙련된 Linux 개발자 를 대상으로 하며, UEFI 사전 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "ec85ea02a379",
+   "url": "https://news.hada.io/topic?id=36726",
+   "title": "Anthropic IPO 투자자들, 기업가치를 낮게는 약 1,430조원으로 예상",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T22:40:38+00:00",
+   "image": "https://social.news.hada.io/topic/36726?v=c0863f52729b0608abd653941799ce17",
+   "summary": "Anthropic 의 잠재 IPO 투자자 일부가 기업가치를 낮게는 1조 1,000억 달러($1,100b) 로 검토 중인 것으로 관계자를 통해 전해짐 선거 이후 거",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "b763421f861a",
+   "url": "https://news.hada.io/topic?id=36725",
+   "title": "불확실한 사례만 Opus에 맡긴 Jev, 비용은 4분의 1로",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T22:37:38+00:00",
+   "image": "https://social.news.hada.io/topic/36725?v=6654c9f6261d7a41c40d1dc69e6aba81",
+   "summary": "서로 다른 사람의 고객 기록을 잘못 합쳤는지 판별하는 작업 에 저렴한 결정 모델 Jev를 먼저 사용하고, 판단 점수가 애매한 사례만 Opus에 넘기는 방식을 시험",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "eb1c47535436",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678002",
+   "title": "477건 쏟아진 AI 법안…전략위, '기본법' 중심 교통정리",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-06T22:33:27+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678002_292527_3943_v150.jpg",
+   "summary": "국가 인공지능(AI) 전략을 총괄하는 국가AI전략위원회(AI전략위)가 출범 2년 차를 맞아 각 부처에 파편화된 AI 관련 법률 난립을 막기 위해 입법 가이드라인을",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "f85da7ca2a41",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678023",
+   "title": "美 'AI 속도조절론' 틈새 파고든 배경훈…'9.4조 베팅'의 노림수",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-06T21:41:43+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678023_292532_5126_v150.jpg",
+   "summary": "미국 중간선거에서 민주당이 압승하면서 인공지능(AI) 데이터센터 투자에 제동이 걸릴 수 있다는 우려가 나오는 가운데 배경훈 부총리 겸 과학기술정보통신부(과기정통부",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "9e46d9b864b8",
+   "url": "https://news.hada.io/topic?id=36724",
+   "title": "2000년대 초, 게임을 만드는 아이로 산다는 것",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T21:40:50+00:00",
+   "image": "https://social.news.hada.io/topic/36724?v=2b637726a28d20c092b820eec0d88f79",
+   "summary": "The Games Factory 는 대규모 전문가 팀만 게임을 만들 수 있다고 생각하던 어린 Jay Tholen에게 직접 가상 세계를 만드는 길을 열어줌 학교생활",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "d4bb6aaf9eee",
+   "url": "https://news.hada.io/topic?id=36723",
+   "title": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T21:37:50+00:00",
+   "image": "https://social.news.hada.io/topic/36723?v=3db09c7fc12426d61c41e544e1694005",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "09f038422899",
+   "url": "https://news.hada.io/topic?id=36722",
+   "title": "Ask HN: Ubuntu는 도대체 왜 이렇게 오래 걸리는 건가요?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T20:37:23+00:00",
+   "image": "https://social.news.hada.io/topic/36722?v=1c30e50a1dd2df645f4033d63466688b",
+   "summary": "Ubuntu가 CVE-2026-98432 의 심각도를 9.8 로 표시했지만, 거의 일주일째 수정 업데이트 없이 “work in progress” 상태이며 이제는 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "4ee9d8d41890",
+   "url": "https://news.hada.io/topic?id=36721",
+   "title": "미국 FAA, 2028년까지 항공교통관제에서 플로피 디스크 단계적 퇴출 계획",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T20:34:22+00:00",
+   "image": "https://social.news.hada.io/topic/36721?v=acb09a3d757593dcf693022b2cf38e62",
+   "summary": "미국 연방항공청(FAA)이 전국 400곳 이상의 항공교통관제 시설 에서 기상 등 핵심 정보 처리에 사용하는 플로피 디스크를 2028년 말까지 교체 할 계획임 En",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "269ae1d7e646",
+   "url": "https://news.hada.io/topic?id=36720",
+   "title": "이제 모든 것이 AI 사기다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T19:36:38+00:00",
+   "image": "https://social.news.hada.io/topic/36720?v=12231947ad2b26b4cedfe2e7048ce2a8",
+   "summary": "20일 만에 근육질 몸을 만든다는 태극권, 무제한 무료 인터넷 USB, 방을 90초 만에 식힌다는 책 크기의 에어컨 까지, YouTube에 비현실적인 효능을 내세",
+   "category": "ai",
+   "buzz": 0
+  },
   {
    "id": "a30c8c0abdb3",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42629",
@@ -12,6 +144,42 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42629_64049_3429_v150.jpg",
    "summary": "국내 인공지능(AI) 기업 예진(대표 고종현)이 해외 공개 모델의 가중치를 활용하지 않고 처음부터 자체 학습한 한국어 특화 80억 매개변수(8B)급 파운데이션 모",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "3db0c2bf715b",
+   "url": "https://news.hada.io/topic?id=36719",
+   "title": "OpenStreetMap의 실제 건물을 부수는 멀티플레이어 탱크 게임",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T19:33:38+00:00",
+   "image": "https://social.news.hada.io/topic/36719?v=9081422bc2856fa520a97cd9188039be",
+   "summary": "World Strike 는 OpenStreetMap 기반의 실제 도시 지도를 장난감 탱크로 돌아다니는 샌드박스 게임임 블록 형태의 건물을 무너뜨릴 수 있으며, 파",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "e0c50316dca8",
+   "url": "https://news.hada.io/topic?id=36718",
+   "title": "미국 주식시장에서 2조 5,000억 달러가 증발함",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T18:38:37+00:00",
+   "image": "https://social.news.hada.io/topic/36718?v=5854fbd2419093fb886be0386b00da33",
+   "summary": "목요일 급락장에서 AI 인프라 공급업체 의 낙폭이 대형 클라우드 기업보다 컸으며, 나스닥 시가총액은 약 2조 5,000억 달러 줄어듦 대형 클라우드 기업은 기존 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "7af6eae15edb",
+   "url": "https://news.hada.io/topic?id=36717",
+   "title": "AI의 자율 연구개발이 그렇게 독창적이라는 말을 믿기 어렵다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-06T18:35:37+00:00",
+   "image": "https://social.news.hada.io/topic/36717?v=02d863dcaeed64cf5ab4422d55299759",
+   "summary": "Scrabble 엔진, Ultimate Tic-Tac-Toe 봇, 철학 연구 등 세 가지 사이드 프로젝트에서 AI의 기본적인 연구 판단력이 부족했음 .",
+   "category": "etc",
    "buzz": 0
   },
   {
@@ -204,7 +372,7 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42624_64043_5913_v150.jpg",
    "summary": "구글이 최대 15초 길이의 인공지능(AI) 영상을 생성하고 대화형 명령으로 수정할 수 있는 새로운 영상 생성 모델을 공개했다.",
    "category": "ai",
-   "buzz": 2
+   "buzz": 1
   },
   {
    "id": "c3bc6b26d007",
@@ -228,7 +396,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217104_221296_156.png",
    "summary": "구글이 동영상 생성 AI의 최대 영상 길이를 15초로 늘리고 가격을 30% 인하했다.",
    "category": "ai",
-   "buzz": 2
+   "buzz": 1
   },
   {
    "id": "9487cf07c705",
@@ -241,18 +409,6 @@
    "summary": "중간선거 이후 투자자들이 데이터센터 구축 둔화 에 대비하면서 반도체와 데이터센터 공급업체 주식을 중심으로 광범위한 매도세가 나타남 본문 기준 Nasdaq 종합지수",
    "category": "ai",
    "buzz": 0
-  },
-  {
-   "id": "5891e97377c5",
-   "url": "https://news.hada.io/topic?id=36712",
-   "title": "Gemini Omni 1.2 Flash - 최대 15초 영상 생성과 대화형 편집, 가격 30% 인하",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T16:36:54+00:00",
-   "image": "https://social.news.hada.io/topic/36712?v=ebcc2ff36ae9a0836068cbae07b526d6",
-   "summary": "Gemini Omni 1.2 Flash 가 Gemini API와 Gemini for business에서 정식 제공되며, 영상 생성과 편집 길이를 기존 최대 10초",
-   "category": "ai",
-   "buzz": 2
   },
   {
    "id": "aa486c26f0de",
@@ -351,30 +507,6 @@
    "buzz": 0
   },
   {
-   "id": "f26529a5be74",
-   "url": "https://news.hada.io/topic?id=36711",
-   "title": "Kugelblitz - Mac 네이티브 Google Earth 대안",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T15:37:01+00:00",
-   "image": "https://social.news.hada.io/topic/36711?v=def69ec6b6f51c52bb9fb0b626f92aa9",
-   "summary": "Kugelblitz 는 지구와 주변 천체를 3D 지구본과 평면 지도책으로 탐색하는 Mac 앱으로, 실제 지형 위에 영상, 도로 지도, 지형도를 표시함 공개 지리 ",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "71ea7acd5420",
-   "url": "https://news.hada.io/topic?id=36710",
-   "title": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T15:34:00+00:00",
-   "image": "https://social.news.hada.io/topic/36710?v=ca09f389bd16824d7e6cd280bd489ebb",
-   "summary": "",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "33f64c3265f9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217102",
    "title": "\"아내가 챗GPT로 남편 독살 계획\"…오픈AI 피소",
@@ -399,30 +531,6 @@
    "buzz": 0
   },
   {
-   "id": "104ee59f2d8f",
-   "url": "https://news.hada.io/topic?id=36708",
-   "title": "Linux에서 Wikipedia까지, 자원봉사자들은 어떻게 인터넷을 만드는가",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T14:34:20+00:00",
-   "image": "https://social.news.hada.io/topic/36708?v=1ea4f5dd828417a30b555ddb485f72c5",
-   "summary": "동료 생산(peer production) 은 기업의 지휘나 금전적 보상을 주된 동력으로 삼지 않고도 Linux와 Wikipedia 같은 핵심 온라인 자원을 만들어",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "01662ffa38e0",
-   "url": "https://news.hada.io/topic?id=36707",
-   "title": "Show GN: K-Humanizer - 한국어 글에서 번역투를 덜어내는 Agent Skill",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T14:09:29+00:00",
-   "image": "https://social.news.hada.io/topic/36707?v=ba0438d1a1567eb9a1ad1c8183198043",
-   "summary": "AI로 쓴 이력서, 업무 메일, 제품 안내를 다듬는 K-Humanizer를 만들었습니다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "34baef32a39d",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42623",
    "title": "AI 에이전트의 자율 행동까지 보안 검증…정부, 에이전틱 AI 제로트러스트 안내서 발간",
@@ -432,18 +540,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42623_64042_41_v150.jpg",
    "summary": "인공지능이 단순한 정보 생성과 분석을 넘어 외부 시스템에 접근하고 업무를 자율적으로 수행하는 에이전틱 AI(Agentic AI)로 발전하면서, AI 에이전트의 행",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "ba7f1cddbc06",
-   "url": "https://news.hada.io/topic?id=36706",
-   "title": "Show GN: product design_harness - 아이디어부터 기획, 와이어프레임, 프로토타입 검증까지 연결하는 AI 하네스",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T13:56:13+00:00",
-   "image": "https://social.news.hada.io/topic/36706?v=a6df49aa9b15b556ab60fc64232adc4a",
-   "summary": "매번 AI에게 와이어프레임을 바로 그려달라고 하면 매번 실패해서 직접 만들어보았습니다.",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -471,18 +567,6 @@
    "buzz": 0
   },
   {
-   "id": "3a726c51b8e5",
-   "url": "https://news.hada.io/topic?id=36705",
-   "title": "pwn.college - 실습으로 사이버보안을 배우는 무료 교육 플랫폼",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T12:37:54+00:00",
-   "image": "https://social.news.hada.io/topic/36705?v=03daecc811825d10cf55d845eaf49784",
-   "summary": "pwn.college 는 컴퓨팅의 핵심을 깊이 탐구하며 사이버보안 기술을 배우고 연습하는 실습형 교육 플랫폼임 Arizona State University(ASU",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "ce6708d6ea46",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42621",
    "title": "AI 확산 속 격차 더 커졌다…대기업 도입률 52%, 청년과 고령층 활용률 5배 차이",
@@ -495,18 +579,6 @@
    "buzz": 0
   },
   {
-   "id": "2c11d5bf5d49",
-   "url": "https://news.hada.io/topic?id=36704",
-   "title": "네덜란드 ‘이상주의’ 은행 ASN, GrapheneOS 등 비Google Android 차단",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T12:34:54+00:00",
-   "image": "https://social.news.hada.io/topic/36704?v=3c28fb00ce2be127583396fd205914b7",
-   "summary": "ASN Bank의 iDEAL | Wero 결제 가 GrapheneOS에서 보안 요구사항 미충족으로 차단된다는 사용자 보고가 나옴.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "376e21bc60b6",
    "url": "https://www.venturesquare.net/1126482",
    "title": "한국모니터링시스템, 용접 품질을 읽는 기술에서 공정을 제어하는 AI로",
@@ -515,42 +587,6 @@
    "published_at": "2026-11-06T11:54:53+00:00",
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Monisys.png",
    "summary": "<한국모니터링시스템 로고> 1994년 성수대교 붕괴사고에서는 용접 불량과 부실시공, 유지관리 소홀 등이 복합적인 원인으로 지적됐다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "72b0e96a6926",
-   "url": "https://news.hada.io/topic?id=36703",
-   "title": "Baidu, 사전학습 기반 모델 ERNIE 5.5 Flash Base 공개",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T11:45:59+00:00",
-   "image": "https://social.news.hada.io/topic/36703?v=78eb5b3b3eb7c39e1ab1f58e35fa75aa",
-   "summary": "Baidu가 ERNIE-5.5-Flash-Base 의 사전학습 종료 시점 가중치를 공개함.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "e90cc6269d6d",
-   "url": "https://news.hada.io/topic?id=36702",
-   "title": "양측 인공와우 사용자인 나의 정신물리학",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T11:42:59+00:00",
-   "image": "https://social.news.hada.io/topic/36702?v=67b0fd1e2c65fcee0a94bcf4a9db1867",
-   "summary": "",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "c6fff768178e",
-   "url": "https://news.hada.io/topic?id=36701",
-   "title": "Blender의 UI와 런타임: GPUI보다 훨씬 빠름",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-06T11:39:59+00:00",
-   "image": "https://social.news.hada.io/topic/36701?v=c1f2a72fdfed037b1aaad0b4c3749309",
-   "summary": "BUI 는 Blender의 위젯 그리기와 상호작용을 분리한 독립 UI 라이브러리로, Python, Rust, JavaScript, C/C++, Dear ImGui",
    "category": "ai",
    "buzz": 0
   },
@@ -841,18 +877,6 @@
    "summary": "입원 환자의 상태 악화를 미리 예측하는 의료 AI 기업 에이아이트릭스가 홍콩 정부의 전략기업 유치 대상에 이름을 올렸다.",
    "category": "business",
    "buzz": 1
-  },
-  {
-   "id": "7b2932cdf6ed",
-   "url": "https://discuss.pytorch.kr/t/llm-inference-handbook-pd-gpu-modular/12414",
-   "title": "LLM Inference Handbook: 지표부터 PD 분리, GPU 커널, 추론 비용까지 다룬 Modular의 안내서",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-05T22:30:44+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/c/4/c49779e46fa9d0fc8ad699703e9114c427c0f78e_2_1028x578.jpeg",
-   "summary": "핵심 요약 Modular의 LLM Inference Handbook 은 LLM 추론의 지표 정의부터 배칭, KV 캐시, 커널 최적화, 운영 비용까지를 7개 부, ",
-   "category": "vibe_coding",
-   "buzz": 0
   },
   {
    "id": "bd497b15aa9c",
