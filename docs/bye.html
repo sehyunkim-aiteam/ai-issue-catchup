@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>AI 이슈 따라잡기 삭제 설문</title>
+<link rel="icon" type="image/png" sizes="32x32" href="icons/icon32.png">
+<style>
+  @font-face { font-family: "Noto Sans KR"; src: url(fonts/NotoSansKR-subset.woff2) format("woff2"); font-weight: 100 900; }
+  :root { --bg:#fbfbfc; --surface:#fff; --text:#16181d; --text-2:#3d4149; --muted:#686e79; --line:#e3e6eb; --active:#eef1f5; --accent:#2f6fe0; --on-accent:#fff; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg:#17181c; --surface:#1f2126; --text:#eceef1; --text-2:#c9cdd4; --muted:#8b919b; --line:#2c2f36; --active:#2a2d34; --accent:#7ea6ff; --on-accent:#111317; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 "Noto Sans KR", -apple-system, "Apple SD Gothic Neo", sans-serif; }
+  main { max-width: 560px; margin: 0 auto; padding: 48px 16px 64px; }
+  .brand { display: inline-flex; flex-direction: column; font-weight: 900; line-height: .86; white-space: nowrap; margin-bottom: 32px; }
+  .bl1 { font-size: 27px; letter-spacing: -.04em; }
+  .bl2 { font-size: 22px; letter-spacing: -.07em; margin-left: -1.15px; margin-top: 1px; }
+  h1 { font-size: 22px; line-height: 1.4; margin: 0 0 8px; letter-spacing: -.02em; }
+  .lead { color: var(--text-2); margin: 0 0 24px; }
+  form { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px; }
+  fieldset { border: 0; margin: 0; padding: 0; }
+  legend { font-weight: 700; margin-bottom: 4px; padding: 0; }
+  .hint { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+  .opt { display: flex; gap: 10px; align-items: flex-start; padding: 10px 12px; border-radius: 10px; cursor: pointer; }
+  .opt:hover { background: var(--active); }
+  .opt input { margin: 4px 0 0; width: 16px; height: 16px; accent-color: var(--accent); flex: none; }
+  textarea { display: block; width: 100%; margin: 4px 0 0; padding: 10px 12px; min-height: 76px; resize: vertical; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--text); font: inherit; }
+  textarea:focus { outline: 2px solid var(--accent); outline-offset: -1px; border-color: transparent; }
+  .count { color: var(--muted); font-size: 12px; text-align: right; margin-top: 4px; }
+  .actions { display: flex; align-items: center; gap: 12px; margin-top: 16px; }
+  button { border: 0; border-radius: 10px; padding: 10px 18px; background: var(--accent); color: var(--on-accent); font: inherit; font-weight: 700; cursor: pointer; }
+  button:disabled { opacity: .4; cursor: default; }
+  .note { color: var(--muted); font-size: 13px; }
+  .done { display: none; margin-top: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 24px 20px; }
+  .done p { margin: 0 0 8px; }
+  a { color: var(--accent); }
+  .foot { margin-top: 24px; color: var(--muted); font-size: 13px; }
+</style>
+</head>
+<body>
+<main>
+  <span class="brand" aria-label="AI 이슈 따라잡기"><span class="bl1" aria-hidden="true">AI이슈</span><span class="bl2" aria-hidden="true">따라잡기</span></span>
+  <h1>삭제가 완료됐어요. 그동안 써 주셔서 고맙습니다.</h1>
+  <p class="lead">더 나은 서비스를 만들 수 있게, 삭제하신 이유를 알려 주세요. 10초면 끝나요.</p>
+
+  <form id="survey">
+    <fieldset>
+      <legend>삭제한 이유가 무엇인가요?</legend>
+      <p class="hint">해당하는 것을 모두 골라 주세요.</p>
+      <div id="options"></div>
+      <textarea id="other" name="other" maxlength="100" placeholder="자유롭게 적어 주세요 (100자 이내, 이름·연락처는 적지 말아 주세요)" hidden></textarea>
+      <div class="count" id="count" hidden>0/100</div>
+    </fieldset>
+    <div class="actions">
+      <button type="submit" id="submit" disabled>보내기</button>
+      <span class="note">답변은 익명으로 저장돼요.</span>
+    </div>
+  </form>
+
+  <div class="done" id="done" role="status">
+    <p><strong>소중한 의견 고맙습니다.</strong> 보내 주신 내용은 콘텐츠와 화면을 고치는 데 쓸게요.</p>
+    <p>확장 프로그램 없이도 <a href="./">웹에서 AI 이슈 따라잡기</a>를 계속 볼 수 있어요.</p>
+  </div>
+
+  <p class="foot"><a href="privacy.html">개인정보처리방침</a></p>
+</main>
+
+<script type="module">
+import { GA_MEASUREMENT_ID, GA_API_SECRET } from "./config.js";
+
+// 제거 사유 선택지. code는 GA4 uninstall_reason 이벤트의 reason 값이다(바꾸면 집계가 끊기니 라벨만 고칠 것).
+const REASONS = [
+  ["need_default_newtab", "원래 쓰던 새 탭(구글 검색창·바로가기)이 필요해요"],
+  ["not_interested",      "관심 있는 기사가 별로 없어요"],
+  ["not_fresh",           "새 소식이 자주 안 올라오거나 같은 기사가 반복돼요"],
+  ["low_quality",         "요약이나 분류가 정확하지 않아요"],
+  ["cluttered",           "화면이 복잡하거나 정보가 너무 많아요"],
+  ["slow_or_broken",      "느리거나 제대로 열리지 않아요"],
+  ["have_alternative",    "다른 뉴스 앱·서비스로 충분해요"],
+  ["just_trying",         "잠깐 써 보려고 설치했어요"],
+  ["other",               "기타 (직접 입력)"],
+];
+
+const q = new URLSearchParams(location.search);
+const uid = /^[0-9a-f-]{36}$/i.test(q.get("uid") || "") ? q.get("uid") : crypto.randomUUID();
+const version = (q.get("v") || "").slice(0, 20);
+const installedAt = Number(q.get("i")) || 0;
+const installDays = installedAt ? Math.max(0, Math.floor((Date.now() - installedAt) / 86400000)) : -1;   // -1 = 모름(0.1.3 이전 설치)
+const sessionId = String(Math.floor(Date.now() / 1000));
+const IS_DEV = ["localhost", "127.0.0.1"].includes(location.hostname);
+const LOG_URL = GA_MEASUREMENT_ID && GA_API_SECRET
+  ? `https://www.google-analytics.com/${IS_DEV ? "debug/" : ""}mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`
+  : "";
+
+function send(events) {
+  if (!LOG_URL) return;
+  const body = JSON.stringify({
+    client_id: uid,   // 확장과 같은 uid → 설치·사용 기록과 이어진다
+    events: events.map(([name, params]) => ({ name, params: {
+      session_id: sessionId, engagement_time_msec: 1,
+      platform: "extension", app_version: version || "unknown", install_days: installDays, ...params,
+    } })),
+  });
+  try {
+    if (!navigator.sendBeacon(LOG_URL, new Blob([body], { type: "text/plain" }))) throw new Error("beacon");
+  } catch {
+    fetch(LOG_URL, { method: "POST", body, keepalive: true, mode: "no-cors" }).catch(() => {});
+  }
+}
+
+// 확장에서 넘어온 경우에만 uninstall을 센다. 새로고침으로 두 번 세지 않게 uid별로 한 번만.
+const once = (key) => { try { if (localStorage.getItem(key)) return false; localStorage.setItem(key, "1"); } catch {} return true; };
+if (q.get("uid") && once(`bye:${uid}`)) send([["uninstall", {}]]);
+
+const $ = (s) => document.querySelector(s);
+$("#options").innerHTML = REASONS.map(([code, label]) =>
+  `<label class="opt"><input type="checkbox" name="reason" value="${code}"><span>${label}</span></label>`).join("");
+
+const other = $("#other"), count = $("#count"), submit = $("#submit");
+function refresh() {
+  const picked = [...document.querySelectorAll('input[name="reason"]:checked')].map((el) => el.value);
+  const hasOther = picked.includes("other");
+  other.hidden = count.hidden = !hasOther;
+  count.textContent = `${other.value.length}/100`;
+  submit.disabled = picked.length === 0 || (hasOther && picked.length === 1 && !other.value.trim());
+  return picked;
+}
+$("#survey").addEventListener("input", refresh);
+
+$("#survey").addEventListener("submit", (e) => {
+  e.preventDefault();
+  const picked = refresh();
+  if (!picked.length) return;
+  const text = other.value.trim().slice(0, 100);
+  // 사유 하나당 이벤트 하나 → GA4에서 reason별 건수를 바로 센다. 자유 입력은 other 이벤트에만 싣는다.
+  send(picked.map((code) => ["uninstall_reason", {
+    reason: code, reason_count: picked.length, ...(code === "other" && text ? { reason_text: text } : {}),
+  }]));
+  $("#survey").style.display = "none";
+  $(".lead").style.display = "none";
+  $("#done").style.display = "block";
+});
+</script>
+</body>
+</html>

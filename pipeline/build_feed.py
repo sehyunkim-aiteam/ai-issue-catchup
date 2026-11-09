@@ -34,6 +34,7 @@ from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
 import feedparser
 
 sys.path.insert(0, str(Path(__file__).parent))
+import archive  # noqa: E402
 from sources import SOURCES  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -395,6 +396,8 @@ def main() -> None:
     OUT.write_text(json.dumps(feed, ensure_ascii=False, indent=1))
     hot = sum(1 for it in feed["items"] if it["buzz"] > 0)
     print(f"→ {OUT.relative_to(ROOT)}: {len(feed['items'])}건 (다른 매체도 다룬 이슈 {hot}건)")
+    archive.update(feed["items"], feed["generated_at"], FEED_VERSION,
+                   {it["id"]: len(it.get("_excerpt") or "") for it in items})
 
 
 if __name__ == "__main__":

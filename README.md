@@ -12,6 +12,7 @@ GitHub Actions (3시간마다)
        · 한 줄 요약 = RSS 본문 첫 문장(기자명·머리말 제거)
        · 카테고리(AI/Vibe Coding/Business/etc) = 키워드 규칙 → 소스 기본값
        · 화제도(buzz) = 48시간 안에 같은 이슈를 다룬 다른 매체 수 → '인기 콘텐츠' 순위 (조회수 아님)
+    → archive/YYYY-MM.jsonl 누적 (pipeline/archive.py, 피드에 실린 기사를 id 기준으로 계속 보관 — 행동 로그 조인용)
         │
         ▼  GitHub Pages (정적 JSON, CORS *)
 extension/ (MV3, 새 탭 대체) ── ./sync-web.sh ──▶ docs/index.html (같은 화면의 반응형 웹)

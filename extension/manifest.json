@@ -3,7 +3,11 @@
   "name": "AI 이슈 따라잡기 - 새 탭에서 매일 AI 트렌드",
   "short_name": "AI 이슈 따라잡기",
   "description": "새 탭을 열면 최신 AI·테크·비즈니스 뉴스를 한국어 한 줄 요약으로 보여줍니다.",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },

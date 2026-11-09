@@ -1,6 +1,8 @@
 # Chrome 웹스토어 등록 자료
 
-업로드 파일: `dist/ai-issue-catchup-0.1.1.zip` (`./package.sh`로 생성)
+스토어: https://chromewebstore.google.com/detail/ndbinocomhjfpngpbljeaebehnokgdgo (확장 ID `ndbinocomhjfpngpbljeaebehnokgdgo`, 0.1.2 게시 2026-11)
+
+업로드 파일: `dist/ai-issue-catchup-0.1.3.zip` (`./package.sh`로 생성)
 
 ## 스토어 등록정보 탭
 
@@ -10,7 +12,7 @@
 | 요약(132자) | manifest에서 자동: `새 탭을 열면 최신 AI·테크·비즈니스 뉴스를 한국어 한 줄 요약으로 보여줍니다.` |
 | 카테고리 | 뉴스 및 날씨 |
 | 언어 | 한국어 |
-| 스토어 아이콘 | `extension/icons/icon128.png` |
+| 스토어 아이콘 | `store/store-icon-128.png` (96px 그림 + 사방 16px 투명 여백, 웹스토어 권장 규격) |
 | 스크린샷 | `store/store-shot1-1280x800.png`, `store/store-shot2-1280x800.png` |
 | 작은 프로모션 타일 | `store/store-promo-440x280.png` |
 | 공식 URL / 홈페이지 | https://sehyunkim-aiteam.github.io/ai-issue-catchup/ |
@@ -36,7 +38,7 @@ AI 이슈 따라잡기는 새 탭 화면에 국내 AI·테크·비즈니스 매�
 3시간마다 새 소식으로 자동 갱신됩니다. 확장 프로그램을 업데이트하지 않아도 됩니다.
 
 ■ 개인정보
-이름·이메일·검색어·다른 사이트 방문 기록은 수집하지 않습니다. 서비스 개선을 위해 새 탭 열기와 기사 클릭 기록만 무작위 식별값과 함께 Google Analytics로 보냅니다. 저장한 기사와 설정은 사용자의 브라우저에만 보관됩니다.
+이름·이메일·검색어·다른 사이트 방문 기록은 수집하지 않습니다. 서비스 개선을 위해 새 탭 열기·기사 클릭·설치/삭제 기록만 무작위 식별값과 함께 Google Analytics로 보냅니다. 저장한 기사와 설정은 사용자의 브라우저에만 보관됩니다.
 
 모든 기사의 저작권은 각 매체에 있으며, 카드를 누르면 원문 페이지로 이동합니다.
 게시 중단 요청은 지원 페이지(GitHub Issues)로 남겨 주세요.
@@ -50,7 +52,7 @@ AI 이슈 따라잡기는 새 탭 화면에 국내 AI·테크·비즈니스 매�
 | `storage` 권한 사유 | 뉴스 피드 캐시(빠른 표시용), 사용자가 저장한 기사, 읽음 표시, 카테고리·화면 모드 설정, 무작위 설치 식별값을 사용자 브라우저에 보관하기 위해 사용합니다. |
 | 호스트 권한 | 없음 (요청하지 않음) |
 | 원격 코드 사용 | 아니요. 모든 스크립트는 패키지에 포함되어 있으며, 외부에서는 뉴스 데이터(JSON)만 받아옵니다. 사용 기록은 Google Analytics Measurement Protocol로 데이터만 전송합니다(외부 스크립트 로드 없음). |
-| 데이터 사용 — 수집 항목 | **사용자 활동**만 체크 (새 탭 열기·기사 클릭 기록) |
+| 데이터 사용 — 수집 항목 | **사용자 활동**만 체크 (새 탭 열기·기사 클릭·설치/업데이트/삭제 기록). 삭제 설문은 확장 밖 웹페이지에서 받는다 |
 | 데이터 사용 인증 3개 | 모두 체크 (판매 안 함 / 핵심 기능 외 사용 안 함 / 신용도 판단 사용 안 함) |
 | 개인정보처리방침 URL | https://sehyunkim-aiteam.github.io/ai-issue-catchup/privacy.html |
 
