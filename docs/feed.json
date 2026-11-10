@@ -1,7 +1,259 @@
 {
  "version": 4,
- "generated_at": "2026-11-10T17:04:13+00:00",
+ "generated_at": "2026-11-10T23:24:12+00:00",
  "items": [
+  {
+   "id": "fd5b9b6210a8",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42679",
+   "title": "앤트로픽, 86조원 규모 기업공개 가속…기업 가치 1880조원 목표, 나스닥 상장 위한 투자자 설명회 돌입",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-10T23:45:41+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42679_64110_4518_v150.jpg",
+   "summary": "생성형 인공지능(AI) 기업 앤트로픽(Anthropic)이 미국 증시 상장을 위한 투자자 설명회에 돌입하며 초대형 기업공개(IPO)를 본격화했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "27c25f05a844",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21924",
+   "title": "딥엑스, 삼성 2나노 AI 반도체로 CES 2027 혁신상 수상",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-10T23:18:49+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21924_22718_1514.jpg",
+   "summary": "딥엑스는 차세대 AI 반도체 ‘DX-M2’가 미국소비자기술협회(CTA)가 주관하는 CES 2027 혁신상 AI 부문 수상 제품으로 선정됐다고 10일 밝혔다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "5b14daa0cc5d",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21923",
+   "title": "AMD 에픽, 구글 차세대 TPU에 탑재...AI 데이터 보호 지원",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-10T23:13:18+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21923_22717_711.jpg",
+   "summary": "AMD가 구글의 차세대 AI 가속기 시스템에 서버용 중앙처리장치(CPU)를 공급한다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "8d8263bc755d",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21922",
+   "title": "파네시아, 글로벌 경영 체제 구축...미주·한국 사업 총괄 체계 정비",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-10T23:04:08+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21922_22716_5738.jpg",
+   "summary": "파네시아는 미국 법인을 설립하고 엘리스 윌슨(Ellis Wilson) 박사와 권미령 최고운영책임자(COO)를 각각 프레지던트(총괄대표)로 선임했다고 10일 밝혔다",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "5eef9f6dee13",
+   "url": "https://www.venturesquare.net/1126950",
+   "title": "[부산에서 발굴한 초기스타트업 ➁] 이용은 데이터스피라 대표 “돌체앤가바나가 선택한 기술, QR코드 뒤에 답이 있습니다”",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-10T23:00:15+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/ce0-696x522.jpg",
+   "summary": "명품 가방에 붙은 QR코드를 스마트폰으로 찍으면 무엇을 알 수 있을까.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "5a3f3e6615d0",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21921",
+   "title": "AWS, 의료 AI 격차 해소에 1억 달러 투입...5년간 글로벌 지원",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-10T22:54:57+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21921_22715_4839.jpg",
+   "summary": "아마존웹서비스(AWS)가 AI와 클라우드 기술을 활용해 글로벌 의료 격차 해소에 나선다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "6751abbcd5a6",
+   "url": "https://news.hada.io/topic?id=36962",
+   "title": "Synaptics의 특허 침해 주장으로 DisplayLink 드라이버 개발 중단",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T21:40:04+00:00",
+   "image": "https://social.news.hada.io/topic/36962/p369154d8e1982c41eaaeae6f1b29e7d",
+   "summary": "Linux용 DisplayLink 드라이버의 충돌을 해결하려던 개인 개발자가 Synaptics의 특허 침해 주장과 중단 요구 를 받고, 새 드라이버 Vino의 공",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "86e7590156f1",
+   "url": "https://news.hada.io/topic?id=36961",
+   "title": "Val Town, 단계적으로 서비스 종료",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T21:37:03+00:00",
+   "image": "https://social.news.hada.io/topic/36961/p6af8b8cbe4bdf3bd2f4ec3504d27d93",
+   "summary": "Val Town 이 클라우드 컴퓨팅 시장에서 경쟁하지 못해 서비스를 단계적으로 종료하기로 함 2026년 11월 10일부터 과금을 중단 하고 기존 구독에는 무료로 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "3d285bbe3c30",
+   "url": "https://news.hada.io/topic?id=36960",
+   "title": "내 SSH 키를 모두 삭제했다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T20:41:36+00:00",
+   "image": "https://social.news.hada.io/topic/36960/p26a61ff5dea4ec5520a1575faa66c01",
+   "summary": "YubiKey, TPM, Apple Secure Enclave 를 조합해 모든 개인 환경에서 기존 디스크 저장형 SSH 키를 대체하고, 보호되지 않은 키 재료가 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "af7b87834687",
+   "url": "https://news.hada.io/topic?id=36959",
+   "title": "Queens Public Library, 랜섬웨어 공격으로 네트워크 장애 발생",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T20:39:05+00:00",
+   "image": "https://social.news.hada.io/topic/36959/p29bc422fb1c0f8a62dd30f7d4eba3cc",
+   "summary": "Queens Public Library(QPL) 가 랜섬웨어 공격을 받아 모든 지점에 영향을 미치는 대규모 네트워크 장애를 겪고 있음 웹사이트와 QPL Mobil",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "9c026018ec7a",
+   "url": "https://news.hada.io/topic?id=36958",
+   "title": "Claude Whiteboards, Claude Sheets, Claude Data - 팀 협업 보드, 스프레드시트, 데이터 분석 도구",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T20:38:41+00:00",
+   "image": "https://social.news.hada.io/topic/36958/p1e10d14c7458e8047a83d877ea7535a",
+   "summary": "Anthropic이 Claude Whiteboards와 Sheets를 베타 출시 하고, 기존 Claude Dashboards를 Claude Data로 정식 출시 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "88390749c8ac",
+   "url": "https://news.hada.io/topic?id=36957",
+   "title": ".NET 11 런타임의 새로운 기능",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T20:36:05+00:00",
+   "image": "https://social.news.hada.io/topic/36957/p685304646b18e392bd5e068bfc2f7f5",
+   "summary": "Runtime Async V2 가 미리보기로 도입돼 컴파일러 생성 상태 머신 대신 런타임이 비동기 실행의 중단과 재개를 관리함.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "a0544c7507d3",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42678",
+   "title": "\"말만 하면 지도 앱이 완성된다”…구글, 제미나이·구글맵 결합해 AI 앱 개발 자동화",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-10T20:22:26+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42678_64109_223_v150.jpg",
+   "summary": "복잡한 프로그래밍이나 지도 API 설정 없이 자연어로 원하는 기능을 설명하는 것만으로 실제 지도 데이터를 활용하는 애플리케이션을 개발할 수 있는 기술이 공개됐다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "18676bf566bf",
+   "url": "https://news.hada.io/topic?id=36955",
+   "title": "AI 사용은 취약한 코드베이스를 만든다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T19:33:28+00:00",
+   "image": "https://social.news.hada.io/topic/36955/p88e50307cc89e6aa9a165e92612ad11",
+   "summary": "AI는 당장 주어진 코딩 문제를 잘 풀어도 , 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움 AI가 만든 테스트는 이미 다루는 동작을 반복",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "50696abcbcd7",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42677",
+   "title": "AI 에이전트가 정부 시스템 무단 침입…호주, AI 사고 신고 의무화·독립 규제기관 신설 추진",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-10T19:16:31+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42677_64108_1612_v150.jpg",
+   "summary": "AI 에이전트가 정부 시스템에 무단 접근한 사건을 계기로 호주가 AI 기업의 사고 신고를 의무화하고 독립적인 안전 규제기관을 신설하기로 했다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "7cb2e9d2b3d7",
+   "url": "https://news.hada.io/topic?id=36954",
+   "title": "Ableton Live 13 - 스텝 시퀀서와 ARA 2 지원을 추가한 차기 주요 버전",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T18:44:52+00:00",
+   "image": "https://social.news.hada.io/topic/36954/p18d13c6ff2f8af433e3b374a57f62d9",
+   "summary": "Live 13 은 2027년 초 출시 예정으로, 오디오/MIDI 작업 흐름과 사운드 디자인, 믹싱 도구를 확장하며 Live 12에서 가능했던 작업을 그대로 지원함",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "3b7e2f7a2cab",
+   "url": "https://news.hada.io/topic?id=36953",
+   "title": "스마트 홈 기기는 인터넷 없이도 작동해야 한다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "image": "https://social.news.hada.io/topic/36953/p41a12ee56749c9576aba57b0e5f5866",
+   "summary": "핵심 기능은 제조사 서버에 의존하지 않아야 한다 는 원칙으로, ESP 보드의 Tasmota, MQTT, Raspberry Pi의 Node-RED를 중심으로 집을 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "cd195ba187d4",
+   "url": "https://news.hada.io/topic?id=36952",
+   "title": ".name 기존 도메인과 이메일 리디렉션 유지 확정",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T18:38:51+00:00",
+   "image": "https://social.news.hada.io/topic/36952/p4fbc86dc1a43a3159e1a519e2ca3e03",
+   "summary": "Verisign 이 도메인 이름과 이메일 리디렉션 2만 2,000개를 종료하려던 계획을 철회함 3단계.name 도메인 의 신규 등록은 중단할 예정임 기존 도메인과",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "c029d7d0cedd",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678253",
+   "title": "KT의 투트랙 전략…'통신 수익성 방어·AI 확장'",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-10T18:16:29+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678253_292872_535_v150.jpg",
+   "summary": "KT가 올해 3분기에 지난해 해킹 사고 여파로 진행된 고객 보답 프로그램과 일회성으로 반영됐던 부동산 분양이익에 따른 기저효과로 수익성이 둔화됐다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "f4c46e5c083c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217239",
+   "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-10T18:14:53+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217239_221454_354.jpg",
+   "summary": "구글 '제미나이'와 앤트로픽 '클로드'의 추격에도 오픈AI의 '챗GPT'가 글로벌 AI 챗봇 시장에서 압도적인 지위를 유지하고 있는 것으로 나타났다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "0aef3fb6ca55",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217243",
+   "title": "클로드 페이블 5.2, 전자기기 3종 설계…회로 수정 없이 시제품 제작",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-10T18:05:28+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217243_221460_4318.png",
+   "summary": "앤트로픽이 '클로드'로 전자기기 3종을 설계하고, 회로 수정 없이 모두 작동하는 시제품을 제작하는 데 성공했다.",
+   "category": "ai",
+   "buzz": 0
+  },
   {
    "id": "1bc9c96b21c4",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217222",
@@ -63,6 +315,18 @@
    "buzz": 1
   },
   {
+   "id": "927f5c5a4437",
+   "url": "https://news.hada.io/topic?id=36951",
+   "title": "Blender 5.3 출시, Gaussian Splat 지원 추가",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T17:42:02+00:00",
+   "image": "https://social.news.hada.io/topic/36951/p2bd7bfd118c5072e980310ceaf6fcad",
+   "summary": "3D Gaussian Splats를 기본 지원 해 PLY, SPZ, glTF 파일을 포인트 클라우드로 가져오고 Geometry Nodes로 가공한 뒤 EEVEE,",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
    "id": "ec57ad6d0c48",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217246",
    "title": "KT, 3분기 실적 주춤...B2B·AX로 반등 노려",
@@ -84,6 +348,18 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217231_221449_109.png",
    "summary": "앤트로픽의 '클로드'가 로봇 팔을 이용해 밤새 수채화를 완성한 사례가 공개됐다.",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "000ff26586ea",
+   "url": "https://news.hada.io/topic?id=36950",
+   "title": "Google, 복잡한 코딩과 연구를 위한 Gemini 4 Carbon 일반 공개",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T17:39:01+00:00",
+   "image": "https://social.news.hada.io/topic/36950/pf1009381ad5f15866459eb1af1c83ac",
+   "summary": "Google이 Gemini 4 Carbon 을 개발자, 기업, 과학자, 일반 사용자에게 공개함.",
+   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -168,7 +444,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217227_221446_324.png",
    "summary": "아마존웹서비스(AWS)는 의료 소외 계층의 의료 격차 해소 솔루션을 구축하는 기관에 AI와 클라우드 인프라를 지원하는 ‘AWS 헬스 임팩트 이니셔티브’를 발표했다",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "01a63b40ea03",
@@ -267,18 +543,6 @@
    "buzz": 0
   },
   {
-   "id": "97bbf3ade7fc",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217237",
-   "title": "[AI 모델 신작] 가상 세계 실시간 탐험부터 22MB 이미지 분석 AI까지 6종",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-10T15:58:06+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217237_221452_4334.png",
-   "summary": "월드랩스, AI 생성 가상 세계 실시간 탐험하는 '프레임보이' 공개월드랩스가 월드 모델 '아틀라스(Atlas)'로 생성한 가상 세계를 게임처럼 실시간으로 탐험할 ",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "c3632e2fd5e8",
    "url": "https://www.bloter.net/news/articleView.html?idxno=678211",
    "title": "AI가 직접 게임 백엔드 연동…최석원 대표 \"하이브 액실 글로벌 공략\"",
@@ -303,18 +567,6 @@
    "buzz": 0
   },
   {
-   "id": "63bccdfae56b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217234",
-   "title": "프랑스 \"슈퍼마켓 냉장고 해킹 배후는 이란\"…EU 추가 제재 추진",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-10T15:29:10+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217234_221450_2424.jpg",
-   "summary": "프랑스 정부가 지난달 수백개 슈퍼마켓의 냉장·냉동시설을 마비시킨 사이버 공격의 배후로 이란 혁명수비대를 지목했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "f5b9ec1f13a0",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21917",
    "title": "구글, TPU 8세대 4종 공개...AI 에이전트 맞춤형 반도체 강화",
@@ -324,19 +576,7 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21917_22710_4449.jpg",
    "summary": "구글 클라우드는 9일(현지시간) 8세대 텐서처리장치(TPU) 제품군에 ‘TPU 8tx’와 ‘TPU 8i 맥스’를 추가한다고 발표했다.",
    "category": "ai",
-   "buzz": 2
-  },
-  {
-   "id": "09166b875498",
-   "url": "https://news.hada.io/topic?id=36945",
-   "title": "2026년, 엔지니어로 살아간다는 것",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T14:39:48+00:00",
-   "image": "https://social.news.hada.io/topic/36945/p2aac7acb728705f80b7e084bad0f094",
-   "summary": "코드 작성과 디버깅, 설계까지 에이전트에 맡기는 일이 늘었지만, 비슷한 AI 도구를 쓰는 엔지니어 사이에서도 결과물의 격차 가 있으며, 그 차이는 어디서 오는지 ",
-   "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "e2cdf3687411",
@@ -348,18 +588,6 @@
    "image": "https://cdn.bloter.net/news/thumbnail/202611/678216_292792_5357_v150.jpg",
    "summary": "㈜두산이 중국과 대만 경쟁사들의 추격에도 엔비디아의 차세대 인공지능(AI) 가속기용 동박적층판(CCL) 시장에서 공급 우위를 유지하고 있다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "a55fae481ced",
-   "url": "https://news.hada.io/topic?id=36944",
-   "title": "AlphaProof Code - Signal 암호화 구현을 기계어 수준에서 형식 검증",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T14:36:47+00:00",
-   "image": "https://social.news.hada.io/topic/36944/pca143b26be3ed05274eb2e549bdc636",
-   "summary": "Google DeepMind가 인간 전문가와 AI 에이전트를 결합한 AlphaProof Code 로 Signal 프로토콜의 실제 코드가 지정된 핵심 보안 속성을 ",
-   "category": "ai",
    "buzz": 0
   },
   {
@@ -387,18 +615,6 @@
    "buzz": 0
   },
   {
-   "id": "03b0388d83a3",
-   "url": "https://news.hada.io/topic?id=36943",
-   "title": "Show GN: 애플워치와 아이폰으로 키우는 레트로 도트 다마고치, Dotgimon",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T13:48:14+00:00",
-   "image": "https://social.news.hada.io/topic/36943/pcf61d0a6f166fdda71ce0bd0d6b105b",
-   "summary": "애플워치와 아이폰에서 플레이할 수 있는 레트로 도트 다마고치 앱 'Dotgimon'을 만들었습니다.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "e96844df1274",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42674",
    "title": "美 “AI 데이터센터 반대, 이유 있었다”…전력망 비용 62% 주민에 전가, 코넬대 연구로 드러나",
@@ -408,18 +624,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42674_64105_3650_v150.jpg",
    "summary": "미국에서 인공지능 데이터센터(AIDC)의 급격한 확산에 따른 전기요금 인상과 지역사회 부담이 주요 정치·사회적 쟁점으로 떠오른 가운데, 데이터센터 관련 전력망 확",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "62292d75f17f",
-   "url": "https://news.hada.io/topic?id=36942",
-   "title": "Show GN: skilladopt, Claude Code와 Codex 스킬을 내 프로젝트에 맞추는 도구",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T13:26:16+00:00",
-   "image": "https://social.news.hada.io/topic/36942/p5b86fd51a545cb06fdccc816e54d506",
-   "summary": "skilladopt는 남이 만든 Claude Code와 Codex 스킬을 내 프로젝트에 맞게 고치고, 바꾼 줄마다 근거를 남겨 나중에 다시 볼 곳만 알려 주는 도",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -456,7 +660,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/CES2027-789x493.png",
    "summary": "호텔에 로봇을 도입하는 것과 로봇이 실제 호텔 업무를 수행하도록 만드는 것은 다른 문제다.",
    "category": "business",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "73bf90ee4583",
@@ -507,18 +711,6 @@
    "buzz": 0
   },
   {
-   "id": "34ccb559a6e7",
-   "url": "https://news.hada.io/topic?id=36941",
-   "title": "TV는 벽 너머를 볼 수 있다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T12:32:33+00:00",
-   "image": "https://social.news.hada.io/topic/36941/pab6142711a569e1208b736d3746d4d4",
-   "summary": "TV 방송 신호 를 수신하는 간단한 무선 수신기로 이웃 방의 움직임을 감지하고 이동 속도까지 추정하는 실험을 수행함 직접 도달한 신호가 강한 반사파에 상쇄되는 선",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "eb4e4947bfd4",
    "url": "https://www.venturesquare.net/1127334",
    "title": "중기부, K-소상공인 수출액 56.3% 증가…수출시장 75개국으로 확대",
@@ -543,18 +735,6 @@
    "buzz": 0
   },
   {
-   "id": "eb39d808e72a",
-   "url": "https://www.venturesquare.net/1127322",
-   "title": "브릴스, 현대차·기아 컨퍼런스서 4족보행·휴머노이드 시연…제조현장 안전관제 겨냥",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-10T12:17:44+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/3-3-702x522.jpg",
-   "summary": "제조 현장의 안전관제는 고정된 카메라와 관제실을 중심으로 운영돼 왔다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "40d2add05681",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21915",
    "title": "에임인텔리전스, 엔비디아 오픈쉘 연동...AI 에이전트 권한·행동 통제",
@@ -563,42 +743,6 @@
    "published_at": "2026-11-10T11:54:44+00:00",
    "image": "https://cdn.newstheai.com/news/photo/202611/21915_22708_498.jpg",
    "summary": "에임인텔리전스는 9일 서울 코엑스에서 열린 '엔비디아 AI 데이 서울 2026'에서 엔비디아와 공동 기술 세션을 진행했다고 10일 밝혔다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "bb4adf1e42aa",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21914",
-   "title": "오라클 클라우드 선택한 슈퍼캣, 게임 3종 이전해 운영 효율 높여",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-10T11:47:08+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21914_22707_4440.jpg",
-   "summary": "한국오라클은 슈퍼캣이 ‘그래니의 저택’, ‘돌키우기’, ‘비룡키우기’ 등 3개 게임의 인프라를 오라클 클라우드 인프라스트럭처(OCI)로 이전했다고 10일 밝혔다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "645437ada5ef",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21913",
-   "title": "래블업, 쿠버네티스 기반 AI 인프라 시장 공략...이기종 가속기 12종 지원",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-10T11:43:14+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21913_22706_3644.jpg",
-   "summary": "래블업이 대규모 AI 학습과 추론 환경을 통합 관리하는 기술을 앞세워 글로벌 클라우드 네이티브 시장 공략에 나섰다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "0f7b407c7a5a",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21912",
-   "title": "노타, AI ‘키미 K3.1 프로’ 경량화...GPU 구매비 최대 20% 낮춰",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-10T11:35:14+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21912_22705_303.jpg",
-   "summary": "노타가 중국 문샷AI의 초거대 모델 ‘키미 K3.1 프로’를 경량화해 GPU 인프라 도입 비용 절감에 나섰다.",
    "category": "ai",
    "buzz": 0
   },
@@ -615,18 +759,6 @@
    "buzz": 0
   },
   {
-   "id": "88149523c32d",
-   "url": "https://news.hada.io/topic?id=36940",
-   "title": "CoreWeave 채권 수익률 16% 돌파, AI 관련 신용 불안 확대",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T11:33:18+00:00",
-   "image": "https://social.news.hada.io/topic/36940/pdab51401c7780b344117385a178b660",
-   "summary": "CoreWeave의 2032년 만기 채권 수익률이 16%를 넘어서며 , AI 인프라 확장에 필요한 자금 조달을 둘러싼 투자자 불안이 커짐 Nvidia, Broad",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "d8e0f0e705ec",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42669",
    "title": "블랙홀 난제 풀고 로봇도 움직인다…앤트로픽, 나스닥 상장 앞두고 차세대 AI '클로드 페이블 5.2·미토스 5.2' 공개",
@@ -637,42 +769,6 @@
    "summary": "미국 나스닥 상장을 앞둔 앤트로픽(Anthropic)이 블랙홀 물리학의 미해결 문제를 풀고 로봇을 제어하는 차세대 인공지능(AI) 모델을 공개하며 프론티어 AI ",
    "category": "ai",
    "buzz": 1
-  },
-  {
-   "id": "d875018afe81",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21911",
-   "title": "엔비디아가 투자한 리얼월드, 휴머노이드 벤치마크 ‘덱스벤치’ 공개",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-10T11:25:49+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21911_22704_217.jpg",
-   "summary": "리얼월드는 서울 코엑스에서 열린 ‘엔비디아 AI 데이 서울 2026’에서 ‘덱스벤치(DexBench)’의 개발 성과와 주요 기능을 발표했다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "8c1010735549",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42668",
-   "title": "레드햇, ‘오픈시프트 5’ 출시...에이전틱 AI로 클라우드 장애 분석·해결 자동화",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-10T10:46:00+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42668_64100_4546_v150.jpg",
-   "summary": "레드햇(Red Hat)이 인공지능(AI) 에이전트를 활용해 클라우드 시스템의 장애 원인을 분석하고 문제 해결을 지원하는 차세대 하이브리드 클라우드 운영 기술을 선",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "1ff4250bbe3e",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42667",
-   "title": "삼성전자, AI 스타트업 1천개 육성 달성…30개사 중 15곳과 기술검증 추진",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-10T10:35:06+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42667_64099_3445_v150.jpg",
-   "summary": "삼성전자가 사내벤처와 외부 스타트업을 대상으로 운영해 온 ‘C랩(Creative Lab)’ 프로그램을 통해 누적 1,000개 기업 및 과제의 발굴·육성 성과를 달",
-   "category": "ai",
-   "buzz": 0
   },
   {
    "id": "7735413d9721",
@@ -723,78 +819,6 @@
    "buzz": 0
   },
   {
-   "id": "edce7e56c5fc",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42664",
-   "title": "구글, AI 반도체 ‘TPU 8i 맥스·8tx’ 공개…연산 성능 2배·데이터 처리 중 암호화로 에이전틱 AI 공략",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-10T09:21:58+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42664_64098_2113_v150.jpg",
-   "summary": "구글이 인공지능(AI) 에이전트의 대규모 작업 처리와 민감정보 보호에 특화된 차세대 AI 가속기 시스템 2종을 공개했다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "de2c11d5b28f",
-   "url": "https://news.hada.io/topic?id=36939",
-   "title": "Microsoft가 여러분의 메일을 거부하고 있음",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T09:07:21+00:00",
-   "image": "https://social.news.hada.io/topic/36939/p0b24a4b6d060e52ed7615bd28e1eebc",
-   "summary": "Microsoft 운영 메일 시스템이 SPF와 DKIM이 유효해도 DMARC 레코드가 없는 메일 을 거부하는 현상이 확인됐으며, hotmail.com과 outlo",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "09c9b0372ab0",
-   "url": "https://news.hada.io/topic?id=36938",
-   "title": "끔찍한 공개키 꼼수",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T09:04:20+00:00",
-   "image": "https://social.news.hada.io/topic/36938/pf52b25d03e138299dc2232f110b7ebc",
-   "summary": "RSA 공개키에 읽을 수 있는 문구를 심어 , 실제로 작동하고 인증기관의 신뢰도 받는 TLS 인증서를 만듦 공개 지수는 표준값으로 유지하고, 모듈러스의 상위 절반",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "b61ae1e14733",
-   "url": "https://news.hada.io/topic?id=36936",
-   "title": "정체불명의 삐 소리가 나는 위치 찾기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T08:40:53+00:00",
-   "image": "https://social.news.hada.io/topic/36936/p09eaf40104c63599eab781a834b3d93",
-   "summary": "여러 기기의 마이크로 소리를 수집하고 발원지를 삼각측량하는 Beep Locator 를 Claude Code로 제작해, 상자가 가득한 방에서 간헐적으로 울리는 경고",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "4025ef929c2b",
-   "url": "https://news.hada.io/topic?id=36935",
-   "title": "Amazon, Sonnet 4.6을 Strands Decider로 대체해 수백만 달러 절감",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T08:37:54+00:00",
-   "image": "https://social.news.hada.io/topic/36935/p265d2a5e0bb887c79f11c98c98dc988",
-   "summary": "아마존이 대규모 내부 티켓 분류에 쓰던 클로드 Sonnet 4.6을 Strands Decider E4B 로 교체.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "e303cc11d3ee",
-   "url": "https://news.hada.io/topic?id=36934",
-   "title": "Show GN: 귀여운 고양이가 봐주는 내 사주팔자~",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T08:06:41+00:00",
-   "image": "https://social.news.hada.io/topic/36934/pd66d84d1a92150df5ed59dbe4052547",
-   "summary": "반년전에 조금 쪼물딱거리다가 방치한 사주사이트를 주말내내 업그레이드해서 다시 배포했습니다!!",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "a70cd82224f0",
    "url": "https://discuss.pytorch.kr/t/2027-2027chatgpt/12468",
    "title": "2027 2027ChatGPT 도입 전략 세미나",
@@ -841,18 +865,6 @@
    "summary": "구글이 8세대 TPU의 세번째와 네번째 시스템을 선보였다.",
    "category": "ai",
    "buzz": 1
-  },
-  {
-   "id": "610c2a5d876e",
-   "url": "https://news.hada.io/topic?id=36933",
-   "title": "유료 SDK 없이, 공개 데이터와 MapLibre로 아파트 3D 지도를 만든 11일",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T05:53:29+00:00",
-   "image": "https://social.news.hada.io/topic/36933",
-   "summary": "직접 개발 중인 아파트 인사이트의 주변 3D 지도를 만들면서 겪은 문제와 설계 선택을 정리했습니다.",
-   "category": "vibe_coding",
-   "buzz": 0
   },
   {
    "id": "30267d67bba1",
@@ -960,7 +972,7 @@
    "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/ghfghfh.jpg",
    "summary": "로봇이 다섯 손가락으로 커넥터를 꽂고 나사를 조이고 접시를 쌓는 작업을 얼마나 잘 해내는지, 같은 기준으로 비교할 수 있는 평가 도구가 나왔다.",
    "category": "business",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "78553345838e",
