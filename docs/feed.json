@@ -1,7 +1,295 @@
 {
  "version": 4,
- "generated_at": "2026-11-10T23:24:12+00:00",
+ "generated_at": "2026-11-11T06:25:15+00:00",
  "items": [
+  {
+   "id": "e89e1ac88a29",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217207",
+   "title": "[11월10일] 젠슨 황 불륜 스캔들 뒤에 가려진 'AI 스파이 전쟁'",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-11T07:00:00+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217207_221422_00.png",
+   "summary": "젠슨 황 엔비디아 CEO의 불륜 스캔들이 연일 화제입니다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "330b67d3c506",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217248",
+   "title": "앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-11T06:59:21+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217248_221464_540.png",
+   "summary": "앤트로픽이 최대 1조4000억달러(약 1882조원)의 기업가치를 목표로 기업공개(IPO)에 나선다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "93997602282e",
+   "url": "https://byline.network/2026/11/1109-10",
+   "title": "리츠증권, AI로 반복 업무 시간 30% 줄였다…내년엔 개발 전 과정 자동화",
+   "source": "바이라인네트워크",
+   "source_id": "byline",
+   "published_at": "2026-11-11T06:10:51+00:00",
+   "image": "https://cdn.byline.network/wp-content/uploads/2026/11/11099.jpg",
+   "summary": "메리츠증권이 인공지능(AI)을 활용해 사내 업무 자동화와 서비스 개발 효율화에 나섰다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "a6b112947d19",
+   "url": "https://www.venturesquare.net/1127579",
+   "title": "젠스파크·한동대, 포항 시민과 AI로 지역 문제 해결…47명 참여한 캡스톤 개최",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-11T05:42:03+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/image003-13-652x522.jpg",
+   "summary": "코딩 경험이 없어도 AI 에이전트를 이용해 자료를 조사하고, 아이디어를 구체화하며, 간단한 애플리케이션이나 콘텐츠를 제작할 수 있게 되면서 기술 활용의 문턱도 낮",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "827220b51d7e",
+   "url": "https://www.venturesquare.net/1127564",
+   "title": "티비지파트너스, 초고령사회 겨냥한 ‘롱제비티랩’ 출범…헬스케어·에이지테크 스타트업 모집",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-11T05:23:02+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/long-2-789x449.png",
+   "summary": "한국의 고령 인구가 1,100만 명을 넘어서면서 노후를 둘러싼 산업의 범위도 달라지고 있다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "9f63b1b9ee18",
+   "url": "https://www.venturesquare.net/1127549",
+   "title": "매쉬업벤처스, 259억 원 민간펀드 결성…AI·딥테크 극초기 투자 확대",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-11T05:12:39+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/259-759x522.jpg",
+   "summary": "인공지능(AI)이 소프트웨어를 넘어 제조와 에너지, 로봇, 우주산업으로 확산하면서 초기 스타트업 투자에도 변화가 나타난다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "c1e7e2d8f198",
+   "url": "https://outstanding.kr/feifeili20261111",
+   "title": "AMD가 산 건 ‘페이페이 리의 30년 질문’이었다",
+   "source": "아웃스탠딩",
+   "source_id": "outstanding",
+   "published_at": "2026-11-11T04:50:03+00:00",
+   "image": "https://outstanding.kr/wp-content/uploads/2020/10/600-31.png",
+   "summary": "*이 글은 외부 필자인 김지윤님의 기고입니다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "45505445f8d5",
+   "url": "https://news.hada.io/topic?id=36978",
+   "title": "Terence Tao의 Six Math Essentials - 수학의 여섯 가지 핵심 개념",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T04:31:14+00:00",
+   "image": "https://social.news.hada.io/topic/36978/p0c4ccd7453378ae99a279c12edfe045",
+   "summary": "필즈상 수상자 Terence Tao 가 고대부터 오늘날의 연구 최전선까지 수학을 이끌어 온 여섯 개념으로 복잡한 세계를 이해하는 길을 소개함 수 는 정량적 사고의",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "befbd72602cd",
+   "url": "https://news.hada.io/topic?id=36977",
+   "title": "Show GN: Officeflare - Cloudflare 인프라 위에 올라가는 오피스 스위트",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T04:23:34+00:00",
+   "image": "https://social.news.hada.io/topic/36977/p99912800dfbba9ec966911fc5ffcebb",
+   "summary": "Cloudflare 인프라 위에서 동작하는 오피스 스위트를 만들어 사용하고 있습니다.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "1e6c8ece2e9e",
+   "url": "https://news.hada.io/topic?id=36975",
+   "title": "Gleam을 써보자",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T04:02:54+00:00",
+   "image": "https://social.news.hada.io/topic/36975/pc4649e8807617e5f40757118821bffe",
+   "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "26cd82564ae5",
+   "url": "https://discuss.pytorch.kr/t/openai-ai-ai-79-47-pdf-21p/12471",
+   "title": "OpenAI 교육 AI 보고서: 숙제에 AI를 쓴 유럽 학생 79%, 사용법을 안내받은 학생 47% [영문/PDF/21p]",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-11T04:00:48+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/5/8/58c07ec3473e6e2bedc62f70381d045160af7f2e_2_1028x639.jpeg",
+   "summary": "핵심 요약 OpenAI가 2026년 11월, 유럽, 중동, 아프리카(EMEA) 정부와의 교육 협력에서 얻은 교훈을 정리한 21쪽 분량의 Responsible AI",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "4c245a14e08e",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678277",
+   "title": "앤트로픽, 몸값 1.4조달러 목표로 IPO 추진…공모가 70∼78달러",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-11T03:23:55+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678277_292909_1915_v150.jpg",
+   "summary": "미국 인공지능(AI) 기업 앤트로픽이 기업공개(IPO)를 통해 약 1조4000억달러(약 1880조원)의 기업가치를 인정받는 것을 목표로 설정했다.",
+   "category": "business",
+   "buzz": 1
+  },
+  {
+   "id": "54988c42a5a7",
+   "url": "https://news.hada.io/topic?id=36973",
+   "title": "Show GN: TimeCarver - 집중한 시간만큼 돌을 깎는 타이머 앱",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T03:07:37+00:00",
+   "image": "https://social.news.hada.io/topic/36973/p142c1ca561cd41ab403e9e49539db70",
+   "summary": "집중해야 하는데 자꾸 딴짓을 하게 되는 저 같은 분들을 위해 만든, iOS·Android 포커스 타이머 앱 TimeCarver입니다.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "0251ea3403b5",
+   "url": "https://www.venturesquare.net/1127514",
+   "title": "인텔리즈, 숙련자의 검사 노하우를 AI로 구현하다…불량 검출 넘어 자율제조로",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-11T02:59:14+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/intelliz.jpg",
+   "summary": "<인텔리즈 유튜브 ‘나대표의 불량상담소’ 한 장면.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "77c7413eeaa7",
+   "url": "https://outstanding.kr/kakao20261111",
+   "title": "“카카오 AI 기대에 못 미쳤지만 미래는 자신”.. 정신아 대표에게 이유를 들어봤습니다",
+   "source": "아웃스탠딩",
+   "source_id": "outstanding",
+   "published_at": "2026-11-11T02:30:47+00:00",
+   "image": "https://outstanding.kr/wp-content/uploads/2027/11/ssun.jpg",
+   "summary": "“카카오는 12월 카나나 스페이스의 파일럿 서비스를 시작하고, ‘모두의 AI’와 ‘칸바스’도 연내 정식 출시를 목표로 준비하고 있습니다” “연내에는 월간 활성 A",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "2b28cf143e83",
+   "url": "https://www.mobiinside.co.kr/2026/11/11/physical-ai-beyond-humanoid-robotics",
+   "title": "[AI로보틱스 트렌드 바로읽기] 휴머노이드 = 피지컬 AI? 로봇 프레임을 넘어선 피지컬 AI의 본질",
+   "source": "모비인사이드",
+   "source_id": "mobiinside",
+   "published_at": "2026-11-11T02:00:00+00:00",
+   "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/10094656/%ED%99%94%EB%A9%B4-%EC%BA%A1%EC%B2%98-2026-11-10-094417-1024x533.png",
+   "summary": "휴머노이드 로봇이 곧 피지컬 AI?",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "4b0df9041bca",
+   "url": "https://news.hada.io/topic?id=36972",
+   "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T01:40:18+00:00",
+   "image": "https://social.news.hada.io/topic/36972/p0353f94a0e3a78f32f451d80025d105",
+   "summary": "Zen 6 는 단일 스레드의 듀얼 디코더 활용, 더 빠른 분기 처리, 확장된 비순차 실행 구조로 Zen 5 대비 실행 엔진에 일감을 공급하고 메모리 지연을 숨기는",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "acbae5aeb197",
+   "url": "https://news.hada.io/topic?id=36971",
+   "title": "7개월이 지난 Glasswing, 기대에 못 미치는 발견으로 유지보수자에게 과도한 부담을 주다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T01:37:18+00:00",
+   "image": "https://social.news.hada.io/topic/36971/pb36cdd0806c6574e65b2b5555070f4a",
+   "summary": "VulnCheck가 추적한 Anthropic에 귀속되는 CVE는 442건 으로, 올해 전체의 약 0.5%임.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "193f6ba0e78a",
+   "url": "https://news.hada.io/topic?id=36970",
+   "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T00:50:02+00:00",
+   "image": "https://social.news.hada.io/topic/36970/p17ebd6c9ff3ae20433f422ee772644d",
+   "summary": "AI 제품은 사용량에 따라 제공 비용이 달라지고, 도입 효과도 계약 전에 숫자로 잡기 어려움.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "3dcba14f7c28",
+   "url": "https://news.hada.io/topic?id=36969",
+   "title": "책이 제 역할을 하지 못하는 이유 (2019)",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T00:40:02+00:00",
+   "image": "https://social.news.hada.io/topic/36969/pb9128f99de838da3b0c1a9833020705",
+   "summary": "읽을 땐 이해한 것 같은데, 막상 누가 “그게 왜 그래?”라고 물으면 설명이 막힐 때가 있음.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "465fcf1da30e",
+   "url": "https://platum.kr/archives/298270",
+   "title": "카카오벤처스 ‘KV 인사이트풀데이 2026’ 개최…AI가 바꿀 관계·삶·일의 미래 짚다",
+   "source": "플래텀",
+   "source_id": "platum",
+   "published_at": "2026-11-11T00:37:40+00:00",
+   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/the-new-native_kakaoventures.jpg",
+   "summary": "카카오벤처스가 지난 10일 서울 강남구 디캠프 선릉에서 ‘KV 인사이트풀데이 2026’을 개최했다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "8a1480b9c65c",
+   "url": "https://news.hada.io/topic?id=36968",
+   "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T00:31:22+00:00",
+   "image": "https://social.news.hada.io/topic/36968/pd8b69da94ffb6f18ef92e13f2592a46",
+   "summary": "Tiny València 는 발렌시아의 실제 건물을 같은 각도에서 내려다보는 형태로 그린 아이소메트릭 픽셀 아트 지도임 실제 3D 도시 데이터 를 고정된 카메라로",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "df237c6d2e88",
+   "url": "https://news.hada.io/topic?id=36967",
+   "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-11T00:30:02+00:00",
+   "image": "https://social.news.hada.io/topic/36967/p3b3fe5329d846c7bb90276f0439b213",
+   "summary": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음 .",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "95bd51f1d911",
+   "url": "https://platum.kr/archives/298267",
+   "title": "패스트캠퍼스·엔비디아, ‘Agentic AI 해커톤’ 개최…플라이게이트 우승",
+   "source": "플래텀",
+   "source_id": "platum",
+   "published_at": "2026-11-11T00:23:09+00:00",
+   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/Agentic-AI.jpg",
+   "summary": "패스트캠퍼스와 엔비디아(NVIDIA)가 공동 개최한 ‘Agentic AI 해커톤’이 마무리됐다.",
+   "category": "ai",
+   "buzz": 0
+  },
   {
    "id": "fd5b9b6210a8",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42679",
@@ -12,6 +300,30 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42679_64110_4518_v150.jpg",
    "summary": "생성형 인공지능(AI) 기업 앤트로픽(Anthropic)이 미국 증시 상장을 위한 투자자 설명회에 돌입하며 초대형 기업공개(IPO)를 본격화했다.",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "92608fd031f1",
+   "url": "https://news.hada.io/topic?id=36966",
+   "title": "Toyota 브랜드 Scion이 돌아온다, 미국에서 경트럭 판매 예정",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T23:32:25+00:00",
+   "image": "https://social.news.hada.io/topic/36966/p0df1bb38baffff39cd42267e89d9a65",
+   "summary": "Toyota가 Scion by Toyota 로 브랜드를 부활시키며, 저렴하고 개성 있는 자동차 대신 디자인과 차량 콘셉트로 기존 이동 방식에 도전하는 실험 공간을",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "86b47cd38e99",
+   "url": "https://discuss.pytorch.kr/t/vflash/12459",
+   "title": "VFlash: 로봇과 자율주행 궤적의 좌표를 한 번에 예측하는 병렬 디코딩에 대한 연구",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-10T23:30:28+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/1/1/1170390046789976fb863b072be7852a81643e64_2_1028x697.jpeg",
+   "summary": "핵심 요약 VFlash 는 시각 언어 모델(VLM)이 경계 상자나 궤적의 좌표를 토큰 하나씩 생성하는 대신, 작은 초안 모델이 좌표 묶음 전체를 한 번의 순전파로",
+   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -75,6 +387,42 @@
    "buzz": 1
   },
   {
+   "id": "ba1059dfe283",
+   "url": "https://news.hada.io/topic?id=36965",
+   "title": "끊임없는 감시가 아이와 부모에게 미치는 영향",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T22:41:42+00:00",
+   "image": "https://social.news.hada.io/topic/36965/pc22a39d85ab942693527e752f2b50c6",
+   "summary": "영아 모니터부터 위치 추적 앱까지 이어지는 상시 감시 는 아이가 독립성을 기르는 과정뿐 아니라, 부모가 자녀에 대한 지식과 통제를 내려놓는 과정에도 영향을 줄 수",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "87cbc1a9effd",
+   "url": "https://news.hada.io/topic?id=36964",
+   "title": "Show HN: 코딩 에이전트를 2019년 무렵의 JavaScript에서 최신 웹 기본 기능으로 이끌기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T22:38:42+00:00",
+   "image": "https://social.news.hada.io/topic/36964/p1d1a51d5a0227fe57910457cf528a7b",
+   "summary": "Modern Web Guidance 는 웹 플랫폼 전문 지식, 모범 사례, 브라우저 호환성 데이터를 코딩 에이전트에 제공하는 스킬 모음으로, 레거시 패턴 대신 최",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "ee45924ea80f",
+   "url": "https://news.hada.io/topic?id=36963",
+   "title": "Starlink Mini 2 - 교체형 배터리를 탑재한 휴대용 위성 인터넷 단말기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-10T21:43:04+00:00",
+   "image": "https://social.news.hada.io/topic/36963/p6828729fab3340b99f3249666fb440e",
+   "summary": "교체형 배터리로 최대 4.5시간 작동하며, 별도 판매하는 예비 배터리로 교체할 수 있음 1세대는 DC 전원 케이블을 사용했고, Mini 2는 배터리 또는 60W ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
    "id": "6751abbcd5a6",
    "url": "https://news.hada.io/topic?id=36962",
    "title": "Synaptics의 특허 침해 주장으로 DisplayLink 드라이버 개발 중단",
@@ -84,66 +432,6 @@
    "image": "https://social.news.hada.io/topic/36962/p369154d8e1982c41eaaeae6f1b29e7d",
    "summary": "Linux용 DisplayLink 드라이버의 충돌을 해결하려던 개인 개발자가 Synaptics의 특허 침해 주장과 중단 요구 를 받고, 새 드라이버 Vino의 공",
    "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "86e7590156f1",
-   "url": "https://news.hada.io/topic?id=36961",
-   "title": "Val Town, 단계적으로 서비스 종료",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T21:37:03+00:00",
-   "image": "https://social.news.hada.io/topic/36961/p6af8b8cbe4bdf3bd2f4ec3504d27d93",
-   "summary": "Val Town 이 클라우드 컴퓨팅 시장에서 경쟁하지 못해 서비스를 단계적으로 종료하기로 함 2026년 11월 10일부터 과금을 중단 하고 기존 구독에는 무료로 ",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "3d285bbe3c30",
-   "url": "https://news.hada.io/topic?id=36960",
-   "title": "내 SSH 키를 모두 삭제했다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T20:41:36+00:00",
-   "image": "https://social.news.hada.io/topic/36960/p26a61ff5dea4ec5520a1575faa66c01",
-   "summary": "YubiKey, TPM, Apple Secure Enclave 를 조합해 모든 개인 환경에서 기존 디스크 저장형 SSH 키를 대체하고, 보호되지 않은 키 재료가 ",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "af7b87834687",
-   "url": "https://news.hada.io/topic?id=36959",
-   "title": "Queens Public Library, 랜섬웨어 공격으로 네트워크 장애 발생",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T20:39:05+00:00",
-   "image": "https://social.news.hada.io/topic/36959/p29bc422fb1c0f8a62dd30f7d4eba3cc",
-   "summary": "Queens Public Library(QPL) 가 랜섬웨어 공격을 받아 모든 지점에 영향을 미치는 대규모 네트워크 장애를 겪고 있음 웹사이트와 QPL Mobil",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "9c026018ec7a",
-   "url": "https://news.hada.io/topic?id=36958",
-   "title": "Claude Whiteboards, Claude Sheets, Claude Data - 팀 협업 보드, 스프레드시트, 데이터 분석 도구",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T20:38:41+00:00",
-   "image": "https://social.news.hada.io/topic/36958/p1e10d14c7458e8047a83d877ea7535a",
-   "summary": "Anthropic이 Claude Whiteboards와 Sheets를 베타 출시 하고, 기존 Claude Dashboards를 Claude Data로 정식 출시 ",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "88390749c8ac",
-   "url": "https://news.hada.io/topic?id=36957",
-   "title": ".NET 11 런타임의 새로운 기능",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T20:36:05+00:00",
-   "image": "https://social.news.hada.io/topic/36957/p685304646b18e392bd5e068bfc2f7f5",
-   "summary": "Runtime Async V2 가 미리보기로 도입돼 컴파일러 생성 상태 머신 대신 런타임이 비동기 실행의 중단과 재개를 관리함.",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -159,18 +447,6 @@
    "buzz": 0
   },
   {
-   "id": "18676bf566bf",
-   "url": "https://news.hada.io/topic?id=36955",
-   "title": "AI 사용은 취약한 코드베이스를 만든다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T19:33:28+00:00",
-   "image": "https://social.news.hada.io/topic/36955/p88e50307cc89e6aa9a165e92612ad11",
-   "summary": "AI는 당장 주어진 코딩 문제를 잘 풀어도 , 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움 AI가 만든 테스트는 이미 다루는 동작을 반복",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "50696abcbcd7",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42677",
    "title": "AI 에이전트가 정부 시스템 무단 침입…호주, AI 사고 신고 의무화·독립 규제기관 신설 추진",
@@ -180,42 +456,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42677_64108_1612_v150.jpg",
    "summary": "AI 에이전트가 정부 시스템에 무단 접근한 사건을 계기로 호주가 AI 기업의 사고 신고를 의무화하고 독립적인 안전 규제기관을 신설하기로 했다.",
    "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "7cb2e9d2b3d7",
-   "url": "https://news.hada.io/topic?id=36954",
-   "title": "Ableton Live 13 - 스텝 시퀀서와 ARA 2 지원을 추가한 차기 주요 버전",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T18:44:52+00:00",
-   "image": "https://social.news.hada.io/topic/36954/p18d13c6ff2f8af433e3b374a57f62d9",
-   "summary": "Live 13 은 2027년 초 출시 예정으로, 오디오/MIDI 작업 흐름과 사운드 디자인, 믹싱 도구를 확장하며 Live 12에서 가능했던 작업을 그대로 지원함",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "3b7e2f7a2cab",
-   "url": "https://news.hada.io/topic?id=36953",
-   "title": "스마트 홈 기기는 인터넷 없이도 작동해야 한다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T18:41:52+00:00",
-   "image": "https://social.news.hada.io/topic/36953/p41a12ee56749c9576aba57b0e5f5866",
-   "summary": "핵심 기능은 제조사 서버에 의존하지 않아야 한다 는 원칙으로, ESP 보드의 Tasmota, MQTT, Raspberry Pi의 Node-RED를 중심으로 집을 ",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "cd195ba187d4",
-   "url": "https://news.hada.io/topic?id=36952",
-   "title": ".name 기존 도메인과 이메일 리디렉션 유지 확정",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T18:38:51+00:00",
-   "image": "https://social.news.hada.io/topic/36952/p4fbc86dc1a43a3159e1a519e2ca3e03",
-   "summary": "Verisign 이 도메인 이름과 이메일 리디렉션 2만 2,000개를 종료하려던 계획을 철회함 3단계.name 도메인 의 신규 등록은 중단할 예정임 기존 도메인과",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -315,18 +555,6 @@
    "buzz": 1
   },
   {
-   "id": "927f5c5a4437",
-   "url": "https://news.hada.io/topic?id=36951",
-   "title": "Blender 5.3 출시, Gaussian Splat 지원 추가",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T17:42:02+00:00",
-   "image": "https://social.news.hada.io/topic/36951/p2bd7bfd118c5072e980310ceaf6fcad",
-   "summary": "3D Gaussian Splats를 기본 지원 해 PLY, SPZ, glTF 파일을 포인트 클라우드로 가져오고 Geometry Nodes로 가공한 뒤 EEVEE,",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "ec57ad6d0c48",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217246",
    "title": "KT, 3분기 실적 주춤...B2B·AX로 반등 노려",
@@ -348,18 +576,6 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217231_221449_109.png",
    "summary": "앤트로픽의 '클로드'가 로봇 팔을 이용해 밤새 수채화를 완성한 사례가 공개됐다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "000ff26586ea",
-   "url": "https://news.hada.io/topic?id=36950",
-   "title": "Google, 복잡한 코딩과 연구를 위한 Gemini 4 Carbon 일반 공개",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T17:39:01+00:00",
-   "image": "https://social.news.hada.io/topic/36950/pf1009381ad5f15866459eb1af1c83ac",
-   "summary": "Google이 Gemini 4 Carbon 을 개발자, 기업, 과학자, 일반 사용자에게 공개함.",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -471,30 +687,6 @@
    "buzz": 0
   },
   {
-   "id": "2e89fb463932",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217219",
-   "title": "LGU+, 국내 통신사 최초 ‘자동차 사이버보안’ 국제표준 레벨3 인증",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-10T16:35:02+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217219_221442_733.jpeg",
-   "summary": "LG유플러스가 국내 통신사 최초로 자동차 사이버보안 국제표준 레벨3 인증을 받았다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "5662fddaf4a9",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=678241",
-   "title": "업스테이지, 엔비디아 투자·다이나모 활용 확대...'솔라' 비용 낮출까",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-10T16:27:50+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/678241_292850_210_v150.jpg",
-   "summary": "엔비디아가 국내 인공지능(AI) 기업 업스테이지에 전략적 투자를 추진한다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
    "id": "504f1b03c159",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21918",
    "title": "세일즈포스, ‘에이전트포스 코워커’에 팀즈·구글 워크스페이스 연동",
@@ -504,66 +696,6 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21918_22711_1622.jpg",
    "summary": "세일즈포스는 기업용 AI 협업 솔루션 ‘에이전트포스 코워커’를 마이크로소프트 팀즈, 마이크로소프트 365, 구글 워크스페이스 등으로 확장하고 iOS·맥·윈도우 전",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "d8398b084a78",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217240",
-   "title": "바이두, AI 연구 자동화하는 '어니 이볼브' 공개…추론 속도 6배 개선",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-10T16:15:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217240_221455_742.png",
-   "summary": "중국 바이두가 AI 스스로 연구 방향을 정하고 실험을 반복해 AI 개발에 활용할 수 있는 자동 연구 시스템을 공개했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "71a3b47565ec",
-   "url": "https://news.hada.io/topic?id=36948",
-   "title": "Show GN: [프로젝트] 중학생이 하루 만에 빌드한 AI 연동형 픽셀아트 스튜디오 (Electron, Mac, Windows)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T16:08:28+00:00",
-   "image": "https://social.news.hada.io/topic/36948/p3d492fe65f8eb8700797c9d3b59cc48",
-   "summary": "안녕하세요.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "823172e17c53",
-   "url": "https://news.hada.io/topic?id=36947",
-   "title": "Show GN: EleDock - ⌘M으로 창을 하나씩 Dock에 넣고 ⇧⌘M으로 되돌리는 Mac 메뉴 막대 앱",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T16:00:02+00:00",
-   "image": "https://social.news.hada.io/topic/36947/pd88a6f7fae167eb528fdd456936b0db",
-   "summary": "화면을 정리할 때 ⌘M을 자주 누르는데, 지금 앱의 창만 내려가고 다시 꺼내려면 Dock에서 찾아 눌러야 해서 만들었습니다.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "c3632e2fd5e8",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=678211",
-   "title": "AI가 직접 게임 백엔드 연동…최석원 대표 \"하이브 액실 글로벌 공략\"",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-10T15:50:33+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/678211_292810_1743_v150.jpg",
-   "summary": "컴투스홀딩스의 자회사 컴투스플랫폼이 인공지능(AI) 에이전트가 직접 이해하고 활용하는 게임 백엔드 서비스 '하이브 액실'로 글로벌 시장을 공략한다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "1e8231e01ef6",
-   "url": "https://news.hada.io/topic?id=36946",
-   "title": "Show GN: Herdr CKD - 격리된 Git Worktree와 3자 교차 검증(C·A·B) 기반 오픈소스 AI 코딩 오케스트레이터",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-10T15:31:53+00:00",
-   "image": "https://social.news.hada.io/topic/36946/pa0ac21973930e87b672f7f32ba287d2",
-   "summary": "Claude Code나 로컬 LLM으로 코딩 에이전트를 돌리다 보면 에이전트 혼자 코드를 수정하고 테스트한 뒤, 빌드 오류나 누락된 요구사항이 있는데도 스스로 완",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -579,18 +711,6 @@
    "buzz": 1
   },
   {
-   "id": "e2cdf3687411",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=678216",
-   "title": "㈜두산, 中·대만 추격에도 엔비디아 루빈 공급망 ‘자신감’",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-10T14:38:53+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/678216_292792_5357_v150.jpg",
-   "summary": "㈜두산이 중국과 대만 경쟁사들의 추격에도 엔비디아의 차세대 인공지능(AI) 가속기용 동박적층판(CCL) 시장에서 공급 우위를 유지하고 있다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
    "id": "0e75ababd0a8",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21916",
    "title": "ST, DSP·NPU 결합한 산업용 MCU ‘STM32H7P’ 공개",
@@ -600,18 +720,6 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21916_22709_267.jpg",
    "summary": "ST마이크로일렉트로닉스(ST)가 DSP와 엣지 AI 워크로드를 지원하는 신규 마이크로컨트롤러(MCU) 시리즈 ‘STM32H7P’를 공개했다고 10일 밝혔다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "45f370728f42",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=678200",
-   "title": "'소버린·엘리엇' 사례 꺼낸 경총…\"경영권 방어 수단도 갖춰야\"",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-10T14:21:52+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/678200_292783_2729_v150.jpg",
-   "summary": "한국경영자총협회가 복수의결권과 포이즌필(신주인수선택권) 등 경영권 방어 수단 도입을 국회에 건의했다.",
-   "category": "business",
    "buzz": 0
   },
   {
@@ -663,42 +771,6 @@
    "buzz": 1
   },
   {
-   "id": "73bf90ee4583",
-   "url": "https://www.venturesquare.net/1127378",
-   "title": "위버스브레인, AI가 먼저 전화하는 영어 뉴스 튜터 출시…요약 넘어 토론까지",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-10T13:04:18+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/20261109175630_ffb002af-7641-447f-9bc4-1060085acdc6-696x522.jpg",
-   "summary": "인공지능(AI)이 외국어 학습에 활용되는 방식이 단어 암기와 문장 교정을 넘어 실제 대화를 유도하는 방향으로 확장되고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "f4dd6b3bde5e",
-   "url": "https://www.venturesquare.net/1127374",
-   "title": "레비오사에이아이, 서울대와 브라우저 기반 AI 에이전트 고도화…현업 과제 공동 해결",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-10T13:00:07+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/unnamed-52-789x416.jpg",
-   "summary": "기업이 반복적으로 처리하는 업무 중 상당수는 여러 웹사이트에 접속해 정보를 확인하고, 데이터를 입력하거나 파일을 업로드하는 과정으로 이뤄진다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "95a8def026ca",
-   "url": "https://www.venturesquare.net/1127352",
-   "title": "비주얼캠프, AI 시선추적 문해력 진단 기술로 대한민국 인공지능대상 우수상 수상 쾌거",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-10T12:51:46+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/KakaoTalk_20261110_190154036-527x522.jpg",
-   "summary": "학생이 글을 읽고 문제를 틀렸을 때 정답 여부만으로는 어디에서 어려움을 겪었는지 파악하기 어렵다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "40c96baf11df",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42672",
    "title": "\"정부 AI 활용, 아직 81%가 실험 단계\"…OECD, 알고리즘 시대 정부 소통체계 전면 개혁 촉구",
@@ -708,18 +780,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42672_64104_3919_v150.jpg",
    "summary": "인공지능과 디지털 플랫폼의 추천 알고리즘이 시민의 정보 소비 방식을 빠르게 바꾸고 있지만, 각국 정부기관의 AI 활용은 여전히 초기 실험 단계에 머물러 있다는 경",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "eb4e4947bfd4",
-   "url": "https://www.venturesquare.net/1127334",
-   "title": "중기부, K-소상공인 수출액 56.3% 증가…수출시장 75개국으로 확대",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-10T12:24:41+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/K-789x444.png",
-   "summary": "국내 소상공인의 해외 진출이 기존 주요 수출시장을 넘어 새로운 지역으로 확대되고 있다.",
-   "category": "business",
    "buzz": 0
   },
   {
@@ -819,6 +879,18 @@
    "buzz": 0
   },
   {
+   "id": "6ad5ff8f03d4",
+   "url": "https://platum.kr/archives/298239",
+   "title": "삼성전자 주식이 미국에서 토큰으로 거래된다면",
+   "source": "플래텀",
+   "source_id": "platum",
+   "published_at": "2026-11-10T08:10:43+00:00",
+   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-144-1024x683.png",
+   "summary": "국내 기업의 주식이 토큰으로 바뀌어 미국 거래소에서 거래되는 시대가 오면 한국의 금융 자본은 어디로 갈까.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
    "id": "a70cd82224f0",
    "url": "https://discuss.pytorch.kr/t/2027-2027chatgpt/12468",
    "title": "2027 2027ChatGPT 도입 전략 세미나",
@@ -828,6 +900,18 @@
    "image": "https://discuss.pytorch.kr/uploads/default/original/1X/40d969600704f473ee638268df8651e8137bd49b.png",
    "summary": "2027년, 우리 기업·기관에 적합한 ChatGPT 플랜과 규모는?",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "ab4faf7a22a2",
+   "url": "https://platum.kr/archives/298236",
+   "title": "원화 스테이블코인, 발행 다음 과제는 쓸 곳과 책임 구조",
+   "source": "플래텀",
+   "source_id": "platum",
+   "published_at": "2026-11-10T07:07:14+00:00",
+   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-139.png",
+   "summary": "더불어민주당 AI 금융·경제추진단은 10일 서울 여의도 금융투자협회에서 ‘현실화되는 스테이블코인 혁신, 디지털자산기본법 이후의 과제’ 세미나를 열었다.",
+   "category": "business",
    "buzz": 0
   },
   {
@@ -939,42 +1023,6 @@
    "buzz": 0
   },
   {
-   "id": "eadea516115f",
-   "url": "https://discuss.pytorch.kr/t/feat-anthropic/12449",
-   "title": "에이전트 메모리, 많이 저장하기보다 검증하고 다시 정리하기 (feat. Anthropic)",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-09T11:30:49+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/b/9/b901a02a9ecd511167e0c0ea3481849b2b475240_2_1028x685.jpeg",
-   "summary": "핵심 요약 Anthropic의 에이전트 메모리 분석 은 원본 기록, 선별한 메모, 연결된 위키, 세션 시작 시 미리 제공하는 정보를 구분합니다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "4c9162496f14",
-   "url": "https://discuss.pytorch.kr/t/sesacx-ax-ai-3-11-26/12457",
-   "title": "[SeSAC×업스테이지] 자소서 제출하면 AX 취업 준비 키트 | AI 실무 프로젝트 3회로 포트폴리오 채우기 (~11/26)",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-09T09:49:33+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/original/1X/40d969600704f473ee638268df8651e8137bd49b.png",
-   "summary": "sesac.seoul.kr 청년취업사관학교 새싹(SeSAC) (AI 핵심/인턴십 연계, 전공 무관)🥇업스테이지🥇 와 함께하는 AX 컨설턴트 양성 과정 SeSAC ",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "dbe672b55205",
-   "url": "https://platum.kr/archives/298107",
-   "title": "엔비디아 투자 받는 리얼월드, 로봇 손 조작 평가 기준 ‘덱스벤치’ 공개",
-   "source": "플래텀",
-   "source_id": "platum",
-   "published_at": "2026-11-09T09:32:04+00:00",
-   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/ghfghfh.jpg",
-   "summary": "로봇이 다섯 손가락으로 커넥터를 꽂고 나사를 조이고 접시를 쌓는 작업을 얼마나 잘 해내는지, 같은 기준으로 비교할 수 있는 평가 도구가 나왔다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
    "id": "78553345838e",
    "url": "https://byline.network/2026/11/1106-10",
    "title": "키움증권, 투자자마다 다른 AI 상담사 만든다",
@@ -999,18 +1047,6 @@
    "buzz": 0
   },
   {
-   "id": "e609d7a566de",
-   "url": "https://platum.kr/archives/298101",
-   "title": "모티프테크놀로지스, 차세대 모델 개발 위한 브릿지 투자 유치… 엔비디아 참여 예정",
-   "source": "플래텀",
-   "source_id": "platum",
-   "published_at": "2026-11-09T08:07:15+00:00",
-   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/mo-1024x289.jpg",
-   "summary": "국내 AI 파운데이션 모델 기업 모티프테크놀로지스가 차세대 대규모언어모델(LLM) ‘모티프 4’ 개발 자금을 마련하고 본격적인 개발에 들어갔다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
    "id": "b3bc6eb59091",
    "url": "https://toss.tech/article/taste",
    "title": "TASTE, 토스의 추천 파운데이션 플랫폼",
@@ -1032,42 +1068,6 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2026/11/oracle-ai-world-soverign-ai.jpg",
    "summary": "“오라클은 정부 기관 등 국가 고객이 일반 기업 고객에게 제공하는 서비스와 기능을 동일하게 이용할 수 있게 막대한 연구개발 투자를 진행해왔다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "340c340a611a",
-   "url": "https://platum.kr/archives/298085",
-   "title": "로봇이 케이블 다루는 법, 가상공간서 먼저 익힌다… 엔닷라이트, KT에 시뮬레이션 데이터 공급",
-   "source": "플래텀",
-   "source_id": "platum",
-   "published_at": "2026-11-09T06:42:01+00:00",
-   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/adfasdfasf-1024x768.jpg",
-   "summary": "로봇이 케이블처럼 휘고 늘어나는 물체를 다루는 작업을 실제 현장에 투입하기 전에 가상공간에서 먼저 연습할 수 있도록, 현장 장비와 케이블을 3D 시뮬레이션 데이터",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "61be73528c8f",
-   "url": "https://platum.kr/archives/298082",
-   "title": "실리콘밸리 AI 창업자들 서울로… 킨드레드 벤처스, ‘AI 웨이브: 서울 2026’ 개최",
-   "source": "플래텀",
-   "source_id": "platum",
-   "published_at": "2026-11-09T06:38:49+00:00",
-   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-106.png",
-   "summary": "실리콘밸리의 AI·딥테크 스타트업 창업자들이 서울에서 국내 창업자, 투자자와 만나 개발 중인 기술을 소개한다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "fe08970547a9",
-   "url": "https://platum.kr/archives/298079",
-   "title": "클로드·챗GPT에 물으면 영상 통계가 나온다… 카테노이드, ‘콜러스 MCP’ 정식 출시",
-   "source": "플래텀",
-   "source_id": "platum",
-   "published_at": "2026-11-09T06:27:39+00:00",
-   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-105.png",
-   "summary": "클로드나 챗GPT 대화창에 “지난주 가장 많이 본 영상 10개 알려줘”라고 입력하면, AI가 회사의 동영상 플랫폼 계정에서 실제 데이터를 꺼내 정리해 준다.",
-   "category": "vibe_coding",
    "buzz": 0
   }
  ]
