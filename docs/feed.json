@@ -1,7 +1,331 @@
 {
  "version": 4,
- "generated_at": "2026-11-12T19:55:49+00:00",
+ "generated_at": "2026-11-13T01:50:48+00:00",
  "items": [
+  {
+   "id": "9e6dc26f5838",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678493",
+   "title": "33년 만에 막 내린 젠슨 황 시대…엔비디아 경영 시험대",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-13T01:54:09+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678493_293265_5216_v150.jpg",
+   "summary": "인공지능(AI) 반도체 시장을 이끌어온 젠슨 황 엔비디아 최고경영자(CEO)가 1993년 공동창업 이후 33년 만에 전격 퇴진했다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "81f2c9cf3ed3",
+   "url": "https://news.hada.io/topic?id=37088",
+   "title": "자애로운 수출 통제 기계",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T01:14:00+00:00",
+   "image": "https://social.news.hada.io/topic/37088/pc0113fb2dca23f1ee5c2799e00dde8e",
+   "summary": "다리오 아모데이의 에세이 \"Machines of Loving Grace\" 을 패러디한 제목.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "7bf0c68f8bc6",
+   "url": "https://news.hada.io/topic?id=37085",
+   "title": "nac - 긴 작업에서 원래 목표를 잃지 않게 하는 에이전트 하네스",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T00:30:03+00:00",
+   "image": "https://social.news.hada.io/topic/37085/p08cae99898b47fa02773d1d1b4022c7",
+   "summary": "실험, 모델 학습, 인프라 구축, 프로토타이핑처럼 오래 걸리는 작업을 처음 의도에 맞춰 이어가도록 설계된 오픈소스 하네스 중앙 오케스트레이터 가 전체 작업을 계획",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "37c48020c64d",
+   "url": "https://byline.network/2026/11/13-726",
+   "title": "구글, 플래시 후속 ‘제미나이 4 하이드로젠’ 출시",
+   "source": "바이라인네트워크",
+   "source_id": "byline",
+   "published_at": "2026-11-13T00:22:34+00:00",
+   "image": "https://cdn.byline.network/wp-content/uploads/2026/11/gemini-4-hydrogen.jpg",
+   "summary": "구글이 효율형 AI 모델인 플래시 시리즈의 최신 버전 ‘제미나이 4 하이드로젠(Hydrogen)’을 공개했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "212f1dfebbaf",
+   "url": "https://news.hada.io/topic?id=37084",
+   "title": "『Let Over Lambda』 전체를 이제 온라인에서 무료로 읽을 수 있음",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T00:01:24+00:00",
+   "image": "https://social.news.hada.io/topic/37084/pa2d77f48f821c68146eb453f0802086",
+   "summary": "Common Lisp 프로그래밍 서적 Let Over Lambda 전체가 2026년 업데이트를 통해 온라인에 무료로 공개됨 전문은 HTML과 PDF 두 형식으로 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "c485c24e80ea",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42715",
+   "title": "젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 '크레스' 임시 CEO 선임",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-12T23:58:12+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42715_64168_06_v150.jpg",
+   "summary": "사생활 문제와 국가안보 우려를 둘러싼 논란 끝에 젠슨 황(Jensen Huang) 엔비디아(NVIDIA) 공동창업자 겸 최고경영자(CEO)가 전격 사임했다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "a06474431e13",
+   "url": "https://news.hada.io/topic?id=37082",
+   "title": "데이터센터에 필요한 전력, 저소득층과 농촌 주민이 대가를 치른다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T23:38:47+00:00",
+   "image": "https://social.news.hada.io/topic/37082/p646fbe9805b72a49f15c091a38fdfc9",
+   "summary": "Cornell 연구진이 미국 주요 전력망 4곳을 분석한 결과, 2025년 데이터센터는 확장에 따른 전력 인프라 비용의 38% 만 부담했고 나머지 62%는 주로 주",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "374b316abe70",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42714",
+   "title": "이 대통령, 충청권 392조원 메가프로젝트 본격화…AI·반도체 투자에 중소기업 참여 확대",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-12T23:38:07+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42714_64167_3659_v150.jpg",
+   "summary": "정부가 392조원 규모의 충청권 메가프로젝트를 본격 추진하면서 반도체와 인공지능(AI) 등 첨단산업 투자 확대에 속도를 낸다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "d7e877a3fc0c",
+   "url": "https://news.hada.io/topic?id=37081",
+   "title": "태양을 한 바퀴 도는 데 약 280년 걸리는 왜소행성 후보 발견",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T23:35:47+00:00",
+   "image": "https://social.news.hada.io/topic/37081/p839a93b68f46b057e19918e34b47036",
+   "summary": "칠레 Vera C.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "7aac2de318ba",
+   "url": "https://discuss.pytorch.kr/t/alphagenome-2-eqtl-2-feat-google-deepmind/12491",
+   "title": "AlphaGenome 2 출시: 세포 유형별 변이 효과 예측으로 단일세포 eQTL 재현율 약 2배 (feat. Google DeepMind)",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-12T23:30:24+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/c/7/c7afbe60bf7e16042fd023f66fe726231ca098b9_2_1028x638.jpeg",
+   "summary": "핵심 요약 Google DeepMind가 2026년 11월 11일 AlphaGenome 2 발표 글 에서 AlphaGenome 2를 출시했습니다.",
+   "category": "vibe_coding",
+   "buzz": 1
+  },
+  {
+   "id": "cfae41579a99",
+   "url": "https://www.venturesquare.net/1128291",
+   "title": "스팩스페이스, 사진·영상으로 움직이는 장면까지 3D 복원…‘위드비전’ 공개",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-12T23:00:27+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/WITHVISION-789x522.jpg",
+   "summary": "최근 사진과 영상 데이터를 기반으로 공간을 재구성하는 인공지능(AI) 기술이 발전하면서 복잡한 제작 과정을 소프트웨어로 간소화하려는 시도가 이어지고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "6740a6546224",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217346",
+   "title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-12T23:00:00+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217346_221578_1649.png",
+   "summary": "메타가 선점했던 AI 안경 시장에 구글과 삼성전자가 가세하면서 경쟁을 예고했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "ce101399ece4",
+   "url": "https://news.hada.io/topic?id=37079",
+   "title": "Show GN: kr-career-skill - 채용 사이트 270 여곳의 공고 검색과 기업분석 및 자소서 초안 작성을 하는 한국 취...",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T22:57:53+00:00",
+   "image": "https://social.news.hada.io/topic/37079/pb4a291466a7d81033c6a8c8091b1cc7",
+   "summary": "취업·이직용 에이전트 스킬입니다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "01dd74ccc035",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42713",
+   "title": "인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-12T22:27:34+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42713_64159_1747_v150.jpg",
+   "summary": "인텔코리아가 국내 23개 기업과 함께 소버린 AI와 피지컬 AI를 아우르는 인공지능(AI) 산업 생태계 구축에 나선다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "4b584423e8ee",
+   "url": "https://www.venturesquare.net/1125736",
+   "title": "[VS 기획] ‘AI와 대화하는 직원, 복도 누비는 로봇’…사무실의 기준이 달라진다",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-12T22:22:30+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/b01-789x444.jpg",
+   "summary": "직원이 AI에 음성으로 보고서 수정을 요청한다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "e840985f80da",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42712",
+   "title": "인텔 아닐 난두리 부사장, “AI 에이전트 시대, GPU만으로는 부족”…차세대 추론 가속기 공개",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-12T21:50:29+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42712_64157_4913_v150.jpg",
+   "summary": "인공지능이 질문에 답하는 생성형 AI에서 스스로 업무를 계획하고 실행하는 에이전틱 AI로 발전하면서 데이터센터의 컴퓨팅 구조도 변화하고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "689302d32fc0",
+   "url": "https://news.hada.io/topic?id=37077",
+   "title": "Google Antigravity에 Orchestrator 추가, 코딩 중 Carbon과 Hydrogen 자동 전환",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T21:38:41+00:00",
+   "image": "https://social.news.hada.io/topic/37077/pc2dd2918edb0c87b83187733ac3b203",
+   "summary": "Google Antigravity의 모델 선택 메뉴에 Gemini 4 Hydrogen 과 Orchestrator 가 추가됨 Orchestrator 는 한 코딩 세",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "51b0b59ad9f4",
+   "url": "https://news.hada.io/topic?id=37076",
+   "title": "Show HN: 300달러짜리 자수기에 구독이 필요해서 직접 앱을 만들었다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T21:35:41+00:00",
+   "image": "https://social.news.hada.io/topic/37076/pd267fe8c3f0d4998b0d9d72a5790f74",
+   "summary": "ZigZag 는 SVG 그림을 자수 바늘땀으로 변환하고 시각적으로 편집하는 Rust 앱으로, 자수기용 파일을 내보내거나 Brother Skitch에 직접 전송할 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "21b9ba4654d4",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42711",
+   "title": "인텔 댄 로드리게스 부사장, “PC는 AI 에이전트가 일하는 컴퓨터로 진화”…피지컬 AI·자율 공장 전략 공개",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-12T21:30:12+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42711_64154_2837_v150.jpg",
+   "summary": "인공지능(AI)이 PC에서 사용자의 질문에 답하는 단계를 넘어 여러 애플리케이션을 직접 실행하고 업무를 처리하는 에이전틱 AI로 발전하면서 컴퓨터의 역할도 변화하",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "cb3d5a9aa0cd",
+   "url": "https://news.hada.io/topic?id=37075",
+   "title": "Jane Street의 소프트웨어 엔지니어링 면접이 조금 달라집니다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T21:21:12+00:00",
+   "image": "https://social.news.hada.io/topic/37075/p50ef622d1af58f8502cb2630f07524f",
+   "summary": "Jane Street 가 대학생 지원자의 현장 면접에서 코드 작성 비중을 줄이고, 소프트웨어 설계와 코드 검증, LLM 활용을 평가하는 새 면접 유형을 시험 중임",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "43e53ced10dc",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42710",
+   "title": "비스와니탄 인텔 아시아태평양 총괄, “한국, 소버린 AI·피지컬 AI·엣지 AI 성장 잠재력 높아”",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-12T21:01:27+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42710_64150_581_v150.jpg",
+   "summary": "인텔(Intel)이 한국의 반도체와 메모리 기술, 연구개발 역량을 기반으로 소버린 AI와 피지컬 AI, 엣지 AI 분야에서 새로운 성장 기회를 창출할 수 있다는 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "91d999e4e902",
+   "url": "https://news.hada.io/topic?id=37074",
+   "title": "AMD In-Depth에서 Mike Clark과 나눈 Zen 6 심층 대화",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T20:35:45+00:00",
+   "image": "https://social.news.hada.io/topic/37074/p9e698ac73eb6e7a24986144b2ff8ca6",
+   "summary": "Zen 6 제품군 은 기존 설계를 고주파수 중심으로, 고밀도 설계인 Zen 6c 를 높은 IPC 중심으로 발전시킴 Zen 6c 는 낮은 목표 주파수 덕분에 내부 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "c8bb51e46d85",
+   "url": "https://news.hada.io/topic?id=37073",
+   "title": "Microsoft Outlook, 대규모 접속 장애 발생",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T20:32:45+00:00",
+   "image": "https://social.news.hada.io/topic/37073/p9424f188131b12d3b6f24e9d63ebb39",
+   "summary": "11월 12일(미국 현지시간) Exchange Online 장애 로 Outlook에서 메일함을 열거나 메일을 주고받는 데 문제가 발생함.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "d9c51cced443",
+   "url": "https://news.hada.io/topic?id=37072",
+   "title": "닌텐도, GitHub의 Switch 에뮬레이터와 모드칩 펌웨어에 DMCA 삭제 요청",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T19:55:37+00:00",
+   "image": "https://social.news.hada.io/topic/37072/p75a6c4e7b4825d13da417529dfd066c",
+   "summary": "닌텐도가 GitHub에 DMCA 삭제 통지 4건 을 보내 Switch 에뮬레이터와 모드칩 펌웨어 저장소를 겨냥함 이번 조치는 모드칩 펌웨어에 초점 을 맞춘 것으로",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "14d884f5926d",
+   "url": "https://news.hada.io/topic?id=37071",
+   "title": "작고 오래된 기기에서도 LLM이 돌아가게 만들고 있습니다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T19:52:37+00:00",
+   "image": "https://social.news.hada.io/topic/37071/p4715a4a64e90fc09e2d1fd9c4c3bc47",
+   "summary": "smolmaxxing 은 TV 박스와 오래된 iPad에서 실행 가능한 최대 규모의 언어 모델을 찾고, 맞춤형 커널과 메모리 최적화, 가중치 스트리밍으로 성능을 끌",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "af01cf0b6dd1",
+   "url": "https://news.hada.io/topic?id=37070",
+   "title": "Rust 1.100.0 - never 타입과 사용자 정의 메모리 할당자 안정화",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T19:49:36+00:00",
+   "image": "https://social.news.hada.io/topic/37070/p11eea6870cca1225b371c04c60635f7",
+   "summary": "never 타입 !",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "db1cea0beeb9",
+   "url": "https://news.hada.io/topic?id=37069",
+   "title": "Ask HN: Microsoft/Azure 장애인가요?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-12T19:46:36+00:00",
+   "image": "https://social.news.hada.io/topic/37069/pf1f805846cefd88fbecd62ad2c7f97a",
+   "summary": "최근 5분 동안 사용 중인 Microsoft Cloud 연결이 모두 끊긴 상태 이며, 다른 사람도 같은 문제를 겪는지 확인하고자 함 상태 페이지 조차 로드되지 않",
+   "category": "etc",
+   "buzz": 0
+  },
   {
    "id": "fbcf037d92c5",
    "url": "https://www.bloter.net/news/articleView.html?idxno=678461",
@@ -27,30 +351,6 @@
    "buzz": 0
   },
   {
-   "id": "5338e0196e15",
-   "url": "https://news.hada.io/topic?id=37067",
-   "title": "CPU를 새로 설계하기 위해 약 390억원 투자 유치",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T18:37:56+00:00",
-   "image": "https://social.news.hada.io/topic/37067/pe898ac960d131f42ea884e3071094b5",
-   "summary": "Tendrils 가 범용 컴퓨팅을 재설계하기 위해 Benchmark 주도로 3,000만 달러($30m) 투자를 유치함 순차 실행 설계에서 출발하는 대신, 수천 개",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "a549875228ab",
-   "url": "https://news.hada.io/topic?id=37066",
-   "title": "개발 중단된 Quake 4 확장팩, 모더들이 완성해 플레이 가능해짐",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T18:34:56+00:00",
-   "image": "https://social.news.hada.io/topic/37066/pab8686185b0482a297191abbe84245a",
-   "summary": "openQ4 0.14.1 Awakening Edition 에서 미출시 Quake 4 확장팩 The Awakening을 원작 캠페인과 함께 플레이할 수 있게 됨 확",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "dfd94a343a5d",
    "url": "https://www.bloter.net/news/articleView.html?idxno=678474",
    "title": "아이티센엔텍, 매출 8% 늘 때 영업익 158% 늘어난 이유",
@@ -72,7 +372,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217309_221539_4922.png",
    "summary": "구글 딥마인드가 DNA 변이가 어떤 세포에서 유전자 활동에 영향을 미치는지 예측하는 AI 모델 '알파게놈 2(AlphaGenome 2)'를 공개했다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "d8c56e79ab16",
@@ -183,18 +483,6 @@
    "buzz": 0
   },
   {
-   "id": "ede2d17eba3d",
-   "url": "https://news.hada.io/topic?id=37065",
-   "title": "Show HN: Black Ops II를 네이티브 ARM64 macOS용으로 정적 재컴파일",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T17:37:26+00:00",
-   "image": "https://social.news.hada.io/topic/37065/p4a0bf7b2a23e681967a0161326f0fc5",
-   "summary": "bo2-mac 은 사용자가 보유한 Steam판 Black Ops II의 32비트 x86 실행 파일을 Mac에서 미리 변환해, Windows나 가상 머신 없이 실행",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "a64d99a0604b",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42707",
    "title": "AI가 약관 따져 보험금 심사 근거 제시…퀀텀에이아이, ‘로디’ 공개",
@@ -204,18 +492,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42707_64147_3647_v150.jpg",
    "summary": "퀀텀에이아이(대표 최성집)는 보험금 청구 접수부터 심사, 지급, 사후관리까지 장기보상 업무 전반의 자동화를 지원하는 플랫폼 ‘로디(llodi)’를 12일 출시했다",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "c03a657d0792",
-   "url": "https://news.hada.io/topic?id=37064",
-   "title": "미국, 생물테러 억제를 위해 합성 DNA 주문에 새 규정 도입",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T17:34:26+00:00",
-   "image": "https://social.news.hada.io/topic/37064/p8cf08f357a3a0faef7e637e9ac66bcf",
-   "summary": "",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -264,7 +540,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217336_221574_5725.jpeg",
    "summary": "392조 원 규모 '충청권 메가프로젝트'가 투자 발표 4개월 만에 첫 삽을 떴다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "5e3135e9fc51",
@@ -351,18 +627,6 @@
    "buzz": 0
   },
   {
-   "id": "cb8a65a758b4",
-   "url": "https://news.hada.io/topic?id=37063",
-   "title": "Apple 지원 커뮤니티, 2026년 11월 20일 영구 폐쇄 예정",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T16:39:35+00:00",
-   "image": "https://social.news.hada.io/topic/37063/p38f36a7c69a88f5d5c5c242c2558ffa",
-   "summary": "Apple 고객이 서로 제품 사용을 돕던 Apple Support Community 가 2026년 11월 20일 운영을 영구 종료함 공지 당일부터 새 게시물 접수",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "fbb7a90882df",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21942",
    "title": "MS, 오는 17일 이그나이트 2026서 기업용 AI 전략 공개",
@@ -372,30 +636,6 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21942_22735_3357.jpg",
    "summary": "마이크로소프트는 현지시간 11월 17일부터 20일까지 미국 샌프란시스코 모스콘센터에서 연례 최대 기술 행사 ‘마이크로소프트 이그나이트 2026’을 개최한다.",
    "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
-   "id": "56c278f3d63d",
-   "url": "https://news.hada.io/topic?id=37062",
-   "title": "Nvidia CEO Jensen Huang, 두 번째 불륜 보도로 스캔들이 커진 뒤 사임",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T16:36:35+00:00",
-   "image": "https://social.news.hada.io/topic/37062/p2d94a55eb0e15cb64175960296d244b",
-   "summary": "Jensen Huang 이 Nvidia의 CEO, 사장, 이사직에서 물러났으며, 이사회는 CFO Colette Kress 를 임시 CEO로 선임함 Huang이 불",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "b39cb875847a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217333",
-   "title": "신안우이 해상풍력 390MW 착공…목포·해남 3400억 투자협약은 일정 협의",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-12T16:27:14+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217333_221568_217.jpg",
-   "summary": "전남 신안우이 해상풍력 발전단지가 착공하고 목포 해상풍력 플랫폼센터도 문을 열었지만, 목포와 해남에 계획된 총 3400억원 규모의 터빈·기자재 시설 투자는 여전히",
-   "category": "ai",
    "buzz": 0
   },
   {
@@ -411,18 +651,6 @@
    "buzz": 0
   },
   {
-   "id": "087bd869b92a",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42702",
-   "title": "AI가 과학 연구의 판도를 바꾼다…서울 S&T 포럼, 글로벌 연구개발 혁신 전략 논의",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-12T15:51:00+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42702_64142_489_v150.jpg",
-   "summary": "인공지능(AI)이 과학적 발견과 연구개발(R&D)의 방식을 근본적으로 변화시키는 가운데, 미국과 유럽, 한국의 과학기술 전문가들이 한자리에 모여 AI 기반 연구혁",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
    "id": "ab4f0f5fc4d7",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21941",
    "title": "IBM, 520큐비트 양자칩 ‘나이트호크 r3’ 공개...1만회 양자 연산 지원",
@@ -431,18 +659,6 @@
    "published_at": "2026-11-12T15:42:59+00:00",
    "image": "https://cdn.newstheai.com/news/photo/202611/21941_22734_3744.jpg",
    "summary": "IBM은 11일(현지시간) 차세대 양자 프로세서 ‘IBM 퀀텀 나이트호크 r3’ 개발 계획을 발표했다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "ba312546e6ad",
-   "url": "https://news.hada.io/topic?id=37061",
-   "title": "Jensen Huang, Nvidia CEO직 즉시 사임",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T15:34:05+00:00",
-   "image": "https://social.news.hada.io/topic/37061/p9a7d504429ca52c9a6a94473e5255d0",
-   "summary": "Jensen Huang 이 Nvidia CEO와 이사회에서 물러나고, CFO Colette Kress 가 정식 후임자를 찾는 동안 임시 CEO를 맡음 사임에 앞서",
    "category": "ai",
    "buzz": 0
   },
@@ -492,31 +708,7 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2025/01/nvidia_jensen-huang.jpg",
    "summary": "젠슨 황 엔비디아 창업자가 12일(현지시간) 최고경영자(CEO)에서 물러났다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "38713788109b",
-   "url": "https://news.hada.io/topic?id=37060",
-   "title": "올바른 소프트웨어를 작성하기 어려운 이유",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T14:42:12+00:00",
-   "image": "https://social.news.hada.io/topic/37060/p1ca9680d5587bcd2b5376bd9b63479b",
-   "summary": "소프트웨어의 정확성 확보 비용 은 도구의 부족만이 아니라 계산 자체의 본질적 한계에서 비롯됨.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "75309eefcdff",
-   "url": "https://news.hada.io/topic?id=37059",
-   "title": "Nvidia, 젠슨 황 CEO 사임 발표… CFO 콜레트 크레스가 임시 CEO로",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T14:39:12+00:00",
-   "image": "https://social.news.hada.io/topic/37059/p788a810b8854c26578e4d4635dba643",
-   "summary": "Nvidia는 공동창업자 젠슨 황이 사장, CEO, 이사직에서 물러났다 고 발표.",
-   "category": "ai",
-   "buzz": 0
+   "buzz": 2
   },
   {
    "id": "61468ccaa7b1",
@@ -591,102 +783,6 @@
    "buzz": 1
   },
   {
-   "id": "acd5b876811f",
-   "url": "https://news.hada.io/topic?id=37057",
-   "title": "Palantir, 새 의회의 조사 앞두고 민주당 출신 전직 상원의원 영입",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T13:46:01+00:00",
-   "image": "https://social.news.hada.io/topic/37057/p5521580c83cfd929cc11dcf45c14840",
-   "summary": "민주당이 1월 상하원 다수당이 되면서 기술업계와 Trump 행정부의 관계를 조사할 것으로 예상되는 가운데, Palantir가 Jon Tester 전 민주당 상원의",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "b7683c426a3e",
-   "url": "https://news.hada.io/topic?id=37056",
-   "title": "Show GN: RefDaily - 매일 아침 새 논문을 찾아 오고, 읽고 쓰는 일까지 옆에서 챙겨 주는 AI 연구 매니저",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T13:45:27+00:00",
-   "image": "https://social.news.hada.io/topic/37056/pe6971ce06bc80c20db9615a5b3c146a",
-   "summary": "박사과정을 하면서 제일 힘들었던 건 할 일이 너무 많아서 논문을 읽고 내 연구로 쌓아 갈 시간이 없다는 거였습니다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "896275fb8094",
-   "url": "https://news.hada.io/topic?id=37055",
-   "title": "추론은 어떤 목적함수를 풀고 있는가?",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T13:43:01+00:00",
-   "image": "https://social.news.hada.io/topic/37055/pc8f87786fe56832d9dc047b0e1ebab3",
-   "summary": "추론을 토큰 공간의 경로 탐색 으로 보면, 강화학습은 정답에 도달하는 경로를 생성할 확률을 높이지만 개별 사고 과정이 정답으로 수렴하도록 보장하지는 않음 더 긴 ",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "8c70b695862f",
-   "url": "https://www.venturesquare.net/1128156",
-   "title": "본에이아이, 산불 감시부터 드론 출동까지 AI로 연결…경북 현장에 무인 예찰체계 구축",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-12T13:41:53+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/FIRE-789x444.jpg",
-   "summary": "산불을 조기에 발견하는 것만큼 중요한 일은 발견된 징후가 실제 화재인지 신속하게 확인하고 대응 인력에게 정확한 현장 정보를 전달하는 것이다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "13502ca10265",
-   "url": "https://news.hada.io/topic?id=37054",
-   "title": "Anthropic, IPO 희망가 70~78달러 공개… 11월 19일 나스닥 거래 예상",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T13:40:00+00:00",
-   "image": "https://social.news.hada.io/topic/37054/p74d3fde6a45690eb913711c65f5fb4c",
-   "summary": "Anthropic은 IPO에서 Class A 보통주 8억 2,500만 주 를 공모할 계획이며, 희망 공모가는 주당 70~78달러 임.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "b24d59a57b16",
-   "url": "https://www.venturesquare.net/1128120",
-   "title": "마이크로소프트, 이그나이트 2026서 AI 에이전트 기반 기업 혁신 전략 공개",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-12T13:31:29+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/MOCRO-750x522.jpg",
-   "summary": "문서를 작성하거나 정보를 검색하는 데 AI를 활용하는 것과 여러 업무 시스템을 연결해 실제 작업을 수행하도록 만드는 것은 기술적 요구부터 다르다.",
-   "category": "vibe_coding",
-   "buzz": 2
-  },
-  {
-   "id": "fbe89c3690ef",
-   "url": "https://news.hada.io/topic?id=37052",
-   "title": "Utah Teapot - 컴퓨터 그래픽스의 상징이 된 주전자 모델",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T12:33:49+00:00",
-   "image": "https://social.news.hada.io/topic/37052/p2ed56e403ba384297ca9b4fdda6a788",
-   "summary": "Utah Teapot 은 초기 Bézier 패치 기반 모델 중 하나이자 컴퓨터 그래픽스 알고리듬 평가에 쓰이는 표준 모델로, 공식 페이지에서 역사적 버전을 시각화",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "04eab480b5ee",
-   "url": "https://news.hada.io/topic?id=37051",
-   "title": "퇴직연금 자금이 AI 버블을 키우고 있다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-12T11:34:07+00:00",
-   "image": "https://social.news.hada.io/topic/37051/p27c38ab138879e4db49ddf98f42d723",
-   "summary": "공공부문 연금과 민간 근로자의 퇴직연금이 사모대출과 사모펀드 를 통해 데이터센터 건설에 투입되면서, 가입자들도 충분히 공개되지 않는 AI 투자 위험에 노출되고 있",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "8967dd8c783d",
    "url": "https://byline.network/2026/11/12-683",
    "title": "“CVE·패치 나오기 전 악용되는 AI 취약점 공격, ‘런타임 보안’으로 막는다” – 레이븐, 한국 진출",
@@ -709,66 +805,6 @@
    "summary": "vLLM Router 소개 vLLM 서버를 여러 대 운영하면 요청을 어느 서버로 보낼지 정해야 합니다.",
    "category": "ai",
    "buzz": 0
-  },
-  {
-   "id": "a31a378c1be5",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42705",
-   "title": "KT·마이크로소프트, 네트워크 문제 감지하는 AI 에이전트 개발…장애 탐지 10분에서 2~3분으로 단축",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-12T10:41:13+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42705_64141_4552_v150.jpg",
-   "summary": "KT와 마이크로소프트가 숙련된 통신망 엔지니어의 경험과 전문지식을 학습한 에이전틱 인공지능(AI) 플랫폼을 공동 개발해 네트워크 장애 탐지 시간을 기존 10분 이",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "8a9157c4c51c",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42704",
-   "title": "AI, \"1000개 질문을 0.25초 안에 판단한다!\"...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-12T10:11:43+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42704_64140_1027_v150.jpg",
-   "summary": "구글이 긴 문장을 생성하는 대신 주어진 선택지의 확률과 신뢰도를 빠르게 계산하는 의사결정 특화 인공지능(AI) 모델을 공개했다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "0726aa3cb576",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42703",
-   "title": "AI로 희귀 신장암 진단 정확도 60%에서 73.3%로 향상…의사의 AI 수용 성향이 진단 성과 좌우",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-12T09:45:40+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42703_64138_4330_v150.jpg",
-   "summary": "희귀 신장암을 판별하는 인공지능(AI)이 병리의사의 진단 정확도를 높일 수 있지만, 실제 효과는 의료진이 AI의 판단을 얼마나 수용하고 검증하는지에 따라 달라진다",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "e2e2a10aced8",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42701",
-   "title": "\"기록의 맥락까지 찾아준다\"... 솔트룩스,국가기록 2,380만 건 AI 검색 기반 구축",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-12T09:22:02+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42701_64137_211_v150.jpg",
-   "summary": "솔트룩스(대표 이경일)가 국가기록원의 방대한 기록정보를 자연어 질문만으로 검색하고, 기록물의 맥락과 연관 관계까지 분석하는 인공지능(AI) 검색 시스템 구축에 나",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "f30e4db64742",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42700",
-   "title": "IBM, 양자컴퓨터 연산 속도 최대 19배 향상…2027년 1,000큐비트 시대 연다",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-12T09:06:59+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42700_64136_644_v150.jpg",
-   "summary": "IBM이 기존 양자 프로세서보다 최대 19배 빠른 연산 성능을 확보하고, 2027년까지 1,000큐비트 이상의 대규모 양자컴퓨터를 구축하겠다는 계획을 발표했다.",
-   "category": "vibe_coding",
-   "buzz": 1
   },
   {
    "id": "5d1b287711f1",
@@ -999,18 +1035,6 @@
    "buzz": 0
   },
   {
-   "id": "421a7a464a78",
-   "url": "https://discuss.pytorch.kr/t/11-16-11-23-ai/12480",
-   "title": "11/16~11/23 마감 AI·데이터 대회 정리",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-11T15:35:17+00:00",
-   "image": "https://hackable.co.kr/favicon.ico?favicon.2rn3i59semio0.ico",
-   "summary": "모델 만들거나 데이터 분석하는 대회만 날짜순으로 적었어요.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "f0c5d1e13c0b",
    "url": "https://byline.network/2026/11/1111-9",
    "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
@@ -1019,30 +1043,6 @@
    "published_at": "2026-11-11T14:34:54+00:00",
    "image": "https://cdn.byline.network/wp-content/uploads/2026/11/AIVEX.jpg",
    "summary": "피지컬 AI의 제조 현장 도입이 확대되고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산의 걸림돌로 작용하고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "f3f8bb86ff58",
-   "url": "https://byline.network/2026/11/11-724",
-   "title": "금융보안원 해킹, 금감원 권한 가진 허위 계정 악용…AI 공격 가능성도",
-   "source": "바이라인네트워크",
-   "source_id": "byline",
-   "published_at": "2026-11-11T08:56:45+00:00",
-   "image": "https://cdn.byline.network/wp-content/uploads/2026/04/FSI11.jpg",
-   "summary": "금융보안원에서 발생한 해킹 사고에서 공격자가 시스템 취약점을 악용해 금융감독원 수준의 접근 권한을 가진 허위 계정을 만든 것으로 확인됐다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "5ca97546b6b6",
-   "url": "https://byline.network/2026/11/9-527",
-   "title": "[주간 리포트] 코앞까지 닥친 배달앱 수수료 상한제",
-   "source": "바이라인네트워크",
-   "source_id": "byline",
-   "published_at": "2026-11-11T08:26:27+00:00",
-   "image": "https://cdn.byline.network/wp-content/uploads/2026/04/10-byline.jpg",
-   "summary": "바이라인 주간 프리미엄 트렌드 리포트 494호 딥다이브에서는 ‘코앞까지 닥친 배달앱 수수료 상한제’를 다뤘습니다.",
    "category": "ai",
    "buzz": 0
   },
