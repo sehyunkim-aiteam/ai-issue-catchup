@@ -1,7 +1,211 @@
 {
  "version": 4,
- "generated_at": "2026-11-14T10:29:02+00:00",
+ "generated_at": "2026-11-14T18:04:03+00:00",
  "items": [
+  {
+   "id": "4b3b53339261",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217411",
+   "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-14T18:45:47+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217411_221655_4342.png",
+   "summary": "스콧 베선트 미국 재무장관이 엔비디아 AI 칩을 구매해 온 싱가포르 기업 메가스피드에 대한 수출 통제를 미뤄 온 상무부를 공개적으로 비판했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "3125dfb822c7",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42731",
+   "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-14T18:43:42+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42731_64191_4258_v150.jpg",
+   "summary": "오픈AI가 인공지능 에이전트가 사용자를 대신해 온라인 상품을 구매하고 결제할 수 있는 전용 디지털 지갑 '챗GPT 월렛(ChatGPT Wallet)'을 13일(미",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "b87bc496b200",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
+   "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-14T17:56:54+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217410_221654_5141.png",
+   "summary": "젠슨 황 전 CEO가 물러난 뒤 엔비디아 직원들 사이에서 그의 복귀를 요구하는 목소리가 나오고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "87a92841ca8c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217409",
+   "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-14T17:37:48+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217409_221651_3150.jpg",
+   "summary": "일론 머스크 CEO가 엔비디아에서 물러난 젠슨 황 전 CEO에게 경의를 표하는 게시물을 올렸다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "91bf2ce6ce14",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
+   "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-14T17:03:50+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217407_221650_129.jpg",
+   "summary": "젠슨 황 전 CEO의 후임을 찾고 있는 엔비디아가 영국 반도체 설계 기업 Arm의 르네 하스 CEO와 접촉한 것으로 알려졌다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "f00526375135",
+   "url": "https://news.hada.io/topic?id=37165",
+   "title": "누구나 이해할 수 있는 ML 모듈",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T17:02:51+00:00",
+   "image": "https://social.news.hada.io/topic/37165/p74729b47ac05993ea0b9df072e63cca",
+   "summary": "ML 모듈 은 함수와 타입을 묶는 데 그치지 않고, 모듈 자체에 시그니처(signature) 라는 타입을 부여해 공개 인터페이스와 구현을 분리함 하나의 구현에 서",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "d3cf035eb7cf",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217406",
+   "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-14T16:49:31+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217406_221649_4256.png",
+   "summary": "젠슨 황 전 엔비디아 CEO가 대규모 AI 투자에 제동을 걸었던 콜레트 크레스 최고재무책임자(CFO)를 회의에서 공개적으로 깎아내렸던 사실이 드러났다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "e7a09b81d1df",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678625",
+   "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-14T16:00:00+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678625_293450_3528_v150.jpg",
+   "summary": "다음 주 시장의 기대를 모으고 있는 앤트로픽의 기업공개(IPO)와 위기에 직면한 반도체기업 엔비디아의 분기 실적 발표가 예정돼있어 인공지능(AI) 투자 수요가 시",
+   "category": "business",
+   "buzz": 1
+  },
+  {
+   "id": "4f2bb4608abf",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217405",
+   "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-14T15:53:09+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217405_221648_5558.jpg",
+   "summary": "말레이시아 정부가 싱가포르 클라우드 컴퓨팅 기업 메가스피드의 현지 계열사가 수입한 엔비디아 AI 칩의 재수출 여부를 조사하고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "c45c32621ec9",
+   "url": "https://news.hada.io/topic?id=37163",
+   "title": "Nvidia 이사, Jensen Huang 스캔들 몇 주 전 주식 약 1.3조원 매각",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T15:39:16+00:00",
+   "image": "https://social.news.hada.io/topic/37163/p3ce777b6293a760eb391b83f6934a85",
+   "summary": "Nvidia의 2대 주주이자 이사인 Mark Stevens 가 2026년 3분기에 약 420만 주, 약 9억 4,600만 달러($946m) 규모의 주식을 매각함.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "da733fd817b0",
+   "url": "https://news.hada.io/topic?id=37162",
+   "title": "Unsloth Qwen3.8-27B 양자화 모델, Dynamic v3.1 업데이트",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T15:36:16+00:00",
+   "image": "https://social.news.hada.io/topic/37162/pdffa85b5c34ccbb084a753964027f5e",
+   "summary": "Unsloth가 Dynamic V3.1 프리뷰 를 적용한 Qwen3.8-27B GGUF를 공개함.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "9e362f83f9f8",
+   "url": "https://news.hada.io/topic?id=37159",
+   "title": "Claude Fable 5.2로 에이전트 1,000개 팀 안전하게 돌리기 - 페르마의 마지막 정리 형식화 실험",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T14:39:02+00:00",
+   "image": "https://social.news.hada.io/topic/37159/pe17fdf62ffb1ece43d5620d54bb8482",
+   "summary": "Anthropic 연구진이 출시 전 Claude Fable 5.2로 리드 에이전트 1개와 헬퍼 999개를 돌려, 페르마의 마지막 정리 증명을 Lean으로 형식화하",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "7ceabda7e932",
+   "url": "https://news.hada.io/topic?id=37158",
+   "title": "Show GN: dashcamsimulator - 실제 사고를 기반으로 만들어진 블랙박스 시뮬레이션 게임",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T14:04:42+00:00",
+   "image": "https://social.news.hada.io/topic/37158/p9539c86134ff5134c34976aacc7c2fb",
+   "summary": "현실에서 사고를 마주했을 땐 이미 늦습니다.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "3554e84508c8",
+   "url": "https://news.hada.io/topic?id=37157",
+   "title": "Show GN: 321Dive - 여섯 바다를 골라 둘러보는 가상 3D 잠수 공간",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T13:45:21+00:00",
+   "image": "https://social.news.hada.io/topic/37157/pc8656121e5a79ccb0385c535543634d",
+   "summary": "힐링이 필요해서 작은 가상 바다를 만들었습니다.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "21678aa23c83",
+   "url": "https://news.hada.io/topic?id=37156",
+   "title": "Monkey Island: 13개 버전을 나란히 비교하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T13:32:33+00:00",
+   "image": "https://social.news.hada.io/topic/37156/pf5961195906dd97cf6b17c08e3b7572",
+   "summary": "The Secret of Monkey Island(1990) 의 8개 에디션과 13개 디스플레이 모드를 동일한 12개 장면으로 비교하는 팬 제작 사이트임 모든 버",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "4505b7e4e95e",
+   "url": "https://discuss.pytorch.kr/t/gemm/12517",
+   "title": "비용 없는 정규화를 향해: 정규화를 GEMM과 어텐션 커널에 융합하기 | 파이토치 한국 사용자 모임",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-14T12:52:00+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/3/d/3d95109f1cf08930890ecbd9962483aec67d895a_2_1028x484.png",
+   "summary": "TL;DR 이번 글에서는 LayerNorm과 RMSNorm 같은 일반적인 정규화(normalization) 연산을 위한 다양하고 새로운 커널 융합(kernel f",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "c51b26a51a1e",
+   "url": "https://news.hada.io/topic?id=37154",
+   "title": "염증을 유발하지 않으면서 노화를 촉진하는 단백질 발견",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T11:31:28+00:00",
+   "image": "https://social.news.hada.io/topic/37154/p17826c22ba0ec26b019c0697438ae45",
+   "summary": "신체 조직의 노화를 촉진하는 효소 granzyme K 가 발견됐으며, 이 효소가 없는 고령 생쥐에서 장기 기능 개선이 확인됨 granzyme K가 없도록 유전적으",
+   "category": "etc",
+   "buzz": 0
+  },
   {
    "id": "663d44b4ce19",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217397",
@@ -36,7 +240,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217402_221647_829.jpg",
    "summary": "앤트로픽의 기업공개(IPO)에서 중국 본토와 홍콩 기관투자자들이 공모주를 배정받기 어려운 것으로 알려졌다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "9cd97d2824cc",
@@ -48,7 +252,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217400_221642_3218.jpg",
    "summary": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 출시했다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "534c1f0cb8e1",
@@ -60,7 +264,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217404_221646_11.png",
    "summary": "AI타임스와 이스트에이드의 11월 둘째 주(11월6~12일) 이슈 분석 결과, 젠슨 황 엔비디아 CEO의 퇴진과 잇따른 강력 사건을 비롯해 트럼프 대통령의 중간선",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "2b4d4642f587",
@@ -123,18 +327,6 @@
    "buzz": 0
   },
   {
-   "id": "a5417780a5fc",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217401",
-   "title": "아모데이 \"컴퓨팅 수요 예측이 최대 경영 난제…과잉도 부족도 위험\"",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-14T09:33:13+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217401_221641_2710.jpg",
-   "summary": "다리오 아모데이 앤트로픽 CEO가 AI 컴퓨팅 투자 규모를 결정하는 것이 회사의 가장 어려운 경영 과제라며, 과잉 투자와 투자 부족에 따른 위험을 설명했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "f78f6591ac4a",
    "url": "https://discuss.pytorch.kr/t/flashstates-llm-prefix-cache-vllm/12511",
    "title": "FlashStates: 하이브리드 LLM 에이전트 서빙에서 Prefix Cache 재계산을 줄이는 상태 관리에 대한 연구 및 vLLM 확장",
@@ -144,66 +336,6 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/f/a/faccfc7f3b169cf07ebf1f82573d3ad49d1179cc_2_1028x625.jpeg",
    "summary": "핵심 요약 FlashStates 는 Together AI, 일리노이 대학교 어배너-섐페인(UIUC), 텍사스 대학교 오스틴(UT Austin) 연구팀이 공개한 v",
    "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "b9f2cee8fb26",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217387",
-   "title": "광양 65세 이상 대상포진 예방접종, 누가 무료로 맞나…접종비 최대 31만원",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-14T09:20:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217387_221626_4653.jpg",
-   "summary": "광양시가 65세 이상 시민에게 대상포진 예방접종 비용을 지원하고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "74e1b82f576f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217302",
-   "title": "미국 최대 규모 폐광 활용 태양광 사업, 1조 규모 1차 금융 조달 완료",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-14T09:15:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217302_221529_5430.jpg",
-   "summary": "미국 텍사스주 석탄광산 복구지에 건설 중인 직류 기준 1.2기가와트(GWdc)급 태양광 발전사업이 총 18억달러(약 2조4032억원) 규모의 녹색대출(그린론) 가",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "498b3c28ba38",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217305",
-   "title": "중국 티베트 해발 4300m에 14시간 축열 태양열발전소 첫 연결...\"세계 최고도\"",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-14T09:10:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217305_221531_3114.jpg",
-   "summary": "중국 티베트 해발 4300m 고원에서 태양광 전기를 열로 저장해 야간 발전과 난방에 활용하는 50메가와트(MW)급 태양열발전소의 첫 발전기가 전력망에 연결됐다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "828f71766a7e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217306",
-   "title": "2044년 중국 폐태양광서 은 쏟아진다… 연 739톤 정점 전망",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-14T09:05:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217306_221535_2522.jpg",
-   "summary": "중국에서 2025년까지 설치된 태양광 모듈이 폐기되면서 나오는 은의 양이 2044년 연간 약 739톤으로 정점을 찍는다는 연구 결과가 나왔다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "a9da41cdba40",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217398",
-   "title": "MS, 전 세계 서비스 장애 복구 진전...\"원인은 네트워크 작업 오류\"",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-14T09:00:32+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217398_221638_5650.png",
-   "summary": "마이크로소프트(MS)가 전 세계 정부 기관과 기업의 업무에 차질을 빚게 한 대규모 서비스 장애의 원인을 공개하고 복구 작업에 진전을 보이고 있다고 밝혔다.",
-   "category": "ai",
    "buzz": 0
   },
   {
@@ -269,7 +401,7 @@
   {
    "id": "0afb5628a3af",
    "url": "https://news.hada.io/topic?id=37150",
-   "title": "Jonathan Blow: AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
+   "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
    "source": "GeekNews",
    "source_id": "geeknews",
    "published_at": "2026-11-14T06:37:18+00:00",
@@ -323,102 +455,6 @@
    "published_at": "2026-11-14T03:37:06+00:00",
    "image": "https://social.news.hada.io/topic/37145/p4e86d3a135461fa8b3a503fdf7bce06",
    "summary": "FAA 지휘센터 가 전국 항공기 이륙 중지 조치를 해제함 공지에 기재된 목적지 공항과 포함 시설은 모두 전체(ALL) 임 해제 공지의 서명 시각은 2026년 11",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "b3a8f67a43f6",
-   "url": "https://news.hada.io/topic?id=37144",
-   "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T03:34:06+00:00",
-   "image": "https://social.news.hada.io/topic/37144/p41389e8505cabd7f8912deba3bd7258",
-   "summary": "방산업체 Fire Point 에 따르면 우크라이나 드론이 13일 동안 러시아 주요 정유소 최소 9곳을 공격했으며, 피격 시설은 러시아 전체 정유 능력의 36% 를",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "2510535ab625",
-   "url": "https://news.hada.io/topic?id=37143",
-   "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T03:15:27+00:00",
-   "image": "https://social.news.hada.io/topic/37143/p8ba60be3eef0b2d166f328f7f23fa6e",
-   "summary": "안녕하세요, LLM 에 대해 공부하면서 로컬 인퍼런스를 위해 장비를 구매하고자 했는데, \"어느 스펙까지 맞춰야 DeepSeek 를 원활하게 돌릴지\" 같은 질문에 ",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "f5129d295f83",
-   "url": "https://news.hada.io/topic?id=37140",
-   "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T02:08:01+00:00",
-   "image": "https://social.news.hada.io/topic/37140/pf5fb6b5e908b07f6fd7d5cbbb8bd664",
-   "summary": "‘모두의 창업’ 2차 사업의 AI 솔루션 공급기업인 아미쿠스렉스(로폼) 의 자체 시스템이 해킹돼 이용자 20,028명의 개인정보 가 유출됐으며, 이 가운데 사업 ",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "632fda4eae4c",
-   "url": "https://news.hada.io/topic?id=37139",
-   "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T01:31:42+00:00",
-   "image": "https://social.news.hada.io/topic/37139/pc569075f5e8d38fc6368c82ee6d4021",
-   "summary": "Orcas Airband 는 San Juan Islands 지역의 항공 무선을 실시간으로 들을 수 있는 서비스임 제공된 페이지 스냅샷에서는 서비스 상태가 오프라인",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "b17600112da0",
-   "url": "https://news.hada.io/topic?id=37138",
-   "title": "FM-1 Workbench - FM1 펌웨어용 앱과 SDK의 라이선스 및 재배포 조건",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T00:38:43+00:00",
-   "image": "https://social.news.hada.io/topic/37138/p54246380dd57c3781228bcffe6b21f3",
-   "summary": "FM1의 공개 APP 소스는 GPLv3 전용 라이선스 를 따르며, 별도 조건의 바이너리 SDK와 결합해 배포할 수 있도록 링크 예외를 둠 독점 엔진 SDK는 FM",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "516b78ad4c1e",
-   "url": "https://news.hada.io/topic?id=37137",
-   "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T00:30:02+00:00",
-   "image": "https://social.news.hada.io/topic/37137/pfc5e4c09017460046ced1f8d725093a",
-   "summary": "채널에서 팀원과 구현 방향을 논의한 뒤 @ace 를 부르면 에이전트가 앞선 대화를 읽고 작업을 시작 에이전트가 작업 중 질문을 올리면 답을 아는 팀원이 바로 답해",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "32c6ab44c314",
-   "url": "https://news.hada.io/topic?id=37136",
-   "title": "최소한 제3의 선택지가 필요한 이유",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T00:18:41+00:00",
-   "image": "https://social.news.hada.io/topic/37136/p8605ebf2392bd7dd6571191c5242d5a",
-   "summary": "Android와 iOS를 벗어나는 실용적인 대안 이 필요함.",
-   "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
-   "id": "48ac7fdd3bad",
-   "url": "https://news.hada.io/topic?id=37135",
-   "title": "셀을 차지하지 않는 터미널 테두리",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T00:15:41+00:00",
-   "image": "https://social.news.hada.io/topic/37135/p91ab3a5568d89f0da460f4c3901fc44",
-   "summary": "문자 대신 셀 가장자리의 선 으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함 행과 열을 추가로 소비하지 않아 패널",
    "category": "etc",
    "buzz": 0
   },
@@ -723,18 +759,6 @@
    "buzz": 0
   },
   {
-   "id": "28c139643738",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42720",
-   "title": "구글, 영상 제작 AI 플로에 창작 도구 5종 추가…캐릭터 일관성·영상 후반 작업 강화",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-13T09:39:32+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42720_64178_3924_v150.jpg",
-   "summary": "구글은 12일(미국 현지시간) 인공지능(AI) 영상 제작 플랫폼 ‘플로(Flow)’에 캐릭터의 외형 일관성 유지부터 스마트폰 촬영 영상의 다중 카메라 앵글 변환,",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "e05841457f2f",
    "url": "https://byline.network/2026/11/1113-10",
    "title": "KMS랩, 포스코 차세대 포털에 온프레미스 AI 공급",
@@ -891,18 +915,6 @@
    "buzz": 0
   },
   {
-   "id": "135a96fefe2f",
-   "url": "https://discuss.pytorch.kr/t/ai-ax-ai/12499",
-   "title": "[울산/대전] 피지컬 AI 제조업 AX 캠퍼스-AI 융합가 국비 무료 교육",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-13T06:07:06+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/9/9/99a75f0f0b6ca4ea096b41af04f448391f7868ac_2_694x4096.jpeg",
-   "summary": "피지컬 AI 제조업 AX 캠퍼스-AI 융합가 국비 무료 교육 제조업의 미래를 이끌 인재를 찾습니다!",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "435dd03e1c7b",
    "url": "https://byline.network/2026/11/1112-14",
    "title": "AI 에이전트도 관리가 핵심…한컴, 에이전틱 OS 승부수",
@@ -1020,7 +1032,7 @@
    "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/Colette-Kress-NVIDIA.jpeg",
    "summary": "엔비디아 창업자 젠슨 황 최고경영자(CEO)가 33년 만에 경영 일선에서 물러났다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 2
   },
   {
    "id": "37c48020c64d",
@@ -1092,7 +1104,7 @@
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/10102544/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-7-3.png",
    "summary": "전사 구축 전, 가장 적은 비용으로 도입 효과 검증하는 방법 안녕하세요!",
    "category": "vibe_coding",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "794e1b408cf9",
