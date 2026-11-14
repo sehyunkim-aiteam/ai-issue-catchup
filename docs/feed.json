@@ -1,7 +1,127 @@
 {
  "version": 4,
- "generated_at": "2026-11-14T18:04:03+00:00",
+ "generated_at": "2026-11-14T22:26:01+00:00",
  "items": [
+  {
+   "id": "1f9816cb567a",
+   "url": "https://www.venturesquare.net/1118758",
+   "title": "“AI가 제대로 일하려면, ‘문서’부터 바뀌어야 하죠”, 이동재 올빅뎃 대표",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-14T21:43:57+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/Screenshot_20261015_173624_KakaoTalk-722x522.jpg",
+   "summary": "기업들이 인공지능(AI) 도입에 속도를 내고 있지만, 정작 AI가 업무에 활용해야 할 정보는 여전히 수많은 문서 속에 흩어져 있다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "b71f40533001",
+   "url": "https://news.hada.io/topic?id=37174",
+   "title": "Google은 왜 AI를 쓰지 않는 학교의 검색 접근까지 차단하나? 몇 가지 가설",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T20:43:10+00:00",
+   "image": "https://social.news.hada.io/topic/37174/p11bcf19e69b008e0d0da1ee34f95d1f",
+   "summary": "Google은 학교가 학생의 검색 결과에서 AI Overviews를 끄려면 Google Search 접근도 함께 차단해야 한다 는 방침을 밝혀 학부모와 교육계의 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "71d6b2b0ab3c",
+   "url": "https://news.hada.io/topic?id=37173",
+   "title": "FAA의 미국 전역 이륙 중단 조치 속 Amtrak 예약 시스템에 심각한 문제 발생",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T20:40:10+00:00",
+   "image": "https://social.news.hada.io/topic/37173/p94efed6b252e127ab41582216e1bd03",
+   "summary": "Amtrak 예약 시스템 이 미국 연방항공청(FAA)의 전국 이륙 중단 조치와 같은 시기에 네트워크 장애를 겪었으며, 금요일 오후 9시경부터 정상화되고 있음 열차",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "aab3d62ab46e",
+   "url": "https://news.hada.io/topic?id=37172",
+   "title": "미네소타 기타리스트의 발명품 ‘palmfrets’, 새로운 화음을 열다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T20:37:09+00:00",
+   "image": "https://social.news.hada.io/topic/37172/p2aa142403efa2cad563c205daecfbab",
+   "summary": "기타리스트 Ben Ranson이 손바닥으로 현을 추가 프렛에 눌러 베이스 라인이나 멜로디를 연주하는 palmfrets 를 공개함 현을 뜯는 손의 손바닥 아래쪽 콩",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "7d6541e81348",
+   "url": "https://news.hada.io/topic?id=37171",
+   "title": "3Com에는 무슨 일이 있었나?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T19:49:32+00:00",
+   "image": "https://social.news.hada.io/topic/37171/p2af8939b365684c83647548897c8424",
+   "summary": "네트워크 카드의 대표 브랜드였던 3Com 은 기업용 네트워크 장비 사업 철수와 비핵심 사업 인수 등 잇따른 판단 실패로 수익성을 잃고, 2009년 말 HP에 27",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "8cfa486701e4",
+   "url": "https://news.hada.io/topic?id=37170",
+   "title": "이탈리아, Android 사용자 데이터 접근 문제로 Meta에 8억 8,700만 달러 과징금 부과",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T19:46:32+00:00",
+   "image": "https://social.news.hada.io/topic/37170/p859a0b375536d2558e492dcd5db1c2e",
+   "summary": "이탈리아 개인정보 보호 당국은 Meta가 Android 사용자의 사진과 동영상에 동의나 고지 없이 접근했다 고 판단해 8억 500만 유로, 약 8억 8,700만 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "e97e863d87cf",
+   "url": "https://news.hada.io/topic?id=37169",
+   "title": "Lovable 앱에서 여권 정보와 20만 건 이상의 비공개 메시지 노출",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T19:43:32+00:00",
+   "image": "https://social.news.hada.io/topic/37169/p07b012ebf95ecbf4720aae0365571f6",
+   "summary": "Lovable 프로젝트 159,041개 를 분석한 결과, 여러 앱에서 로그인 없이 개인정보와 기밀 데이터에 접근할 수 있었음 Supabase 연동 사이트 중 초기",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "001080c9a075",
+   "url": "https://news.hada.io/topic?id=37168",
+   "title": "KDE: 다큐멘터리 [영상]",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T19:40:32+00:00",
+   "image": "https://social.news.hada.io/topic/37168/p746da60115ce9a7b366a97347e625bc",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "86aa1d6ec83b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+   "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-14T19:19:23+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217412_221656_1212.png",
+   "summary": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "cf72306f311e",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
+   "title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-14T19:16:46+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42732_64194_168_v150.jpg",
+   "summary": "엔비디아(NVIDIA)가 사람의 움직임을 휴머노이드 로봇의 신체 구조에 맞게 변환하는 오픈소스 기술을 공개했다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
   {
    "id": "4b3b53339261",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217411",
@@ -27,6 +147,18 @@
    "buzz": 1
   },
   {
+   "id": "8dfbadf43d1f",
+   "url": "https://news.hada.io/topic?id=37167",
+   "title": "Show HN: 오늘 밤 FAA 전국 이륙 중단 상황을 보여주는 미국 항공편 실시간 지도",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T18:32:06+00:00",
+   "image": "https://social.news.hada.io/topic/37167/p0ee3fa21a92ccaaf1824c81ac8fb51d",
+   "summary": "Ground Stop Watch 는 미국 상공의 항공기 위치와 출발 현황을 실시간으로 보여주고, 타임라인으로 FAA 전국 이륙 중단과 회복 과정을 다시 살펴볼 수",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
    "id": "b87bc496b200",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
    "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
@@ -48,6 +180,18 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217409_221651_3150.jpg",
    "summary": "일론 머스크 CEO가 엔비디아에서 물러난 젠슨 황 전 CEO에게 경의를 표하는 게시물을 올렸다.",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "e6e5626f44a2",
+   "url": "https://news.hada.io/topic?id=37166",
+   "title": "테크 기업들이 프라이버시의 개념을 다시 바꾸려 함",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T17:33:13+00:00",
+   "image": "https://social.news.hada.io/topic/37166/pa8dfb6f685e8495da6bb11547ffb0d3",
+   "summary": "스마트 안경과 녹음형 웨어러블은 사용자 한 사람의 선택 으로 주변인의 대화와 행동까지 기록하며, 프라이버시 문제를 물리적 일상으로 더 깊이 확장함 기업의 암호화,",
+   "category": "etc",
    "buzz": 0
   },
   {
@@ -171,18 +315,6 @@
    "buzz": 0
   },
   {
-   "id": "21678aa23c83",
-   "url": "https://news.hada.io/topic?id=37156",
-   "title": "Monkey Island: 13개 버전을 나란히 비교하기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T13:32:33+00:00",
-   "image": "https://social.news.hada.io/topic/37156/pf5961195906dd97cf6b17c08e3b7572",
-   "summary": "The Secret of Monkey Island(1990) 의 8개 에디션과 13개 디스플레이 모드를 동일한 12개 장면으로 비교하는 팬 제작 사이트임 모든 버",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "4505b7e4e95e",
    "url": "https://discuss.pytorch.kr/t/gemm/12517",
    "title": "비용 없는 정규화를 향해: 정규화를 GEMM과 어텐션 커널에 융합하기 | 파이토치 한국 사용자 모임",
@@ -192,18 +324,6 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/3/d/3d95109f1cf08930890ecbd9962483aec67d895a_2_1028x484.png",
    "summary": "TL;DR 이번 글에서는 LayerNorm과 RMSNorm 같은 일반적인 정규화(normalization) 연산을 위한 다양하고 새로운 커널 융합(kernel f",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "c51b26a51a1e",
-   "url": "https://news.hada.io/topic?id=37154",
-   "title": "염증을 유발하지 않으면서 노화를 촉진하는 단백질 발견",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T11:31:28+00:00",
-   "image": "https://social.news.hada.io/topic/37154/p17826c22ba0ec26b019c0697438ae45",
-   "summary": "신체 조직의 노화를 촉진하는 효소 granzyme K 가 발견됐으며, 이 효소가 없는 고령 생쥐에서 장기 기능 개선이 확인됨 granzyme K가 없도록 유전적으",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -288,7 +408,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217399_221640_1757.jpg",
    "summary": "스페이스X가 이미지·영상 생성 AI '그록 이매진(Grok Imagine)' 개발팀 대부분을 해고했다.",
    "category": "vibe_coding",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "676a81c4ae63",
@@ -311,18 +431,6 @@
    "published_at": "2026-11-14T10:00:00+00:00",
    "image": "https://cdn.aitimes.com/news/photo/202611/217393_221631_1013.jpeg",
    "summary": "간판 없는 날들의 달력지도를 열면 먼저 보이는 것들이 있습니다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "9e967c3501f4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217403",
-   "title": "젠슨 황, 사임 직전 \"나는 쓰레기\"…두 번째 불륜 보도가 결정타",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-14T09:50:57+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217403_221644_477.jpg",
-   "summary": "젠슨 황 전 엔비디아 CEO가 사임 직전 자신을 심하게 비난하며 사실상 경영권을 포기한 것으로 알려졌다.",
    "category": "ai",
    "buzz": 0
   },
@@ -363,78 +471,6 @@
    "buzz": 0
   },
   {
-   "id": "46e415377120",
-   "url": "https://news.hada.io/topic?id=37153",
-   "title": "ggml v1.0.0 - 폐기 예정 API 제거, FP8 지원과 백엔드 성능 개선",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T08:33:02+00:00",
-   "image": "https://social.news.hada.io/topic/37153/p51341e0fdd03ac8719a0808aa964fcc",
-   "summary": "ggml 1.0.0 은 폐기 예정 공개 API와 기존 DIAG_MASK 연산을 제거하고, YaRN 설정과 FP8 지원을 확장한 릴리스임 RPC 프로토콜 v9 은 ",
-   "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
-   "id": "762335b794c1",
-   "url": "https://news.hada.io/topic?id=37152",
-   "title": "Go의 확률적 자료구조",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T08:05:04+00:00",
-   "image": "https://social.news.hada.io/topic/37152/p0bef14d46dfca1695cdacb1b117c07d",
-   "summary": "확률적 자료구조 는 포함 여부, 빈도, 고유 항목 수, 분위수 등에 근삿값을 제공하는 대신 메모리 사용량을 수십 배에서 수천 배까지 줄일 수 있음 Bloom fi",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "bfb1de36065c",
-   "url": "https://news.hada.io/topic?id=37151",
-   "title": "Show HN: Isometric SF - 샌프란시스코 베이 지역의 픽셀 아트 지도",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T07:32:32+00:00",
-   "image": "https://social.news.hada.io/topic/37151/p993c70871c9a03f15f303c5911c716b",
-   "summary": "Isometric SF 는 샌프란시스코 베이 지역을 아이소메트릭 픽셀 아트로 보여주는 지도임 골든게이트부터 산호세까지 베이 지역 전체를 담음 지도를 확대/축소 하",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "0afb5628a3af",
-   "url": "https://news.hada.io/topic?id=37150",
-   "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T06:37:18+00:00",
-   "image": "https://social.news.hada.io/topic/37150/p33ff7f6017f0594d05d6fe020f9859f",
-   "summary": "[영상]",
-   "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
-   "id": "0b881c6e6158",
-   "url": "https://news.hada.io/topic?id=37149",
-   "title": "Nvidia, 자사 GPU를 구매할 AI 스타트업에 투자해 공급 부족을 인위적으로 조성했다는 의혹",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T06:34:18+00:00",
-   "image": "https://social.news.hada.io/topic/37149/p0a6126c5fd9379e9411c804fd1127c1",
-   "summary": "",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "bc094b4a75e7",
-   "url": "https://news.hada.io/topic?id=37148",
-   "title": "미국 모든 공항에 현재 지상 대기 조치 발령",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T05:30:59+00:00",
-   "image": "https://social.news.hada.io/topic/37148/pd0aa04c341372851643b1cb2992cf60",
-   "summary": "FAA 가 게시물 작성 직전 미국 모든 공항을 대상으로 지상 대기 조치를 발령함 지상 대기 조치 는 게시물 작성 시점에 시행 중임 미국 공항으로 향하는 항공편 은",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "a1a13daf6580",
    "url": "https://discuss.pytorch.kr/t/llama-cpp-3-v1-0-0-c-api-feat-ggml/12509",
    "title": "llama.cpp, 3년 반 만에 v1.0.0 공개: 이제 C API 호환이 깨지면 메이저 버전을 올립니다 (feat. ggml)",
@@ -444,18 +480,6 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/d/1/d1211c9479d267be686de366798ec64b950466ab_2_1028x687.jpeg",
    "summary": "핵심 요약 ggml-org 팀이 2026년 11월 13일 llama.cpp v1.0.0 발표 글 과 함께 llama.cpp 와 ggml 라이브러리의 v1.0.0을",
    "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
-   "id": "ee762d6722c2",
-   "url": "https://news.hada.io/topic?id=37145",
-   "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-14T03:37:06+00:00",
-   "image": "https://social.news.hada.io/topic/37145/p4e86d3a135461fa8b3a503fdf7bce06",
-   "summary": "FAA 지휘센터 가 전국 항공기 이륙 중지 조치를 해제함 공지에 기재된 목적지 공항과 포함 시설은 모두 전체(ALL) 임 해제 공지의 서명 시각은 2026년 11",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -744,18 +768,6 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/21947_22742_1251.jpg",
    "summary": "딥엑스는 지난 12일 서울 코엑스에서 인텔코리아와 AI 반도체 기술 협력을 위한 업무협약을 체결했다고 13일 밝혔다.",
    "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
-   "id": "11396335dd89",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42721",
-   "title": "전장 검증된 자율 무인체계에 7억달러 투자…우크라이나계 '유포스', 영국서 생산 확대",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-13T10:09:32+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42721_64180_134_v150.jpg",
-   "summary": "우크라이나 전쟁에서 실전 운용 경험을 축적한 자율 무인체계 기술이 영국 정부의 대규모 투자와 결합해 글로벌 방위산업으로 확장되고 있다.",
-   "category": "ai",
    "buzz": 0
   },
   {
@@ -877,18 +889,6 @@
    "summary": "핵심 요약 Nous Research 가 Arete-27B 소개 글 에서 Alibaba의 Qwen3.8-27B를 지도 미세조정(SFT)만으로 다시 학습한 Arete",
    "category": "vibe_coding",
    "buzz": 0
-  },
-  {
-   "id": "e5c479eeed65",
-   "url": "https://www.venturesquare.net/1128495",
-   "title": "딥엑스, 인텔과 AI 반도체 생태계 확장…NPU·CPU 결합해 로봇·서버 시장 공략",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-13T07:27:24+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-51-789x456.jpeg",
-   "summary": "AI 반도체 시장에서 하드웨어의 연산 성능만큼 중요해진 것이 소프트웨어 호환성과 시스템 통합이다.",
-   "category": "vibe_coding",
-   "buzz": 1
   },
   {
    "id": "d17bb9dd812e",
