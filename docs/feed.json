@@ -1,7 +1,211 @@
 {
  "version": 4,
- "generated_at": "2026-11-13T19:43:59+00:00",
+ "generated_at": "2026-11-14T01:27:32+00:00",
  "items": [
+  {
+   "id": "b17600112da0",
+   "url": "https://news.hada.io/topic?id=37138",
+   "title": "FM-1 Workbench - FM1 펌웨어용 앱과 SDK의 라이선스 및 재배포 조건",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T00:38:43+00:00",
+   "image": "https://social.news.hada.io/topic/37138/p54246380dd57c3781228bcffe6b21f3",
+   "summary": "FM1의 공개 APP 소스는 GPLv3 전용 라이선스 를 따르며, 별도 조건의 바이너리 SDK와 결합해 배포할 수 있도록 링크 예외를 둠 독점 엔진 SDK는 FM",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "516b78ad4c1e",
+   "url": "https://news.hada.io/topic?id=37137",
+   "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T00:30:02+00:00",
+   "image": "https://social.news.hada.io/topic/37137/pfc5e4c09017460046ced1f8d725093a",
+   "summary": "채널에서 팀원과 구현 방향을 논의한 뒤 @ace 를 부르면 에이전트가 앞선 대화를 읽고 작업을 시작 에이전트가 작업 중 질문을 올리면 답을 아는 팀원이 바로 답해",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "32c6ab44c314",
+   "url": "https://news.hada.io/topic?id=37136",
+   "title": "최소한 제3의 선택지가 필요한 이유",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T00:18:41+00:00",
+   "image": "https://social.news.hada.io/topic/37136/p8605ebf2392bd7dd6571191c5242d5a",
+   "summary": "Android와 iOS를 벗어나는 실용적인 대안 이 필요함.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "48ac7fdd3bad",
+   "url": "https://news.hada.io/topic?id=37135",
+   "title": "셀을 차지하지 않는 터미널 테두리",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T00:15:41+00:00",
+   "image": "https://social.news.hada.io/topic/37135/p91ab3a5568d89f0da460f4c3901fc44",
+   "summary": "문자 대신 셀 가장자리의 선 으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함 행과 열을 추가로 소비하지 않아 패널",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "d0c977289015",
+   "url": "https://news.hada.io/topic?id=37134",
+   "title": "“글루 워크는 해롭다”에 대한 반론",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T00:12:41+00:00",
+   "image": "https://social.news.hada.io/topic/37134/p47c88a9284aed9c8324c3e33eec653a",
+   "summary": "문서 정리나 온보딩 같은 글루 워크(glue work) 는 성과로 잘 드러나지 않아도, 팀이 같은 문제에 반복해서 시간을 쓰는 일을 줄여줌 기능 출시를 주로 보상",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "8e7b44aca245",
+   "url": "https://news.hada.io/topic?id=37133",
+   "title": "음악 플레이어를 이렇게 만들지는 말자",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-14T00:09:41+00:00",
+   "image": "https://social.news.hada.io/topic/37133/p6ae4ecaacc09ab20e2bb0bcde490975",
+   "summary": "인터넷 차단을 겪으며 오프라인 음악 재생의 필요성을 느낀 개발자가 Zig 기반 음악 플레이어 AMP 를 직접 만들기 시작함 기존 플레이어의 가사 표시가 불편해, ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "925c0a4f3467",
+   "url": "https://news.hada.io/topic?id=37132",
+   "title": "Haskell 생태계를 위한 기술 비전",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T23:38:14+00:00",
+   "image": "https://social.news.hada.io/topic/37132/p263164d16b1a12ce98ee4d74b1f309b",
+   "summary": "Haskell Foundation 기술 리더십 위원회(TLC) 가 정식 활동을 시작해 개발 도구, 보안, 장기 호환성 개선 과제를 발굴하고 재단의 자금 지원 대상",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "bd6443680af8",
+   "url": "https://news.hada.io/topic?id=37131",
+   "title": "빅테크는 우리를 실망시킨다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T23:35:14+00:00",
+   "image": "https://social.news.hada.io/topic/37131/p646dfff2b0c1b94f8868939dc6a439d",
+   "summary": "Microsoft Outlook, Teams, Copilot 장애 로 업무가 중단되고, 일부 중소기업은 정상적인 고객 지원 대신 소셜미디어로 연락을 받음 장애 영",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "31f80311533c",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42730",
+   "title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-13T22:55:14+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42730_64190_5435_v150.jpg",
+   "summary": "AI 인프라 전문기업 이모션웨이브(대표 장순철)가 일본에서 확장현실(XR) 기반 공간 미디어 플랫폼을 선보이고, 자체 인공지능(AI) 인프라 기술을 활용한 해외 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "1b230347dc90",
+   "url": "https://news.hada.io/topic?id=37130",
+   "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T22:37:56+00:00",
+   "image": "https://social.news.hada.io/topic/37130/p85d3a6c8ab0967c28660c29565c244f",
+   "summary": "LeWM 의 Push-T 실험에서는 예측 모델 개선보다 계획 방식 변경 이 더 큰 효과를 냄.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "47cf39a95c1a",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42729",
+   "title": "구글, 한국 정밀지도 국외반출 보안조건 이행…정부, 좌표표시 제거·군사시설 영상처리 확인",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-13T22:35:05+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42729_64189_3443_v150.jpg",
+   "summary": "구글이 한국의 1:5000 축척 정밀지도 국외반출 허가에 따라 부과된 보안조건을 이행한 것으로 확인됐다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "862722e344a2",
+   "url": "https://news.hada.io/topic?id=37129",
+   "title": "1,140만 달러 규모 NVIDIA 하드웨어, 캘리포니아에서 텍사스로 운송 중 사라져",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T22:34:56+00:00",
+   "image": "https://social.news.hada.io/topic/37129/pe558568b0539305304cb9e536cc7740",
+   "summary": "캘리포니아 오클랜드에서 텍사스 포트워스로 운송하던 NVIDIA 컴퓨터 하드웨어 6팔레트 가 사라짐.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "3f5b34b93caf",
+   "url": "https://news.hada.io/topic?id=37128",
+   "title": "No AI Slop 선언문",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T22:09:42+00:00",
+   "image": "https://social.news.hada.io/topic/37128/pf98b17cbbd8b672e288b6b74ef7856d",
+   "summary": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문 2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "fc0979654eb0",
+   "url": "https://news.hada.io/topic?id=37127",
+   "title": "FAA, 전국 항공기 이륙 중지 조치 발령",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T21:42:51+00:00",
+   "image": "https://social.news.hada.io/topic/37127/pd2278fb05d752c2f8abb1ab87ec2c4f",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "1706c9a83e40",
+   "url": "https://news.hada.io/topic?id=37126",
+   "title": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T21:39:51+00:00",
+   "image": "https://social.news.hada.io/topic/37126/p9fcb8c4adb13b67e1e4330004aca30f",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "b1c26ea7db96",
+   "url": "https://news.hada.io/topic?id=37125",
+   "title": "Relax: Rust 빌드 시간을 줄이기 위한 JIT 컴파일러",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T21:36:51+00:00",
+   "image": "https://social.news.hada.io/topic/37125/p6aa05978f3af851998ca774455f44e7",
+   "summary": "Relax 는 Cargo 패키지를 소스에서 바로 실행하는 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, 함수를 처음 호출할 때 컴파일하고 자주 실행되는 함",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "688317534238",
+   "url": "https://news.hada.io/topic?id=37124",
+   "title": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-13T20:32:20+00:00",
+   "image": "https://social.news.hada.io/topic/37124/pbb1baa29adb7b0ae837a8190ff235b4",
+   "summary": "Helsinki University의 Jan von Plato가 Claude 로 Kurt Gödel의 미공개 수학/논리학 노트 1,009쪽을 분석해, 기존에 알려",
+   "category": "ai",
+   "buzz": 0
+  },
   {
    "id": "51be7ca531d7",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
@@ -12,7 +216,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217394_221632_408.jpg",
    "summary": "마이크로소프트(MS)의 기업용 서비스에서 대규모 장애가 발생해 전 세계 정부 기관과 기업들이 업무에 차질을 빚었다.",
    "category": "vibe_coding",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "87936ce2d508",
@@ -27,18 +231,6 @@
    "buzz": 0
   },
   {
-   "id": "82bcc58437c2",
-   "url": "https://news.hada.io/topic?id=37122",
-   "title": "Claude 서비스 장애 발생",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T18:36:27+00:00",
-   "image": "https://social.news.hada.io/topic/37122/p7c5352359918b20121d719595bcbe6f",
-   "summary": "claude.ai, Claude API, Claude Code 등에서 오류 증가가 발생했으며, 제공된 장애 이력상 2026년 11월 13일의 두 장애는 모두 해결",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "07ec0f927f39",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21957",
    "title": "지능화·자율화 묶은 코난테크놀로지, ‘아르고엑스’로 국방 AI 비전 실현",
@@ -49,18 +241,6 @@
    "summary": "코난테크놀로지가 13일 서울 용산 나인트리 로카우스에서 ‘제5회 코난테크놀로지 국방 AI 서밋 2026’을 열고, 여러 출처의 정보를 하나로 엮어 분석하는 ‘아르",
    "category": "ai",
    "buzz": 1
-  },
-  {
-   "id": "ea097d22db90",
-   "url": "https://news.hada.io/topic?id=37121",
-   "title": "“LibreOffice는 1년 365일 작동합니다. 그냥 그렇다고요.”",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T18:33:27+00:00",
-   "image": "https://social.news.hada.io/topic/37121/pbb94eab3275978b63d6622ab1a3f18e",
-   "summary": "LibreOffice 는 1년 내내 작동함 작동 기간을 “ 365일 ”로 명시함 “ 실제로(actually) ”라는 말로 작동 여부를 한 번 더 강조하는 문장임 ",
-   "category": "etc",
-   "buzz": 0
   },
   {
    "id": "24e738054164",
@@ -107,18 +287,6 @@
    "published_at": "2026-11-13T17:37:34+00:00",
    "image": "https://cdn.aitimes.com/news/photo/202611/217367_221607_1942.png",
    "summary": "일론 머스크 CEO가 이끄는 스페이스X와 테슬라의 합병 논의가 진전을 보이며 이르면 12월 거래가 발표될 가능성이 제기됐다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "2038739d47a7",
-   "url": "https://news.hada.io/topic?id=37120",
-   "title": "AI가 작가와 독자 사이의 신뢰를 무너뜨리고 있다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T17:32:28+00:00",
-   "image": "https://social.news.hada.io/topic/37120/p93a000f2125b57ad39ef79d46e830d0",
-   "summary": "소설 The Weight of Ink 의 작가가 실제로 쓰지 않은 줄거리 때문에 항의를 받음.",
    "category": "ai",
    "buzz": 0
   },
@@ -267,18 +435,6 @@
    "buzz": 0
   },
   {
-   "id": "ccfa5efa060c",
-   "url": "https://news.hada.io/topic?id=37119",
-   "title": "클라우드 의존을 없애기 위해 Coway 공기청정기를 역공학하기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T16:34:03+00:00",
-   "image": "https://social.news.hada.io/topic/37119/ped2d76b4f7b72162b80bedad23135f1",
-   "summary": "Coway Airmega IconS 의 통신과 Bluetooth 초기 설정 절차를 역공학해, Coway 클라우드 없이 Home Assistant에서 로컬로 제어하",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "f86c90a1747b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217366",
    "title": "엘리스그룹, 'B300' 기반 AI 데이터센터 베타 서비스 개시",
@@ -327,30 +483,6 @@
    "buzz": 0
   },
   {
-   "id": "77192b49eaf7",
-   "url": "https://news.hada.io/topic?id=37118",
-   "title": "싱가포르, 스파이 의혹 인물의 회사 수사에 미국이 도움이 되지 않았다고 밝혀",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T15:50:51+00:00",
-   "image": "https://social.news.hada.io/topic/37118/p6fa4a3876bcc6ed631ace089449929c",
-   "summary": "싱가포르 정부는 Alice Huang과 Megaspeed 수사 에서 미국으로부터 받은 정보와 지원이 제한적이었다고 밝힘 당국은 허위 신고 가능성 을 조사하며 Al",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "341a6b931047",
-   "url": "https://news.hada.io/topic?id=37117",
-   "title": "AI가 Apple 앱 심사를 신시사이저 개발자들의 악몽으로 바꾸고 있음",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T15:47:51+00:00",
-   "image": "https://social.news.hada.io/topic/37117/p8edb7e82eff18f99394f40acaeacda9",
-   "summary": "AI로 만든 iOS 앱의 급증 속에서 음악 앱 개발자들이 수주 단위 심사 지연과 반복적인 거절을 겪으며 출시 일정에 차질을 빚고 있음 Apple은 제출물의 90%",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "6037f6f6056f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217376",
    "title": "JP모건 \"미 휴머노이드 2030년 40만대\"…로보티즈 유망 부품사 선정",
@@ -359,30 +491,6 @@
    "published_at": "2026-11-13T15:45:32+00:00",
    "image": "https://cdn.aitimes.com/news/photo/202611/217376_221617_5748.jpg",
    "summary": "JP모건이 미국의 휴머노이드 로봇 생산량이 2030년 최대 40만대, 2035년에는 약 150만대에 달할 것으로 전망했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "23f9ef724c31",
-   "url": "https://news.hada.io/topic?id=37116",
-   "title": "Brave Search API, x402 프로토콜을 통한 에이전트 결제 지원",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T15:44:51+00:00",
-   "image": "https://social.news.hada.io/topic/37116/pc47b74dc07cc9e51a8e230984d36b5d",
-   "summary": "Brave Search API 가 개방형 x402 결제 프로토콜을 도입해, 개발자와 자율 AI 에이전트가 계정 생성이나 API 키 관리 없이 검색 요청마다 실시간",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "1314cf9cc032",
-   "url": "https://news.hada.io/topic?id=37115",
-   "title": "Eli Lilly CEO, Dario Amodei의 의료 관련 주장에 반박",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T15:41:51+00:00",
-   "image": "https://social.news.hada.io/topic/37115/pfa896a48b8e03347390a3c5deb0d711",
-   "summary": "Anthropic CEO Dario Amodei 가 암, 알츠하이머병, 심장병, 정신질환이 10년 안에 과거의 유물이 될 것이라고 예측하자 의료계 인사들이 실현 ",
    "category": "ai",
    "buzz": 0
   },
@@ -423,30 +531,6 @@
    "buzz": 0
   },
   {
-   "id": "160306e1fbfd",
-   "url": "https://news.hada.io/topic?id=37114",
-   "title": "최후의 날: 서기 2026년 11월 13일 금요일 (1960)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T14:32:08+00:00",
-   "image": "https://social.news.hada.io/topic/37114/pe6967b967cc18f56b0231f6eeea2a6e",
-   "summary": "",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "a29690f739f1",
-   "url": "https://news.hada.io/topic?id=37113",
-   "title": "Microsoft 전 세계 서비스 장애",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T13:34:26+00:00",
-   "image": "https://social.news.hada.io/topic/37113/p182f9a6638ca81523ec0554c08bebe5",
-   "summary": "Outlook, Exchange Online을 중심으로 발생한 Microsoft 장애 가 이틀째 이어지며 전 세계 수백만 명의 업무에 영향을 줌 Microsoft",
-   "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
    "id": "851e0468980b",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42726",
    "title": "KAIST, 입모양만 보고 대화 읽는 AI 정확도 높였다…단어 오류율 19.4% 달성",
@@ -471,18 +555,6 @@
    "buzz": 0
   },
   {
-   "id": "1941b31a9e77",
-   "url": "https://news.hada.io/topic?id=37110",
-   "title": "IceWM - 속도와 단순함을 지향하는 X Window System 창 관리자",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T11:32:32+00:00",
-   "image": "https://social.news.hada.io/topic/37110/p83194904e73747f07c59beea02967df",
-   "summary": "IceWM 은 빠르고 단순하며 사용자 작업을 방해하지 않는 것을 목표로 하는 X Window System용 창 관리자임 키보드만으로도 사용 가능 하며, 전역/창별",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "49050e667d35",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42724",
    "title": "\"기후 예측 AI 학습 시뮬레이션 최대 8회에서 1회로 끝낸다\"…MIT, 새로운 배출 시나리오도 예측",
@@ -492,18 +564,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42724_64183_2919_v150.jpg",
    "summary": "MIT 연구진이 기후변화 예측 인공지능(AI)을 개발하는 데 필요한 대규모 기후 시뮬레이션 횟수를 기존 6~8회에서 단 1회로 줄일 수 있는 새로운 학습 방법을 ",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "5a9a1e68451e",
-   "url": "https://news.hada.io/topic?id=37109",
-   "title": "Show GN: 여기서맛나 - 함께 만날 장소를 쉽게 정할 수 있게 도와주는 투표 툴",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T11:14:36+00:00",
-   "image": "https://social.news.hada.io/topic/37109/p1eb01494cf2c5e3d7cc68a6170e0e05",
-   "summary": "약속을 잡을 때 여러 장소들 중 어디서 만나는게 좋을지 정하는 과정이 불편하지는 않으셨나요?",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -528,7 +588,7 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/8/2/823cf206a1ab31f45d42bc9d3cf7f40806e10510_2_1028x644.jpeg",
    "summary": "핵심 요약 휴머노이드 Rose 등 오픈소스 로봇을 만드는 Municipal Robotics의 Cam Pedersen이 연구 보고서 \"Don't Write Kern",
    "category": "vibe_coding",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "70215d4bf654",
@@ -564,7 +624,7 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42722_64181_3743_v150.jpg",
    "summary": "인공지능(AI)과 로봇 기술이 산업 전반의 업무 방식을 바꾸면서 기업의 경쟁력을 좌우하는 요소로 직원들의 재교육과 직무 전환 역량이 부상하고 있다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "2cd1f4aa2d54",
@@ -575,30 +635,6 @@
    "published_at": "2026-11-13T10:28:39+00:00",
    "image": "https://cdn.newstheai.com/news/photo/202611/21949_22744_2522.jpg",
    "summary": "AI 데이터센터에서 서버별로 분산된 메모리 자원을 효율적으로 활용하기 위한 기술 협력이 시작됐다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "a5e591290085",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=678459",
-   "title": "정부 표창 이어 품질상…AI 경쟁력 비결은 '통제' | 베스핀글로벌㊦",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-13T10:23:39+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/678459_293229_330_v150.jpg",
-   "summary": "공공 인공지능(AI) 사업에서 123억원의 계약을 따낸 것과 그 사업에 쓰이는 소프트웨어(SW)의 품질을 인정받는 것은 다른 성과다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "ca06e37a776c",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=678377",
-   "title": "'답변' 넘어 '업무 완료'로 이동한 공공 AI 중심 | 베스핀글로벌㊤",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-13T10:23:03+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/678377_293220_290_v150.jpg",
-   "summary": "공공기관이 인공지능(AI)에 던지는 질문이 달라졌다.",
    "category": "ai",
    "buzz": 0
   },
@@ -627,18 +663,6 @@
    "buzz": 1
   },
   {
-   "id": "adfe364f50b3",
-   "url": "https://news.hada.io/topic?id=37108",
-   "title": "Show GN: Quiet Scanner - IP 충돌 장비를 MAC별로 확인하고 한 대씩 접속하는 스캐너",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T10:13:18+00:00",
-   "image": "https://social.news.hada.io/topic/37108/p48cd255c2dae2cdfe6e58b2096d2283",
-   "summary": "CCTV·AV·네트워크 설치 현장에서 쓰려고 만든 오픈소스 데스크톱 도구입니다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "11396335dd89",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42721",
    "title": "전장 검증된 자율 무인체계에 7억달러 투자…우크라이나계 '유포스', 영국서 생산 확대",
@@ -660,54 +684,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42720_64178_3924_v150.jpg",
    "summary": "구글은 12일(미국 현지시간) 인공지능(AI) 영상 제작 플랫폼 ‘플로(Flow)’에 캐릭터의 외형 일관성 유지부터 스마트폰 촬영 영상의 다중 카메라 앵글 변환,",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "a4e82dac62dc",
-   "url": "https://news.hada.io/topic?id=37106",
-   "title": "Microsoft Outlook/365, 12시간이 지나도 장애 지속",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T09:32:39+00:00",
-   "image": "https://social.news.hada.io/topic/37106/p1bac891faf08ac041daa1a5c7423c41",
-   "summary": "Microsoft Outlook/365 장애 가 12시간이 지난 뒤에도 이어지고 있음 Microsoft는 서비스 개선을 위해 적용한 변경 사항 을 모니터링했으나,",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "fcedf7b0f556",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42719",
-   "title": "구글, 제미나이 4 하이드로젠 공개…AI 에이전트 실행 속도 높이고 비용 낮춘다",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-13T09:31:06+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42719_64177_3049_v150.jpg",
-   "summary": "구글이 코딩과 디버깅, 도구 실행 등 인공지능 에이전트의 실제 업무 수행에 특화된 차세대 AI 모델을 공개했다.",
-   "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
-   "id": "0fde1bbdef08",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42718",
-   "title": "ETRI, 사람·AI·환경 통합 평가하는 ‘트리니티’ 공개…95종 물체 활용해 사용자 맞춤형 작업계획 능력 측정",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-13T09:12:03+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42718_64175_1043_v150.jpg",
-   "summary": "로봇이 사람의 명령을 정확하게 수행하더라도 사용자의 식습관이나 알레르기 등 개인적 특성을 고려하지 않았다면 올바른 행동이라고 평가할 수 있을까.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "63467f12b65a",
-   "url": "https://news.hada.io/topic?id=37105",
-   "title": "비개발자가 AI에게 일을 맡기며 여기서 물어본 세 가지, 받은 답을 정리했습니다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-13T09:09:40+00:00",
-   "image": "https://social.news.hada.io/topic/37105/p28c1efa456ef71ab994f4b76e2d85e7",
-   "summary": "영업 일을 하는 비개발자입니다.",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -756,7 +732,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/unnamed-68-789x333.png",
    "summary": "AI 시대에 대학 교육에서도 무엇을 가르치고 어떻게 평가할 것인지에 대한 논의가 이어지고 있다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "f223ab90ee59",
@@ -915,18 +891,6 @@
    "buzz": 1
   },
   {
-   "id": "adfe33738443",
-   "url": "https://yozm.wishket.com/magazine/detail/4039",
-   "title": "AI가 \"개발 완료\"라고 하면, 어디까지 믿어도 될까",
-   "source": "요즘IT",
-   "source_id": "yozm",
-   "published_at": "2026-11-13T05:00:17+00:00",
-   "image": "https://yozm.wishket.com/media/news/4039/keyvisual-202611130422.png",
-   "summary": "에이전트에게 일을 맡기면 코드는 금방 나오지만, 그 코드를 사람이 읽고 확인하는 속도는 예전과 크게 다르지 않습니다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "856569a03b9f",
    "url": "https://outstanding.kr/jensenhuanggate20261113",
    "title": "‘젠슨 황 게이트’ 왜 지금 터졌을까",
@@ -1044,18 +1008,6 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2026/11/gemini-4-hydrogen.jpg",
    "summary": "구글이 효율형 AI 모델인 플래시 시리즈의 최신 버전 ‘제미나이 4 하이드로젠(Hydrogen)’을 공개했다.",
    "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "5fd094d3aa68",
-   "url": "https://yozm.wishket.com/magazine/detail/4037",
-   "title": "골드만삭스는 왜 트레이더에게서 클로드 코드를 뺏었을까",
-   "source": "요즘IT",
-   "source_id": "yozm",
-   "published_at": "2026-11-13T00:00:17+00:00",
-   "image": "https://yozm.wishket.com/media/news/4037/03-stateofai-og.png",
-   "summary": "블룸버그에 따르면 골드만삭스는 AI 코딩 도구를 엔지니어에게만 쓰게 했고, 스테이트 오브 AI는 그 이유를 검토 없이 쓰이는 코드, 부서 사이의 정보 차단, 비용",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -1164,30 +1116,6 @@
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/09111734/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-56-1024x576.png",
    "summary": "메타 – 페이스북·인스타그램·왓츠앱을 가진 광고·AI 회사 밤 열 시.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "db84930c65ba",
-   "url": "https://yozm.wishket.com/magazine/detail/4031",
-   "title": "국내 FDE 지도 2026: FDE는 무슨 일을 할까",
-   "source": "요즘IT",
-   "source_id": "yozm",
-   "published_at": "2026-11-12T00:00:17+00:00",
-   "image": "https://yozm.wishket.com/media/news/4031/A-01_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B5%AD%EB%82%B4FDE%EC%A7%80%EB%8F%842026_v3_1.png",
-   "summary": "요즘 IT 업계에서 부쩍 자주 들리는 직군이 있습니다.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "c3e3168ec24c",
-   "url": "https://yozm.wishket.com/magazine/detail/4036",
-   "title": "일본 개발 현장에서 달라진 것: 구현은 단 1시간, 검토는 반나절",
-   "source": "요즘IT",
-   "source_id": "yozm",
-   "published_at": "2026-11-11T05:00:17+00:00",
-   "image": "https://yozm.wishket.com/media/news/4036/img-01.png",
-   "summary": "저는 아직 기능 명세서를 읽고 있는데, AI는 벌써 코드를 내놓습니다.",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
