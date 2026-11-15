@@ -1,7 +1,199 @@
 {
  "version": 4,
- "generated_at": "2026-11-15T16:23:02+00:00",
+ "generated_at": "2026-11-15T22:50:01+00:00",
  "items": [
+  {
+   "id": "b2163049c2a6",
+   "url": "https://news.hada.io/topic?id=37225",
+   "title": "휴대폰 잠금 해제 도구의 실체: 기술적 개요",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T21:44:30+00:00",
+   "image": "https://social.news.hada.io/topic/37225/p93abfe50782a6b1ed40478068a893ef",
+   "summary": "상용 휴대폰 잠금 해제 도구의 차별점은 새로운 공격 기법보다 취약점 악용의 체계적 상품화 에 있음.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "b14a5075d201",
+   "url": "https://news.hada.io/topic?id=37224",
+   "title": "Emacs는 나의 브라우저",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T21:41:30+00:00",
+   "image": "https://social.news.hada.io/topic/37224/p262cf9764dcd5501de95e4311a6ba62",
+   "summary": "Emacs 내장 브라우저 EWW 를 며칠간 적극적으로 사용해 보니, 개인적인 웹 이용의 약 85~90% 를 처리할 수 있었음 Chromium/Firefox에서 추",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "7aa0eeec2d8b",
+   "url": "https://news.hada.io/topic?id=37223",
+   "title": "Show GN: 달레 스터디 개발자 설문조사 - 한국 개발자의 일과 커리어, AI 사용을 묻는 익명 설문",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T21:40:44+00:00",
+   "image": null,
+   "summary": "Stack Overflow 2025 설문에서 국가를 밝힌 35,369명 중 한국은 86명이었고, 국내에서 매년 나오던 프로그래머스 개발자 설문도 2023년을 끝으",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "cc66a2bb9d3d",
+   "url": "https://news.hada.io/topic?id=37222",
+   "title": "Microsoft 365 장애로 호텔 투숙객 15명 염소가스 중독",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T21:38:30+00:00",
+   "image": "https://social.news.hada.io/topic/37222/ped9d9b2f6ae0b0a4a4caffdb44e53e7",
+   "summary": "Phantasialand 에서 Microsoft 장애로 수영장 염소 과다 경고 이메일을 받지 못했고, 호텔 투숙객 15명이 다침 수영장의 자동 투입 시스템 결함 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "cc9b126c6048",
+   "url": "https://news.hada.io/topic?id=37221",
+   "title": "vLLM으로 NVIDIA DGX Station 2대에서 GLM-5.3을 초당 607.8토큰으로 서빙하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T20:46:06+00:00",
+   "image": "https://social.news.hada.io/topic/37221/p820b2d04d2dd38fef863f5a5ff4bb87",
+   "summary": "GLM-5.3 NVFP4 의 약 464GB 체크포인트를 DGX Station 2대의 GPU에 나눠 올리고, CPU 가중치 오프로딩 없이 하나의 OpenAI 호환 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "62b9b1b405cb",
+   "url": "https://news.hada.io/topic?id=37219",
+   "title": "Turbo Pascal보다 크기가 큰 것들 (2011)",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T20:43:06+00:00",
+   "image": "https://social.news.hada.io/topic/37219/p7e605c18ec4b14dda0bf014fcc13008",
+   "summary": "Turbo Pascal 3.02 는 컴파일러와 IDE를 모두 포함한 실행 파일 크기가 39,731바이트 로, 2011년의 여러 웹 리소스와 개발 도구 파일보다 작",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "c51b6b07f7d1",
+   "url": "https://news.hada.io/topic?id=37218",
+   "title": "현대 LLM의 위치 임베딩 이해하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T20:40:06+00:00",
+   "image": "https://social.news.hada.io/topic/37218/pe42e1733b136c1b3ebb03dd86340a83",
+   "summary": "LLM의 위치 정보 는 같은 토큰이라도 문장 안의 순서와 거리에 따라 다르게 처리하도록 도움을 줌.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "83d35517791b",
+   "url": "https://news.hada.io/topic?id=37217",
+   "title": "세계 각국 보안기관의 광고 기반 감시 시스템 사용 확인",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T19:47:00+00:00",
+   "image": "https://social.news.hada.io/topic/37217/p3393eaeb8d327a1ccc8d821efa781e0",
+   "summary": "Bloomberg 조사에서 Penlink의 광고 기반 감시 시스템 Webloc 을 도입한 여러 국가의 보안기관이 추가로 확인됨 이번 조사는 Citizen Lab의",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "f4a70db411e5",
+   "url": "https://news.hada.io/topic?id=37216",
+   "title": "Claude라는 망상",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T19:44:00+00:00",
+   "image": "https://social.news.hada.io/topic/37216/p86c4f17f307629e0769b84e124d9202",
+   "summary": "기술 업계에서 코딩 실력과 사업 성공을 모든 분야에서 뛰어나다는 증거 로 받아들이는 과신은, AI가 인류를 구원하거나 위협할 것이라는 극단적인 전망으로 이어질 수",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "afd09d7e6152",
+   "url": "https://news.hada.io/topic?id=37215",
+   "title": "Lean으로 미국 세법 형식화하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T19:40:59+00:00",
+   "image": "https://social.news.hada.io/topic/37215/p8cf8aeadaa79512d838405d0816601b",
+   "summary": "Lean 증명 검사기와 AI 로 미국 세법의 참조 오류를 검사하고, 2025년 가구 단위 연방소득세를 실행 가능한 모델로 만들어 세금 계산 오류와 허점을 탐색함 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "55802d41239d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217423",
+   "title": "[기고] 채점이 편한 시험은 AI에도 편하다",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-15T18:59:15+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217423_221670_2144.jpg",
+   "summary": "몇 년을 준비해도 붙기 어려운 시험이 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "a1e611520514",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+   "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-15T18:52:53+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217426_221672_499.jpg",
+   "summary": "제63회 세무사 시험 수석 합격자가 초소형 카메라와 생성 AI를 이용해 부정행위를 저질렀다고 자백했다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "d940e5755ca0",
+   "url": "https://news.hada.io/topic?id=37214",
+   "title": "강화학습을 시각적으로 이해하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T18:32:11+00:00",
+   "image": "https://social.news.hada.io/topic/37214/p40e74822b7595e67cd5cf1e8b9c7144",
+   "summary": "뉴런 4개로 구성된 가상 생명체 spark 가 보상과 벌을 바탕으로 신경 연결을 바꾸며 빛을 따라가는 행동을 학습함 학습할 값은 연결 강도와 기본 구동력을 정하는",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "0aac57d27971",
+   "url": "https://news.hada.io/topic?id=37213",
+   "title": "일부 Apollo 임무에는 왜 유탄발사기가 실렸을까?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T17:48:05+00:00",
+   "image": "https://social.news.hada.io/topic/37213/pd55eb71dec0c84106dc6aa607bb8fc1",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "8c433b1a99d4",
+   "url": "https://news.hada.io/topic?id=37212",
+   "title": "Rust와 ratatui로 만든 터미널 방치형 공장 게임",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T17:45:05+00:00",
+   "image": "https://social.news.hada.io/topic/37212/p2592e032996dfe04e94fc138f715b07",
+   "summary": "Terminactory 는 에이전트 작업과 나란히 즐기도록 만든 터미널 공장 게임으로, 광물을 채굴하고 가공해 판매하거나 연구를 통해 컴퓨터와 석유 단계까지 발전",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "0dca0f9d990e",
+   "url": "https://news.hada.io/topic?id=37211",
+   "title": "내가 좋아하는 현대 NES 게임들",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T17:42:05+00:00",
+   "image": "https://social.news.hada.io/topic/37211/p4cf548080d286c345e024fb00994f44",
+   "summary": "수십 년간 쌓인 NES 하드웨어 연구와 개발 지식 을 바탕으로 새로운 서드파티 게임이 계속 나오고 있으며, 개인적으로 좋아하는 작품 25개 항목을 순위 없이 알파",
+   "category": "etc",
+   "buzz": 0
+  },
   {
    "id": "9d0071fcbabe",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
@@ -25,6 +217,18 @@
    "summary": "KT(대표 박윤영)는 AI 기반 화재안전 서비스 ‘세이프메이트(Safemate)’를 인천 남동국가산업단지에 적용했다고 15일 밝혔다.",
    "category": "ai",
    "buzz": 1
+  },
+  {
+   "id": "9468b097b6b0",
+   "url": "https://news.hada.io/topic?id=37210",
+   "title": "MacBook Pro의 OLED PWM 문제: ‘더 나은’ 디스플레이가 사용하기에는 더 나빠질 때",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-15T16:45:53+00:00",
+   "image": "https://social.news.hada.io/topic/37210/pfaa5872d11f57de77b367064b429b14",
+   "summary": "PROLED XDR 디스플레이 를 탑재한 새 MacBook Pro에서 일부 사용자가 두통, 눈의 피로, 어지럼증, 메스꺼움을 겪고 반품한 사례가 나옴.",
+   "category": "etc",
+   "buzz": 0
   },
   {
    "id": "eb7c204e9bb0",
@@ -51,18 +255,6 @@
    "buzz": 0
   },
   {
-   "id": "1e508eb99306",
-   "url": "https://news.hada.io/topic?id=37207",
-   "title": "브라질 Caixa 보험사 침해 사고로 고객 760만 명 전원의 이름과 납세자 번호 노출",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T15:36:51+00:00",
-   "image": "https://social.news.hada.io/topic/37207/p2e7c966721d6052cc6eb637a53c926c",
-   "summary": "Caixa Seguridade의 피투자회사 Caixa Vida e Previdência(CVP) 에서 무단 접근으로 고객 개인정보가 외부에 복사된 사실을 확인함 ",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "5bc6b132b200",
    "url": "https://www.bloter.net/news/articleView.html?idxno=678643",
    "title": "오비고, AI 카케어 성장 본격화…영업적자 25% 축소",
@@ -72,18 +264,6 @@
    "image": "https://cdn.bloter.net/news/thumbnail/202611/678643_293476_426_v150.jpg",
    "summary": "모빌리티 인공지능 전환(AX) 플랫폼 기업 오비고가 올해 3분기 매출 성장과 함께 영업적자 폭을 줄였다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "2bcdb94bd621",
-   "url": "https://news.hada.io/topic?id=37206",
-   "title": "미국 IRS의 무료 온라인 세금 신고 서비스 오픈소스 저장소(2025)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T15:33:51+00:00",
-   "image": "https://social.news.hada.io/topic/37206/pbaba6db57292ef08950b9656001bf88",
-   "summary": "Direct File 은 납세자가 미국 국세청(IRS)에 연방 소득세 신고서를 무료로 직접 전자 제출할 수 있는 문답형 서비스로, 영어와 스페인어를 지원함 세법을",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -123,30 +303,6 @@
    "buzz": 2
   },
   {
-   "id": "aac0841a875a",
-   "url": "https://news.hada.io/topic?id=37204",
-   "title": "미국 10월 생산자물가 전년 대비 6.5% 상승, 약 4년 만에 최고",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T13:31:42+00:00",
-   "image": "https://social.news.hada.io/topic/37204/p728c3de621397b5674f04606b743f7f",
-   "summary": "미국 10월 생산자물가지수(PPI) 가 전년 동월 대비 6.5% 상승 함 전년 동월 대비 상승률은 2022년 11월 이후 최고치 를 기록함 예상치 6.6%를 밑돌",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "cbee5bbd3a6f",
-   "url": "https://news.hada.io/topic?id=37202",
-   "title": "AI 코딩 에이전트의 \"테스트 모두 통과\"를 믿기 전에 확인하는 9가지 (실측 사례 모음)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T13:04:34+00:00",
-   "image": "https://social.news.hada.io/topic/37202/pf23ffe4bdc4f4c865868aa38c45d752",
-   "summary": "Android 앱 몇 개를 혼자 만들면서 클로드 코드에 구현과 테스트를 맡겨 왔습니다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "afb4d20aa46a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
    "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
@@ -171,18 +327,6 @@
    "buzz": 0
   },
   {
-   "id": "5bbff9d76557",
-   "url": "https://news.hada.io/topic?id=37201",
-   "title": "고칠 줄 몰라서가 아니라 불편한 줄 몰라서 – 기억해야 할 창구를 줄인 업무 환경 개선기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T12:33:13+00:00",
-   "image": "https://social.news.hada.io/topic/37201/pef176b9ddcd63a2f7614bf24b42f560",
-   "summary": "개인 프로젝트(코드 대결 게임, 크롬 확장, 블로그 등)가 늘면서 각 프로젝트의 맥락을 기억하기 어려워지고, 무엇을 할지 정하는 일이 짐이 되어 의욕까지 떨어짐 ",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "7c52aacd1c7b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217420",
    "title": "메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중",
@@ -204,7 +348,7 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42735_64201_1340_v150.jpg",
    "summary": "제63회 세무사시험 수석 합격 논란의 당사자가 생성형 인공지능(AI)과 전자기기를 이용해 시험에서 부정행위를 했다고 공개적으로 인정했다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "4abf83c95280",
@@ -239,18 +383,6 @@
    "published_at": "2026-11-15T11:38:36+00:00",
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42734_64196_3547_v150.jpg",
    "summary": "북극해의 얼음 분포를 최대 30일 앞서 예측하고, 선박이 북극항로를 이용할 수 있는 시기를 보다 정확하게 판단하도록 지원하는 인공지능(AI) 기술이 개발됐다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "98754021e32c",
-   "url": "https://news.hada.io/topic?id=37200",
-   "title": "법원, DRAM 가격 담합 소송 기각 신청 거부",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T11:32:44+00:00",
-   "image": "https://social.news.hada.io/topic/37200/p19e1301e896054a43d7c9c7ec86dff9",
-   "summary": "미국 연방법원이 Samsung, SK Hynix, Micron의 공동 기각 신청을 전부 거부 하며 일반 DRAM 공급 제한 의혹에 관한 집단소송 추진 사건을 계속",
    "category": "ai",
    "buzz": 0
   },
@@ -351,18 +483,6 @@
    "buzz": 1
   },
   {
-   "id": "fbfff0288266",
-   "url": "https://news.hada.io/topic?id=37199",
-   "title": "Show GN: 인디해커온라인 – 창업자, 개발자들의 온라인 오피스를 만든 이야기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T10:12:03+00:00",
-   "image": "https://social.news.hada.io/topic/37199/p59a2b9080b4c3401194df62289e6462",
-   "summary": "인디해커온라인은 혼자 일하는 창업자, 개발자가 브라우저 안 도트 오피스에 모여 각자 일하는 서비스로, 옆에 누가 일하고 있으면 나도 일하게 되는 바디 더블링 효과",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "44d794c8bad4",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217383",
    "title": "목포 고하도에 100억원 투입…폐교 부지, 문화복지 플랫폼으로",
@@ -411,30 +531,6 @@
    "buzz": 0
   },
   {
-   "id": "0be21d387285",
-   "url": "https://news.hada.io/topic?id=37198",
-   "title": "Show GN: agent-otel-kit - Claude Code·Codex·Gemini CLI 사용량, 비용, 도구 호출을 한 대시보드로",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T09:02:02+00:00",
-   "image": "https://social.news.hada.io/topic/37198/p8fe8c7bebccebdd23d4b0bf233885b6",
-   "summary": "직접 만든 오픈소스입니다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "d44f3c296494",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217408",
-   "title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\"",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-15T09:00:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217408_221652_4632.jpeg",
-   "summary": "LG유플러스가 AI 토큰 최적화 기술 성과를 바탕으로 내년 B2B AI 시장에 진출한다고 15일 밝혔다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "603192efc7fd",
    "url": "https://www.bloter.net/news/articleView.html?idxno=678501",
    "title": "커지는 AI 청구서 잡는다…LGU+, '토큰 최적화' 승부수 [현장+]",
@@ -447,54 +543,6 @@
    "buzz": 0
   },
   {
-   "id": "9eeb94109bc7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217414",
-   "title": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-15T08:20:19+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217414_221660_1557.png",
-   "summary": "마이크로소프트(MS)가 전 세계 기업과 정부 기관에 큰 혼란을 일으킨 클라우드 서비스 장애를 완전히 복구했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "bc7aa2c52c9c",
-   "url": "https://news.hada.io/topic?id=37196",
-   "title": "Woz는 컴퓨터를 만들기도 전에 어떻게 Apple 1 BASIC을 작성했을까?",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T07:38:55+00:00",
-   "image": "https://social.news.hada.io/topic/37196/p3b4c9e369b8922aa4ed5d9e30d20681",
-   "summary": "Steve Wozniak은 단순한 설계안이 아니라 실제 6502 기계어 를 종이에 작성하고, 명령어를 직접 16진수로 변환하는 수작업 어셈블 로 BASIC을 구현",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "2dc5cad00167",
-   "url": "https://news.hada.io/topic?id=37195",
-   "title": "EFF, 항소법원에 자동 번호판 인식 데이터 검색의 영장 의무화 요청",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T07:35:55+00:00",
-   "image": "https://social.news.hada.io/topic/37195/pa863b2ba0a10657649f92f0554040ee",
-   "summary": "EFF와 ACLU 가 경찰의 영장 없는 자동 번호판 인식(ALPR) 데이터 추적을 미국 수정헌법 제4조상 수색 으로 인정해 달라는 법정조언자 의견서를 제6연방항소",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "78e254e32b68",
-   "url": "https://news.hada.io/topic?id=37194",
-   "title": "Show GN: 눈팅티비 - 스포츠 중계 일정과 시청, 커뮤니티를 한곳에 모은 서비스",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T07:15:45+00:00",
-   "image": "https://social.news.hada.io/topic/37194/p38bd6207ea73fad1e215ace1de51169",
-   "summary": "눈팅티비는 축구·야구·농구 등 스포츠 중계 일정과 중계 화면을 한곳에 모으고, 게시판과 채팅을 붙인 스포츠 커뮤니티입니다.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "c5708550119c",
    "url": "https://discuss.pytorch.kr/t/saltline-claude-fable-5-2-html-fps/12512",
    "title": "Saltline: Claude Fable 5.2가 지시 한 번으로 만든 HTML 파일 하나짜리 브라우저 FPS 게임",
@@ -504,54 +552,6 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/c/1/c10445c452e34f6cf6587283d4f499535f1517da_2_1028x686.jpeg",
    "summary": "핵심 요약 Saltline 은 Anthropic의 Felix Rieseberg가 Claude Fable 5.2로 사람의 중간 피드백 없이 만든 브라우저 1인칭 슈",
    "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "1c3ac0ff9847",
-   "url": "https://news.hada.io/topic?id=37192",
-   "title": "사용자가 자기 데이터를 소유하게 해주고 싶다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T06:03:39+00:00",
-   "image": "https://social.news.hada.io/topic/37192/p0041c658b351efcf50072fd68b85437",
-   "summary": "금융 정보를 다루는 웹 앱에서 개발자가 아닌 사용자가 데이터를 보유 하면서도, 기본 기능과 개발 편의성을 유지하기 어려움 Cheapskate 는 인증과 SQL 데",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "826f13daf0be",
-   "url": "https://news.hada.io/topic?id=37191",
-   "title": "Antigravity의 /teamwork로 과학과 엔지니어링 발전시키기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T05:35:15+00:00",
-   "image": "https://social.news.hada.io/topic/37191/p713038bb7904bb3b077f4bd54bef68c",
-   "summary": "Google과 학계 연구진이 Gemini 4와 /teamwork 멀티에이전트 시스템 을 활용해 수학 난제 증명, 분자 구조 규명, 소프트웨어 재작성, 인프라 최적",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "bcacd36e5e8f",
-   "url": "https://news.hada.io/topic?id=37190",
-   "title": "Project Zero, 취약점 공개 기한을 90일에서 30일까지 단계적으로 단축",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T03:36:49+00:00",
-   "image": "https://social.news.hada.io/topic/37190/p2bc32add1d1b8984f5360ee0285ef4a",
-   "summary": "Project Zero가 패치 여부와 관계없이 신고 후 정해진 날짜에 취약점을 공개하는 Full X 정책 을 도입함.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "62f84cd19e11",
-   "url": "https://news.hada.io/topic?id=37189",
-   "title": "Show HN: 순수 JAX 약 200줄로 구현한 DeepSeek V3",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-15T03:33:49+00:00",
-   "image": "https://social.news.hada.io/topic/37189/pff7bfd83573161e3213393277971952",
-   "summary": "DeepSeek-V3 아키텍처를 순수 JAX 190줄로 구현 하고, MacBook Air에서 퍼블릭 도메인 추리소설로 처음부터 사전학습한 프로젝트임 Flax, E",
-   "category": "ai",
    "buzz": 0
   },
   {
