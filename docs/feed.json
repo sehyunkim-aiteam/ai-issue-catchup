@@ -1,7 +1,523 @@
 {
  "version": 4,
- "generated_at": "2026-11-18T11:45:01+00:00",
+ "generated_at": "2026-11-18T20:34:49+00:00",
  "items": [
+  {
+   "id": "df88577c14f7",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=679061",
+   "title": "DB하이텍, 주주환원에 850억 투입…신사동에 'AI 추론 센터' 설립",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T18:59:42+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/679061_294027_5015_v150.jpg",
+   "summary": "DB하이텍이 대규모 자기주식 소각 및 취득과 함께 AI(인공지능) 신사업 인프라 투자를 동시에 추진한다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "873f367a9243",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42790",
+   "title": "정부, 피지컬 AI 실무인력 양성 본격화…전주·성남·청주·창원에 테스트베드 4곳 구축",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-18T18:46:04+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42790_64286_4448_v150.jpg",
+   "summary": "정부가 로봇과 인공지능(AI)을 결합한 피지컬 AI 기술의 산업현장 확산을 위해 전국에 실습형 교육 인프라를 구축한다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "175ff06b0057",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217542",
+   "title": "오픈AI \"사이버 보안, 코딩보다 큰 사업 될 것\"…신성장 동력 육성",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T18:29:41+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217542_221831_3947.png",
+   "summary": "오픈AI가 사이버 보안을 코딩보다 큰 수익 사업으로 키우고 있다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "b8e5ef61d2ef",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217523",
+   "title": "앤트로픽·오픈AI 등 주요 모델, ‘게임’으로 속이자 민간인까지 군사 표적으로 식별",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T18:15:13+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217523_221801_5735.png",
+   "summary": "앤트로픽과 오픈AI, 구글, 딥시크 등 주요 AI 기업의 모델이 간단한 프롬프트 조작만으로 민간인과 학교까지 군사 표적으로 식별하는 것으로 나타났다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "46a865de501f",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217531",
+   "title": "구글, 제미나이 '태스크 모드' 한국에도 무료 제공…예약·쇼핑까지 대행",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T17:50:37+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217531_221811_4434.jpg",
+   "summary": "구글이 제미나이의 '태스크 모드(Task Mode)'를 한국과 미국 등 6개국에서 수억명에게 무료로 확대 제공한다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "49d66512339a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217544",
+   "title": "AI·로봇·자율주행 한자리에…광주서 첨단기술 경진대회 22개 열린다",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T17:40:04+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217544_221826_2919.jpg",
+   "summary": "AI 모델 개발과 자율주행, 로봇 제작 등 첨단기술 분야의 대학생 경진대회 22개가 18일부터 광주에서 열리고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "5880299feae4",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217536",
+   "title": "리퀴드 AI, 의사결정 모델 'd1.2' 출시…AA 평가 1위",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T17:39:22+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217536_221814_322.png",
+   "summary": "리퀴드 AI가 텍스트와 이미지, 오디오를 처리하는 옴니모달 의사결정 모델 'd1.2'와 'd1.2-울트라'를 출시했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "5ba211ad7672",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21992",
+   "title": "옥타, AI 에이전트 보안 청사진 공개...“로그인 전·중·후 모두 감시”",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-18T17:29:21+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21992_22791_551.jpg",
+   "summary": "“요즘 유출 사고의 80% 이상은 정식 계정으로 들어옵니다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "2f03e10792db",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217543",
+   "title": "퍼플렉시티, AI 에이전트 16개가 협업·상호 검증하는 기능 출시",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T17:28:44+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217543_221825_368.png",
+   "summary": "퍼플렉시티가 복잡한 업무를 여러 AI 에이전트가 나눠 수행하고 서로의 결과를 검증하는 기능을 선보였다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "9455fc5665e0",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678996",
+   "title": "디즈니+, K-예능·드라마 집중…'운명전쟁49' 시즌2 만든다",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T17:20:33+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678996_294008_1557_v150.jpg",
+   "summary": "글로벌 온라인동영상서비스(OTT) 디즈니플러스가 한국은 물론 해외에서도 흥행한 주요 콘텐츠의 시즌2 제작에 나선다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "02f95223609d",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678994",
+   "title": "[카카오모빌리티 3분기]㊦ 결손금 거의 털었지만…배당보다 피지컬 AI",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T17:13:53+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678994_293937_5251_v150.jpg",
+   "summary": "카카오모빌리티의 3분기 실적을 분석해 현재 체력과 성장성을 짚어봅니다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "d233de852677",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217541",
+   "title": "중국 AI 기업들, 수출 규제 앞두고 모델의 사이버 공격 능력 축소",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T17:07:19+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217541_221822_2620.jpg",
+   "summary": "중국 주요 AI 기업들이 해킹 등 사이버 공격에 악용될 수 있는 모델의 공격 능력을 줄이고 방어 능력을 강화하고 있다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "a881075efbc2",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42789",
+   "title": "2027년, \"AI 사이버 공격 빨라지고 보안 주권 중요해진다\"…F5, 사이버보안 3대 변화 전망",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-18T17:03:39+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42789_64284_15_v150.jpg",
+   "summary": "인공지능이 기업의 핵심 업무에 본격적으로 도입되면서 사이버보안의 중심축도 변화하고 있다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "d25123bd2330",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217520",
+   "title": "전남광주, 수능 AI 안경 대응 강화…132명 배치·감독교사 법률지원",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T16:57:51+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217520_221802_1355.jpg",
+   "summary": "19일 치러지는 2027학년도 대학수학능력시험에서 전남광주 지역 86개 시험장에 AI 기기 식별 지원인력 132명이 투입된다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "590a26206935",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21991",
+   "title": "“지능은 조직이 소유해야” 사티아 나델라 CEO, 프론티어 생태계 청사진",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-18T16:56:44+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21991_22790_4240.jpg",
+   "summary": "마이크로소프트(MS)가 생성형 AI 경쟁의 질문을 바꾸려 한다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "e1f10d0d01a8",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217528",
+   "title": "허사비스의 AI 신약 기업, 6개월 새 9.4조 투자 유치…임상시험 본격 추진",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T16:54:17+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217528_221807_3637.jpg",
+   "summary": "데미스 허사비스 구글 딥마인드 공동창업자가 설립한 AI 신약 개발 스타트업 아이소모픽 랩스(Isomorphic Labs)가 50억달러(약 6조6000억원) 규모의",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "554be23b3433",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217538",
+   "title": "미국 30여개 주, '캐릭터닷AI' 매각 심사 강화 요구…아동 대화 기록 쟁점",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T16:46:04+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217538_221818_618.jpg",
+   "summary": "미국 30여개 주 정부가 아동의 자살을 부추겼다는 의혹을 받는 AI 챗봇 서비스 '캐릭터닷AI(Character.AI)'의 매각에 대해 철저한 조사를 요구했다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "806fe6aec081",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21990",
+   "title": "동남아 스마트폰 시장 36% 역성장...메모리값 상승에 저가폰 직격탄",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-18T16:41:55+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21990_22789_3848.jpg",
+   "summary": "옴디아는 2026년 3분기 동남아시아 스마트폰 출하량이 1650만 대로 전년 동기 대비 36% 감소했다고 18일 밝혔다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "4e7618e80766",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217533",
+   "title": "엔비디아, 삼성전기·앰코 등 글로벌 공급망 파트너 협력 확대",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T16:38:58+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217533_221812_13.jpg",
+   "summary": "엔비디아가 AI 인프라 수요 증가에 대응해 삼성전기·앰코테크놀로지 등 공급망 파트너와의 협력을 강화하고 기판 및 첨단 패키징 생산능력 확대에 나섰다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "fc735a03a45a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217534",
+   "title": "사람처럼 손 쓰는 로봇 개발에 6600억 투자…제네시스 AI 기업가치 4.6조",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T16:37:03+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217534_221824_3320.jpeg",
+   "summary": "사람처럼 정교하게 손을 움직이고 물체를 다루는 범용 로봇 개발로 주목받는 프랑스 스타트업 제네시스 AI(Genesis AI)가 대규모 투자 유치에 성공했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "4a031231fe4e",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=679014",
+   "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T16:30:33+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/679014_293958_318_v150.jpg",
+   "summary": "KB금융그룹이 이재근 차기 회장 취임을 앞두고 생산적 금융과 인공지능 전환(AX)을 담당해 온 핵심 경영진을 교체하는 수순에 들어갔다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "cf39c1cca1c3",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=679008",
+   "title": "멤레이비티, 3분기 흑자전환…서버·스토리지 공급 확대",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T16:25:20+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/679008_293956_2223_v150.jpg",
+   "summary": "코스닥 상장사 멤레이비티는 올해 3분기 연결 기준 매출액 503억원, 영업이익 24억원을 기록했다고 16일 공시했다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "da2fe5efc2db",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=679018",
+   "title": "[의료로봇 줌인] 고영, 뇌수술 로봇 출하 부진 '해외 영업망' 확장 과제",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T16:23:02+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/679018_293961_3542_v150.jpg",
+   "summary": "고영테크놀러지가 뇌수술 로봇으로 미국 식품의약국(FDA) 허가를 받은 지 2년 가까이 지났지만 출하 실적은 기대에 못미치고 있다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "8c2c4917c685",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217535",
+   "title": "초록소프트, 한국이엔씨와 AI 스마트팜 맞손...클린룸 기술에 AI 더해",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T16:19:57+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217535_221816_3445.jpg",
+   "summary": "AI 솔루션 전문 초록소프트(대표 김명락)는 클린룸 설비 전문 한국이엔씨(대표 강세명)와 손잡고 AI 기반 스마트팜 사업에 나선다고 18일 밝혔다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "0963e21bb587",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217539",
+   "title": "몬드리안AI, 서울대 공대에 프라이빗 AI 클라우드 플랫폼 공급...기존 시스템 윈백",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T16:18:54+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217539_221819_627.png",
+   "summary": "AI 클라우드 전문 몬드리안AI(대표 홍대의)는 서울대학교 공과대학에 프라이빗 AI 클라우드 플랫폼 ‘런유어 클라우드(Runyour Cloud)’를 공급했다고 1",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "f007e727ac0b",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21989",
+   "title": "미라콤아이앤씨·레인보우로보틱스 맞손...제조 현장 RX 통합 사업 추진",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-18T16:17:51+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21989_22788_1557.png",
+   "summary": "미라콤아이앤씨는 레인보우로보틱스와 로봇 공급 및 RX(Robotics Transformation) 사업협력을 위한 파트너십을 체결했다고 18일 밝혔다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "71d570c575f1",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21988",
+   "title": "모빌린트, 도쿄 AI 엑스포서 NPU 기반 솔루션 6종 공개",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-18T16:09:09+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21988_22787_542.jpg",
+   "summary": "모빌린트는 지난 11일부터 13일까지 일본 지바현 마쿠하리 멧세에서 열린 ‘AI 엑스포 도쿄 Autumn 2026’에 참가해 자사 신경망처리장치(NPU) 기반 기",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "c81e52cd387e",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21987",
+   "title": "딥엑스 저전력 NPU로 영상 분석...에이페이서 ‘바이클로’ 기술력 인정",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-18T16:03:21+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21987_22786_14.jpg",
+   "summary": "딥엑스의 신경망처리장치(NPU)를 탑재한 대만 에이페이서의 엣지 AI 제품 ‘바이클로(ViClaw)’가 ‘2027 대만 우수제품상’을 수상했다.",
+   "category": "ai",
+   "buzz": 2
+  },
+  {
+   "id": "6b454e890e3b",
+   "url": "http://www.newstheai.com/news/articleView.html?idxno=21986",
+   "title": "엔비디아, 한국·대만·미국 제조망 확충...AI 플랫폼 공급 기반 강화",
+   "source": "더에이아이",
+   "source_id": "newstheai",
+   "published_at": "2026-11-18T15:59:07+00:00",
+   "image": "https://cdn.newstheai.com/news/photo/202611/21986_22785_572.jpg",
+   "summary": "엔비디아가 AI 반도체 공급망의 생산능력 확대를 위해 삼성전기와 앰코테크놀로지, 대만 킨서스·SPIL, TSMC, 폭스콘 등 글로벌 제조 파트너와 협력을 강화한다",
+   "category": "ai",
+   "buzz": 2
+  },
+  {
+   "id": "1f148f801400",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678993",
+   "title": "[핀다 확장 청구서]② 중저신용 노하우 부재…AI뱅크 헛구호 그치나",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T15:15:15+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678993_293933_2728_v150.jpg",
+   "summary": "핀테크(금융기술) 기업 핀다가 대원저축은행을 인수한 뒤 중저신용자 특화 대출을 앞세워 여신 시장 공략에 나선다.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "691ffd32ded6",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=678980",
+   "title": "'HBM 질주' SK하이닉스, 안전 거버넌스 재정비로 내실 다진다",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-18T15:14:56+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/678980_293906_5546_v150.jpg",
+   "summary": "AI(인공지능) 메모리 슈퍼사이클에 힘입어 역대 최대 실적을 기록 중인 SK하이닉스가 외형 성장에 걸맞는 내실을 다지기 위해 현장 안전·환경 거버넌스 재정비에 나",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "a3f7dec9332e",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217529",
+   "title": "오픈AI, NATO에 사이버 보안 AI 공급…유럽 정부·기관으로 사업 확대",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-18T15:05:37+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217529_221809_2354.jpg",
+   "summary": "오픈AI가 북대서양조약기구(NATO)에 첨단 사이버 보안 AI 모델을 공급하며 정부·국제기구 대상 사업을 확대하고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "2605b9042b1b",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42788",
+   "title": "대만이 인정한 엣지 AI 제품, 핵심 반도체는 한국산…딥엑스 NPU로 50TOPS 구현",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-18T14:53:14+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42788_64283_5257_v150.jpg",
+   "summary": "한국 AI 반도체 기업 딥엑스(DEEPX)의 신경망처리장치(NPU)를 탑재한 대만 에이페이서(Apacer)의 엣지 AI 시스템이 대만 정부가 주관하는 우수제품상을",
+   "category": "ai",
+   "buzz": 2
+  },
+  {
+   "id": "c9643920ccfa",
+   "url": "https://news.hada.io/topic?id=37411",
+   "title": "Gemini 4 Carbon은 왜 이렇게 오래 걸릴까?",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-18T14:32:28+00:00",
+   "image": "https://social.news.hada.io/topic/37411/p355134f3018b011ae471308ff1de9ad",
+   "summary": "Kernel의 비공개 버그 수정 평가 에서 Gemini 4 Carbon은 Opus와 Astra가 몇 분 만에 끝내는 작업에 거의 한 시간을 사용했으며, 느린 추론",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "12dec70ef060",
+   "url": "https://www.venturesquare.net/1129820",
+   "title": "AWS, 수천 개 AI 에이전트가 코드 작성한 ‘AWS Emulator’ 출시…클라우드 배포 없이 개발·테스트",
+   "source": "벤처스퀘어",
+   "source_id": "venturesquare",
+   "published_at": "2026-11-18T14:14:03+00:00",
+   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/ai-5-789x444.jpg",
+   "summary": "여러 AI 에이전트가 역할을 나눠 테스트를 만들고 오류를 찾아 수정하는 방식이 실제 제품 개발에도 적용되기 시작했다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "f72c5b251183",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42787",
+   "title": "AI 위험 인식도 언어권 따라 달랐다…OECD, 독일어권은 자율주행·저작권·LLM에 집중",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-18T14:06:58+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42787_64282_637_v150.jpg",
+   "summary": "인공지능(AI)의 위험을 바라보는 시각이 언어권과 지역에 따라 달라질 수 있다는 경제협력개발기구(OECD)의 연구 결과가 나왔다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "3f64623e99f8",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42786",
+   "title": "DGIST 이태훈 교수팀, 엔비디아 고성능 GPU 지원받아 에이전틱 AI 기반 신소재 탐색",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-18T13:56:52+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42786_64281_5621_v150.jpg",
+   "summary": "대구경북과학기술원(DGIST, 총장 이건우)은 에너지공학과 이태훈 교수팀이 엔비디아(NVIDIA)의 글로벌 연구 지원 프로그램인 ‘엔비디아 아카데믹 그랜트(NVI",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "f46f04cef634",
+   "url": "https://news.hada.io/topic?id=37410",
+   "title": "Web Browser Engineering (2021) - Python으로 직접 만드는 웹 브라우저",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-18T13:31:13+00:00",
+   "image": "https://social.news.hada.io/topic/37410/pa3ab8cc97a2b40d2f4afd87a1a6f2c5",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "54d994162639",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42785",
+   "title": "SKT, AI 기지국으로 일반 차량 무인 이송…2027년 KG모빌리티 공장 적용 추진",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-18T13:25:16+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42785_64280_255_v150.jpg",
+   "summary": "SK텔레콤(SKT)이 인공지능(AI) 기반 무선접속망(AI-RAN)을 활용해 자율주행 기능이 없는 일반 차량을 무인으로 이송하는 기술을 개발했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "3956193fe871",
+   "url": "https://news.hada.io/topic?id=37409",
+   "title": "Show GN: Sidehand - 내가 타이핑하는 동안 창 뒤의 Windows 앱을 AI 에이전트가 조작하는 MCP 서버",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-18T13:13:23+00:00",
+   "image": "https://social.news.hada.io/topic/37409/p5e71051f86fffeae2ea557b194ab775",
+   "summary": "AI 에이전트에게 데스크톱 앱을 맡기면 마우스가 움직이고 창이 앞으로 튀어나와서, 끝날 때까지 PC를 못 쓰게 됩니다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "c948aff2f19f",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42784",
+   "title": "영국, 경찰 실시간 얼굴인식 법제화 추진…AI 감시 확대와 기본권 보호 충돌",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-18T12:56:56+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42784_64279_5858_v150.jpg",
+   "summary": "영국 정부가 경찰의 실시간 얼굴인식 기술을 비롯한 생체인식 감시 기술의 활용을 법률로 규율하는 방안을 추진하고 있다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "7fd0ba5c16e2",
+   "url": "https://discuss.pytorch.kr/t/11-22-11-30-ai/12578",
+   "title": "11/22~11/30 마감 AI 공모전·해커톤 (상금 있는 것 위주)",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-18T12:49:17+00:00",
+   "image": "https://hackable.co.kr/favicon.ico?favicon.2rn3i59semio0.ico",
+   "summary": "AI 쪽 대회 중에 이번 주부터 다음 주 사이에 마감인 것들 적어 둘게요.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "f8fb41296eba",
+   "url": "https://news.hada.io/topic?id=37408",
+   "title": "Codeberg.org 접속 불가",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-18T12:32:30+00:00",
+   "image": "https://social.news.hada.io/topic/37408/p751aad4f34a5e6726f6091f33037498",
+   "summary": "codeberg.org 도메인이 완전히 접속 불가 상태가 됐으며, 등록업체 NameSilo의 Codeberg 계정에서도 사라짐 Codeberg는 갱신 누락이 아니",
+   "category": "etc",
+   "buzz": 0
+  },
   {
    "id": "588c701a85c7",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42783",
@@ -24,18 +540,6 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42782_64277_5247_v150.jpg",
    "summary": "마이크로소프트의 사티아 나델라(Satya Nadella) 회장 겸 최고경영자(CEO)가 인공지능(AI) 모델의 내부 작동과 판단 과정을 확인하기 어려운 ‘블랙박스",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "0b3afb1f0a09",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217517",
-   "title": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T11:50:43+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217517_221793_4838.jpg",
-   "summary": "엔비디아가 젠슨 황 전 CEO의 복귀 가능성을 공식적으로 일축하고 후임자 선임 절차에 들어갔다.",
-   "category": "ai",
    "buzz": 1
   },
   {
@@ -48,67 +552,7 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42781_64276_3526_v150.jpg",
    "summary": "구글이 자신의 외모와 목소리를 반영한 인공지능 아바타를 만들어 영상에 활용할 수 있는 기능을 개인 이용자에게 무료로 개방했다.",
    "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "9c42c7dd1d19",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42780",
-   "title": "초장문 AI 추론 병목 줄이는 ‘희소 어텐션’ 설계법 공개…엔비디아, GPU 연산 효율 최적화",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-18T11:30:45+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42780_64275_3029_v150.jpg",
-   "summary": "엔비디아(NVIDIA)가 수십만 토큰의 장문 데이터를 처리하는 대형언어모델(LLM)의 추론 효율을 높이기 위한 ‘희소 어텐션(Sparse Attention)’ 설",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "4a15e64435b6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217478",
-   "title": "엠버 \"태양광·풍력·배터리 조합 시 전력 공급비 18% 절감\"",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T11:25:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217478_221781_3752.jpg",
-   "summary": "태양광과 에너지저장장치(ESS)에 풍력발전을 추가하면 연간 전력수요의 90%를 충족하는 비용이 메가와트시(MWh)당 105달러(약 15만4000원)에서 86달러(",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "0e604f661857",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217472",
-   "title": "튀르키예, 2조3400억원 규모 태양광 건설 추진…국제 금융기관 8곳 지원 의향",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T11:25:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217472_221779_3514.jpg",
-   "summary": "튀르키예에서 건설 예정인 2기가와트(GW) 규모 태양광발전 사업에 국제 금융기관 8곳이 금융지원 의향서를 체결했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "d3457e5dddcb",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42779",
-   "title": "제미나이, 전화 예약·쇼핑까지 대신한다…한국 포함 6개국에 자율 AI 에이전트 확대",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-18T11:13:16+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42779_64273_125_v150.jpg",
-   "summary": "구글이 생성형 인공지능(AI) 서비스 제미나이(Gemini)에 전화 예약과 공과금 분석, 상품 구매 등 일상적인 업무를 대신 수행하는 에이전틱 AI 기능을 확대했",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "dd054dcfb112",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217469",
-   "title": "멕시코 태양광 발전 규모, 5.65GW 돌파…설치 신청도 65만건 넘었다",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T11:10:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217469_221773_2410.jpg",
-   "summary": "멕시코의 분산형 태양광 설비용량이 올해 6월 말 5.65기가와트(GW)를 넘어섰다.",
-   "category": "ai",
-   "buzz": 0
+   "buzz": 2
   },
   {
    "id": "a909757e81e1",
@@ -135,42 +579,6 @@
    "buzz": 0
   },
   {
-   "id": "358dc9f97738",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42778",
-   "title": "젠슨 황, '엔비디아는 일생일대의 기업, CEO 복귀 의사 밝혀'…“이사회가 원한다면 돌아가겠다”",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-18T10:51:27+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42778_64271_5058_v150.jpg",
-   "summary": "엔비디아(NVIDIA)의 젠슨 황(Jensen Huang)이 최고경영자(CEO) 자리에서 물러난 이후 경영 복귀 의사를 공개적으로 밝혔다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "3ed8a9fccd57",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=678976",
-   "title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-18T10:37:49+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/678976_293899_1023_v150.jpg",
-   "summary": "삼성전기가 엔비디아와 AI(인공지능) 반도체 부품 동맹을 공고히 하고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "9cd2114516c3",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42777",
-   "title": "마이크로소프트, 자체 AI 모델 ‘코드 2’ 공개…5천만 AI 에이전트 관리·데이터 인프라 혁신 가속",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-18T10:25:14+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42777_64268_2331_v150.jpg",
-   "summary": "마이크로소프트가 자체 개발한 에이전틱 AI 코딩 모델 ‘MAI 코드 2(MAI Code 2)’를 공개하고, 5,000만개 이상의 AI 에이전트가 등록된 기업용 관",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "9ec28da7cada",
    "url": "https://news.hada.io/topic?id=37406",
    "title": "Show GN: Clippy HTML - Clippy의 진단을 정적 웹페이지로 바꿔주는 도구",
@@ -181,18 +589,6 @@
    "summary": "Clippy의 경고를 rustdoc 스타일의 정적 웹페이지로 바꿔주는 도구입니다.",
    "category": "etc",
    "buzz": 0
-  },
-  {
-   "id": "e258d1193380",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42776",
-   "title": "오픈AI, GPT-6.2 아스트라·솔 전격 공개…전문가급 AI 업무 수행에 비용 혁신까지",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-18T09:52:11+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42776_64267_5154_v150.jpg",
-   "summary": "오픈AI(OpenAI)가 복잡한 전문 업무 수행 능력과 비용 효율성을 강화한 차세대 프런티어 인공지능(AI) 모델 ‘GPT-6.2 아스트라(GPT-6.2 Astr",
-   "category": "vibe_coding",
-   "buzz": 1
   },
   {
    "id": "026d13c332f7",
@@ -243,30 +639,6 @@
    "buzz": 0
   },
   {
-   "id": "7b51a2057641",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42775",
-   "title": "에브리봇, 피지컬 AI 사업본부 출범…중국 애지봇·DDT와 휴머노이드·사족보행 로봇사업 확대",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-18T09:28:56+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42775_64266_2826_v150.jpg",
-   "summary": "로봇 전문기업 에브리봇(대표 정우철)이 중국 휴머노이드 및 사족보행 로봇 기업과 협력해 피지컬 AI 사업 확대에 나선다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "1e661ace70a2",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42774",
-   "title": "시마AI, 피지컬 AI 소프트웨어 ‘팔레트 3.0’ 공개…단일 칩에서 여러 AI 모델 동시 실행",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-18T09:24:17+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42774_64265_2258_v150.jpg",
-   "summary": "피지컬 AI 반도체 기업 시마AI(SiMa.ai)가 단일 칩에서 여러 인공지능(AI) 모델을 동시에 실행하고, 생성형 AI의 추론 처리량을 최대 3.5배 높이는 ",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "b47ab70bf736",
    "url": "https://byline.network/2026/11/18-654",
    "title": "F5 “가속화되는 AI 사이버공격, ‘기계의 속도’로 ‘자동화’된 대응 필요”",
@@ -303,18 +675,6 @@
    "buzz": 0
   },
   {
-   "id": "e044ddc4ee5b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217283",
-   "title": "[AI리더의 서가] VLA 로보틱스 입문",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T09:00:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217283_221511_485.jpg",
-   "summary": "VLA 로보틱스 입문김병규 | 위키북스2026년 11월 17일추천이유독자는 파이썬 기초 지식만으로도 시뮬레이션에서 실제 로봇까지 피지컬 AI의 전 과정을 직접 경",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "ac7ac19f3b93",
    "url": "https://www.venturesquare.net/1129741",
    "title": "모픽AI, 영상 시안 검토·수정·공유 기능 ‘아티팩트’ 출시…영화·드라마 제작 협업 지원한다",
@@ -324,7 +684,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Morphic-AI-789x444.png",
    "summary": "영화와 드라마 제작에서는 한 장면을 완성하기까지 여러 시안을 비교하고 수정하는 작업이 반복된다.",
    "category": "vibe_coding",
-   "buzz": 1
+   "buzz": 2
   },
   {
    "id": "9b0f58a92e71",
@@ -444,7 +804,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/NPU-789x421.png",
    "summary": "인공지능(AI) 반도체의 경쟁력이 칩 자체의 연산 성능을 넘어 실제 산업용 제품에서의 활용 성과로 평가받고 있다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 2
   },
   {
    "id": "451bd5773f6a",
@@ -459,18 +819,6 @@
    "buzz": 0
   },
   {
-   "id": "51b8c6f40f40",
-   "url": "https://www.venturesquare.net/1129682",
-   "title": "AI스페라, 위협 분석·모의해킹 통합한 ‘AITEM’ 출시…AI로 보안 운영 자동화",
-   "source": "벤처스퀘어",
-   "source_id": "venturesquare",
-   "published_at": "2026-11-18T07:27:53+00:00",
-   "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/AITEM-789x473.png",
-   "summary": "기업의 IT 자산이 클라우드와 외부 서비스로 분산되면서 보안 담당자가 관리해야 할 공격 표면도 넓어지고 있다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
    "id": "322a845f5268",
    "url": "https://news.hada.io/topic?id=37400",
    "title": "Show GN: Claude Code와 Codex를 한 화면에서 관리하는 macOS 개발 도구를 만들었습니다",
@@ -483,30 +831,6 @@
    "buzz": 0
   },
   {
-   "id": "1d2a75b7c28b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217482",
-   "title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T07:00:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217482_221743_436.png",
-   "summary": "중국 AI 기업들도 미국의 오픈AI와 앤트로픽이 주도하는 'AI 과학적 발견' 경쟁에 뛰어들고 있습니다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "17a74d9f15c4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
-   "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T06:48:40+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217513_221791_5050.png",
-   "summary": "오픈AI가 차세대 플래그십 모델 'GPT-6.2 아스트라(Astra)'와 'GPT-6.2 솔(Sol)'을 출시했다.",
-   "category": "vibe_coding",
-   "buzz": 1
-  },
-  {
    "id": "5bfd44391bd1",
    "url": "https://byline.network/2026/11/18-651",
    "title": "“보안팀 일 덜어주겠다” AI스페라, ‘AITEM’ 출시",
@@ -516,7 +840,7 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2026/11/AI-SPERA123.jpg",
    "summary": "“패치를 못하는 게 아니고 서버가 어디 있는지 못 찾아서 시간을 낭비하는 경우가 생각보다 진짜 많아요.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "138556cbb747",
@@ -591,18 +915,6 @@
    "buzz": 0
   },
   {
-   "id": "6d19d3904d6e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217512",
-   "title": "젠슨 황 \"이사회가 원하면 CEO 복귀\"…엔비디아는 검토 안 해",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T05:37:19+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217512_221788_3218.jpg",
-   "summary": "젠슨 황 전 엔비디아 CEO가 퇴진 이후 처음으로 공식 성명을 내고 이사회가 원한다면 CEO로 복귀하겠다는 뜻을 밝혔다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
    "id": "a5755291fd78",
    "url": "https://discuss.pytorch.kr/t/ai-10-11-25/12571",
    "title": "[모집] 동그라미재단 AI 아카데미 10기(서울) 교육생 모집 (~11/25)",
@@ -627,30 +939,6 @@
    "buzz": 0
   },
   {
-   "id": "09e9564baaad",
-   "url": "https://news.hada.io/topic?id=37393",
-   "title": "GitHub 저장소 페이지 리디자인 제안 (2019)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-18T05:02:27+00:00",
-   "image": "https://social.news.hada.io/topic/37393/pe09370907df7a44a134b3a4948f56e8",
-   "summary": "GitHub 저장소 페이지의 정보 구조와 화면 배치 개선안 으로, 중첩 탐색과 불필요한 장식을 줄이고 같은 화면에 더 많은 프로젝트 정보를 담는 데 초점을 맞춤 ",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "b66580a6d15d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
-   "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-18T05:01:05+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217511_221786_5033.jpeg",
-   "summary": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "b5fa8c0c87ad",
    "url": "https://discuss.pytorch.kr/t/gpt-6-2-astra-sol-api/12563",
    "title": "GPT-6.2 Astra 및 Sol 프롬프팅 가이드: 대화 이력을 고치면 추론이 버려지는 API 변경과 대응법",
@@ -663,30 +951,6 @@
    "buzz": 0
   },
   {
-   "id": "7355f6696e4c",
-   "url": "https://news.hada.io/topic?id=37392",
-   "title": "Google의 AI 답변, 검색 유입을 40% 줄임",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-18T04:41:59+00:00",
-   "image": "https://social.news.hada.io/topic/37392/p765514efb9ad79002ab511df4ce6834",
-   "summary": "미국 데스크톱 사용자를 대상으로 한 무작위 실험에서 구글 검색시 Google AI Overviews가 표시 되면 외부 웹사이트 클릭이 약 40% 감소 함 AI O",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "994ffe7398a2",
-   "url": "https://news.hada.io/topic?id=37391",
-   "title": "IRS 로그인에 요구되는 ID.me 약관 동의",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-18T04:38:59+00:00",
-   "image": "https://social.news.hada.io/topic/37391/p589407d9333c946439e2044e1a1482c",
-   "summary": "IRS 온라인 서비스에 ID.me로 로그인하는 납세자 는 민간 업체인 ID.me의 약관을 적용받음.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "6a4f9319402a",
    "url": "https://www.mobiinside.co.kr/2026/11/18/robot-control-data-collection-methods-field",
    "title": "[AI로보틱스 트렌드 바로읽기] 로봇에게 감각을 가르치는 방법 — Teleoperation, UMI, Simulation",
@@ -696,30 +960,6 @@
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/16085506/autodraft-20261118-r2767-1-1.gif",
    "summary": "사람에게는 쉬운 일이 로봇에겐 어렵다는 ‘모라벡의 역설’에 대해서 알고 계신가요?",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "96f71d3acfee",
-   "url": "https://news.hada.io/topic?id=37390",
-   "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-18T03:30:59+00:00",
-   "image": "https://social.news.hada.io/topic/37390/pc6552781ab11d134bc481fdbc2dbcd2",
-   "summary": "",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "db903662afb9",
-   "url": "https://discuss.pytorch.kr/t/openai-gpt-6-2-astra-sol-astra-20-ai-high/12562",
-   "title": "OpenAI, GPT-6.2 Astra와 Sol 출시: Astra 가격 20% 인하, AI 자기 개선 High 등급 첫 출시",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-18T03:30:11+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/c/6/c6f7b808f612f7662d039797a59422e265f317d2_2_1028x677.jpeg",
-   "summary": "핵심 요약 OpenAI가 GPT-6.2 Astra와 Sol 발표 글 에서 최상위 모델 GPT-6.2 Astra와 일상 업무용 모델 GPT-6.2 Sol을 출시했습",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -771,6 +1011,18 @@
    "buzz": 0
   },
   {
+   "id": "edd39ff4b461",
+   "url": "https://yozm.wishket.com/magazine/detail/4042",
+   "title": "피곤한 1인 보안 담당자를 살린 통합 점검 프레임워크",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-18T00:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4042/img-01.png",
+   "summary": "\"저번 달에 위수탁 점검표 다 썼는데, 오늘은 영문 제3자 보안 평가를 또 쓰라고요?\" 두 서식의 알맹이를 들여다보면 80% 이상이 똑같은데, 법적 근거와 제출 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
    "id": "dd6c2d091f2a",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=21984",
    "title": "엔비디아, TSMC·폭스콘과 20년 동행...AI 인프라 생산력 비결은?",
@@ -779,78 +1031,6 @@
    "published_at": "2026-11-17T18:37:15+00:00",
    "image": "https://cdn.newstheai.com/news/photo/202611/21984_22783_3310.jpg",
    "summary": "엔비디아가 AI 반도체 경쟁력을 뒷받침하는 글로벌 공급망 운영 역량을 조명했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "6dd848cbce9c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217484",
-   "title": "텐센트 'Hy4 플래시' 출시...일상 업무 특화·작업 비용 95% 절감",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-17T18:18:21+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217484_221749_5244.png",
-   "summary": "텐센트가 문서 작성과 프레젠테이션 제작, 자료 조사 등 일상적인 업무에 특화한 저비용 AI 모델을 선보였다.",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "9500058edcd1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217492",
-   "title": "메타, AI로 코드 오류 사전 차단...개인정보 관련 심각한 버그 74건 발견",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-17T18:09:25+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217492_221760_308.jpg",
-   "summary": "메타가 AI를 활용해 소프트웨어 오류를 사전에 찾아내는 테스트 시스템을 도입해 올해 상반기에만 개인정보 관련 심각한 버그 74건을 발견했다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "5acf8229cfaf",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217491",
-   "title": "MS 오피스서 '코파일럿' 압도적 우위…'클로드' 사용자는 10분의 1",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-17T18:01:24+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217491_221757_4741.jpg",
-   "summary": "마이크로소프트(MS)의 오피스 프로그램에서 앤트로픽의 '클로드'를 활용하는 사용자가 자체 AI 서비스인 '코파일럿' 사용자에게 크게 못 미치는 것으로 나타났다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "99094ab3c248",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217474",
-   "title": "광주 AI데이터센터 GPU 이용료 25% 낮아져…지역 할인 기준도 변경",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-17T17:55:27+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217474_221775_2722.jpg",
-   "summary": "광주 AI데이터센터의 2027년 고성능 컴퓨팅 자원 이용 부담금이 올해 하반기 공고 대비 25% 낮아졌다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "ea12bb57dbc8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217505",
-   "title": "무안 농업 AX 시설 3곳, 데이터 연계 규격 설계…9억8000만원 용역 발주",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-17T17:54:18+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217505_221777_3015.jpg",
-   "summary": "무안에 추진 중인 농업 인공지능 전환(AX) 기반시설 3곳의 데이터 연계 방식과 운영체계를 설계하는 용역이 발주됐다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "a696511f5cc9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217506",
-   "title": "전남광주, 아시아문화중심도시 2028 계획 의결…시민제안 반영·AI 창작 기반 확충",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-17T17:54:05+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217506_221772_1925.jpg",
-   "summary": "전남광주통합특별시가 신규사업 10건과 계속사업 53건 등 총 63건을 담은 ‘아시아문화중심도시 조성 2028 연차별 실시계획안’을 의결했다.",
    "category": "ai",
    "buzz": 0
   },
@@ -867,42 +1047,6 @@
    "buzz": 0
   },
   {
-   "id": "4be0a2ced2cd",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21982",
-   "title": "AMD, 페이페이 리 이끄는 월드랩스 인수 완료...AI 인프라 경쟁력 강화",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-17T17:28:45+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21982_22780_274.jpg",
-   "summary": "AMD가 페이페이 리(Fei-Fei Li) 교수가 설립한 AI 연구기업 월드랩스 인수를 완료했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "8ef83daad148",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21981",
-   "title": "구글 GTIG가 본 ‘AI 공격 자동화’의 현주소...“AI가 스스로 공격”",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-17T16:25:35+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21981_22779_354.jpg",
-   "summary": "공격자가 프롬프트 창 앞에 앉아 있던 시기는 지났다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "1cb2c910db76",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21980",
-   "title": "인텔, GPU D270으로 HPC 시장 공략...이기종 컴퓨팅 전략 공개",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-17T15:12:26+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21980_22778_840.jpg",
-   "summary": "인텔이 AI 추론용 가속기로 개발한 GPU D270의 활용 범위를 고성능 컴퓨팅(HPC)으로 넓힌다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "a0b577be525f",
    "url": "https://tech.kakao.com/posts/848",
    "title": "같은 GPU로 더 많은 AI 요청을 처리할 수 있을까? ― KV 캐시 오프로딩 × EPP 라우팅: 계산 결과를 오래 남기고, 다음 요청이 그 결과를 찾아가게 하기",
@@ -911,30 +1055,6 @@
    "published_at": "2026-11-17T15:00:00+00:00",
    "image": "https://img1.kakaocdn.net/thumb/U896x0/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakao_tech%2Fmedia%2Fec50ff3b01a100001.png",
    "summary": "“같은 GPU 32장, 같은 요청 3,456건.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "8595eab769e3",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21979",
-   "title": "AWS, ‘키로 봇’ 출시...개발자는 지휘하고 AI는 업무별로 실행",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-17T14:19:51+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21979_22777_1529.jpg",
-   "summary": "아마존웹서비스(AWS)가 소프트웨어 개발 과정의 반복 업무를 역할별 AI 에이전트에 맡기는 기능을 선보였다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "1c4618817f1a",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21978",
-   "title": "스캐터랩, 제타 청소년 보호 강화...‘트러스트&세이프티 팀’ 출범",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-17T14:13:09+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21978_22776_957.jpg",
-   "summary": "스캐터랩은 김종윤 대표가 직접 이끄는 ‘트러스트&세이프티 팀’을 출범했다고 17일 밝혔다.",
    "category": "ai",
    "buzz": 0
   },
@@ -948,31 +1068,7 @@
    "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-245.png",
    "summary": "19일 수능 시험장에서 수험생은 교시마다 안경 검사를 받고, 소매를 걷어 보이며, 옷 단추에는 스티커를 붙이게 된다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "db59a9aa8ee3",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21977",
-   "title": "업스테이지·코히어 동맹...‘솔라’와 ‘노스’ 결합으로 시장 확대",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-17T14:02:12+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21977_22775_5554.jpg",
-   "summary": "업스테이지는 코히어와 글로벌 소버린 AI 구현 및 기업용 AI 시장 확대를 위한 전략적 파트너십을 체결했다고 17일 밝혔다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "11ffdbca9681",
-   "url": "http://www.newstheai.com/news/articleView.html?idxno=21976",
-   "title": "위로보틱스, 오토복과 보행보조 로봇 ‘윔S’로 북미 시장 공략",
-   "source": "더에이아이",
-   "source_id": "newstheai",
-   "published_at": "2026-11-17T13:54:13+00:00",
-   "image": "https://cdn.newstheai.com/news/photo/202611/21976_22774_4755.jpg",
-   "summary": "위로보틱스가 오토복(Ottobock)과 손잡고 북미 웨어러블 로봇 시장에 진출한다.",
-   "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "7148653171cc",
@@ -1092,7 +1188,7 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2026/10/finance-hack1.jpg",
    "summary": "바이라인 주간 프리미엄 트렌드 리포트 495호 발간.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "5d0af09ec396",
@@ -1104,6 +1200,18 @@
    "image": "https://outstanding.kr/wp-content/uploads/2026/11/ACCELERATOR-45.png",
    "summary": "고속버스표를 끊고 출발 시간을 캘린더에 저장합니다.",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "4b1a77632180",
+   "url": "https://yozm.wishket.com/magazine/detail/4046",
+   "title": "국내 FDE 공고 117건 분석: 누가 뽑고, 무엇을 요구할까",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-17T07:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4046/A-02_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B5%AD%EB%82%B4FDE%EA%B3%B5%EA%B3%A0%EB%B6%84%EC%84%9D.png",
+   "summary": "FDE 공고에는 무엇이 적혀 있을까요?",
+   "category": "etc",
    "buzz": 0
   },
   {
@@ -1167,6 +1275,18 @@
    "buzz": 0
   },
   {
+   "id": "31580e16a578",
+   "url": "https://yozm.wishket.com/magazine/detail/4041",
+   "title": "2인 팀이 AI로 만든 서비스, 유료 사용자 1,600명까지",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-17T00:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4041/img-01.png",
+   "summary": "스레드라는 SNS에서 처음 만난 두 창업자가 1년도 되지 않아 가입자 1만 6,000명이 쓰는 글로벌 미팅용 실시간 AI 제품을 만들었습니다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
    "id": "73cbb6e1d85f",
    "url": "https://tech.kakao.com/posts/849",
    "title": "if(kakao)26 현장 스케치",
@@ -1175,6 +1295,30 @@
    "published_at": "2026-11-16T15:00:00+00:00",
    "image": "https://img1.kakaocdn.net/thumb/U896x0/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakao_tech%2Fmedia%2Fe799beca01a100001.jpg",
    "summary": "지난 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열렸습니다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "9b1a76a982dd",
+   "url": "https://yozm.wishket.com/magazine/detail/4044",
+   "title": "진짜 기업 앞에 서는 FDE 해커톤 ‘포워드톤’ 참가 모집",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-16T07:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4044/%ED%8F%AC%EC%9B%8C%EB%93%9C%ED%86%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC_E.png",
+   "summary": "FDE(Forward Deployed Engineer)라는 직무, 들어 보셨나요?",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "0ad922ef2da2",
+   "url": "https://yozm.wishket.com/magazine/detail/4040",
+   "title": "팀 작업 흐름에 하네스 연결하기: UI 개발부터 검증·리뷰까지",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-16T05:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4040/img-01.png",
+   "summary": "AI에 쿠폰 등록 화면을 맡기면 금세 시안과 꼭 닮은 화면이 나오지만, 저장 버튼을 눌러도 확인창 하나 뜨지 않는다면 시안을 옆에 펴놓고 버튼을 눌러보게 됩니다.",
    "category": "ai",
    "buzz": 0
   },
@@ -1188,6 +1332,18 @@
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/13100712/%ED%99%94%EB%A9%B4-%EC%BA%A1%EC%B2%98-2026-11-13-100608-1024x574.png",
    "summary": "AI 시대, 유행을 따르는 능력보다 중요한 안목자본의 힘 “Neon and beyond!” 소셜미디어에서 한 번쯤 들어봤을 법한 노래다.",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "c1992d0c80c6",
+   "url": "https://yozm.wishket.com/magazine/detail/4038",
+   "title": "AI 디자인 작업 맥락 안 끊기는 캔버스 'Doop'에 Codex 연결해 써보니",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-16T00:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4038/img-01.png",
+   "summary": "AI에게 화면을 만들어 달라고 하는 일은 더는 낯설지 않지만, 어떤 판단으로 화면이 만들어졌는지, 색과 구성 원칙이 다음 화면에도 이어지는지는 확인하기 어렵습니다",
+   "category": "vibe_coding",
    "buzz": 0
   }
  ]
