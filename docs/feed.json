@@ -1,7 +1,271 @@
 {
  "version": 4,
- "generated_at": "2026-11-21T11:04:36+00:00",
+ "generated_at": "2026-11-21T19:18:18+00:00",
  "items": [
+  {
+   "id": "320083b37009",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
+   "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-21T19:48:17+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42837_64338_475_v150.jpg",
+   "summary": "이재명 대통령이 21일, 울산 SK AI데이터센터 건설 현장을 방문해 사업 추진 상황을 점검하고, 인공지능(AI) 인프라 확충을 통한 국가 경쟁력 강화와 지역 균",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "f4115d74e903",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
+   "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-21T18:55:59+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217650_221969_5037.png",
+   "summary": "일론 머스크 CEO의 우주 AI 데이터센터 구상이 자금 조달 과정에서 장애물을 만났다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "f54a544b38af",
+   "url": "https://news.hada.io/topic?id=37592",
+   "title": "GIMP에 UI 테스트 도입",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T18:41:45+00:00",
+   "image": "https://social.news.hada.io/topic/37592/p772817dbaa50a4fe6d814b1ce7ea3fd",
+   "summary": "GIMP가 실제 프로그램을 실행하고 메뉴와 버튼을 조작하는 GUI 테스트 플랫폼 을 도입함.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "f4f780268ad4",
+   "url": "https://news.hada.io/topic?id=37591",
+   "title": "그럼에도 지구는 돈다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T18:38:45+00:00",
+   "image": "https://social.news.hada.io/topic/37591/p96bf41aba7bc87305189421d3ac3444",
+   "summary": "Anthropic이 리만 가설을 해결한 것으로 보인다 는 소식은 필자에게 축하보다 상실감을 안겨줌.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "d64e06aec1d2",
+   "url": "https://news.hada.io/topic?id=37590",
+   "title": "GnuPG의 원격 코드 실행(RCE) 취약점",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T18:35:45+00:00",
+   "image": "https://social.news.hada.io/topic/37590/p4501b2e93fce6781c288d4669c1e310",
+   "summary": "GPGME 2.3.1 이 조작된 OpenPGP 키로 이중 해제를 유발하는 치명적 보안 취약점 CVE-2026-129975 를 수정함 매우 긴 사용자 ID가 포함된",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "8e85b5daa393",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+   "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-21T18:20:47+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217649_221968_2929.jpg",
+   "summary": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "27b5604c92cc",
+   "url": "https://news.hada.io/topic?id=37589",
+   "title": "Show GN: AriadneNSD - 알고리즘을 NS 차트로 그리는 구조 편집기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T17:56:31+00:00",
+   "image": "https://social.news.hada.io/topic/37589/pc00ec7f70bf466f8887c5ca6c692688",
+   "summary": "알고리즘을 NS 차트 (Nassi–Shneiderman Diagram)로 그리는 웹 편집기, 베타로 공개 NS 차트는 플로우차트와 동일하게 로직을 표현하면서 지면",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "b6b40f81ad5b",
+   "url": "https://news.hada.io/topic?id=37588",
+   "title": "Clojure는 프로그래밍을 생각하는 방식에 영향을 준다 (2017)",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T17:32:49+00:00",
+   "image": "https://social.news.hada.io/topic/37588/p5f61da918bfaaa06caba13ab8b5953a",
+   "summary": "Clojure 는 Lisp, 함수형 프로그래밍, 데이터 처리, 동시성의 아이디어를 일관된 언어로 결합해, 실무 도입 여부와 별개로 프로그래밍 사고를 넓히기 위해 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "29f389113675",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217648",
+   "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입",
+   "source": "AI타임스",
+   "source_id": "aitimes",
+   "published_at": "2026-11-21T16:39:48+00:00",
+   "image": "https://cdn.aitimes.com/news/photo/202611/217648_221964_5622.png",
+   "summary": "구글이 '제미나이' 앱에 텍스트 프롬프트만으로 짧은 GIF 이미지를 만들 수 있는 기능을 추가했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "2b872e9f4040",
+   "url": "https://news.hada.io/topic?id=37586",
+   "title": "리만 가설의 Lean 검증, Lean과 Mathlib 커뮤니티 공동 성명",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T16:36:36+00:00",
+   "image": "https://social.news.hada.io/topic/37586/pe6056817f8cab8b248300dcf2d301c9",
+   "summary": "Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 리만 가설 증명 의 명제와 증명이 모두 올바르다고 공동으로 인증함 증명은 1,700만 줄 규",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "3d265b0f49d2",
+   "url": "https://news.hada.io/topic?id=37585",
+   "title": "데릭 로: 아지드화 납 더미 폭파",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T16:33:36+00:00",
+   "image": "https://social.news.hada.io/topic/37585/p52254b87faa8e8e6bbed1720cec5f9e",
+   "summary": "",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "4e2296f8977c",
+   "url": "https://news.hada.io/topic?id=37584",
+   "title": "내 모니터가 다운로드 속도를 75% 떨어뜨리고 있었다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T15:32:49+00:00",
+   "image": "https://social.news.hada.io/topic/37584/p0b28ca4cd13ce77f0c29b54b1276709",
+   "summary": "2.5Gbps 대칭형 인터넷 에서 다운로드만 약 600Mbps로 떨어지는 문제가 발생했으며, 이더넷 어댑터를 모니터 대신 Mac에 직접 연결하자 정상 속도를 회복",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "e2b2a9c26db6",
+   "url": "https://news.hada.io/topic?id=37583",
+   "title": "차고 문 알림에 끼어든 스팸",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T15:01:15+00:00",
+   "image": "https://social.news.hada.io/topic/37583/pd186e23c22844ca018c43a4bf228dae",
+   "summary": "차고 문 개폐 알림을 믿고 myQ 를 사용하던 이용자가 2026년 10월 알림에 대한 신뢰를 잃고, ratgdo32 로 전환함 제조사 Chamberlain 은 2",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "858f73167711",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=679295",
+   "title": "앤트로픽 상장 효과 제한적…AI 투자 회의론 지속",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-21T15:00:00+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/679295_294344_1736_v150.jpg",
+   "summary": "클로드 개발사 앤트로픽이 상장 이튿날 급락하며 사상 최대의 기업공개(IPO)도 인공지능(AI) 투자에 대한 비관론을 떨쳐내지 못했다.",
+   "category": "business",
+   "buzz": 2
+  },
+  {
+   "id": "224cef936ac3",
+   "url": "https://news.hada.io/topic?id=37582",
+   "title": "Show GN: BerthNTFS – 커널 확장 없이 맥에서 NTFS 디스크에 쓰기 (FSKit + Rust)",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T14:55:03+00:00",
+   "image": "https://social.news.hada.io/topic/37582/p9eaa3315d86cb458c723db718ed3106",
+   "summary": "맥에서 NTFS 디스크를 읽고 쓸 수 있게 해 주는 앱을 만들었습니다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "58f38b20a5f9",
+   "url": "https://news.hada.io/topic?id=37581",
+   "title": "추론 칩을 바이브 코딩하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T14:38:47+00:00",
+   "image": "https://social.news.hada.io/topic/37581/pb3ec763026e7da91ccd0f2acf764720",
+   "summary": "하드웨어 개발 경험이 거의 없는 상태에서 코딩 에이전트로 AWS FPGA에 LLM 추론을 구현 하고, 비트 단위로 일치하는 최초 구현 대비 속도를 33배 높임 C",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "d278a2387415",
+   "url": "https://news.hada.io/topic?id=37580",
+   "title": "Winedroid - Android 없이 Android 앱 실행하기, WASM 데모",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T14:35:47+00:00",
+   "image": "https://social.news.hada.io/topic/37580/pc1edf25af08d2b849a94063c091f9b5",
+   "summary": "Winedroid 는 Android 자체를 실행하지 않고 Android를 재현해 앱을 실행하며, 데모에서는 F-Droid에서 다운로드한 실제 APK 파일을 사용함",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "0b716e8813ab",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42836",
+   "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-21T13:59:04+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42836_64337_5753_v150.jpg",
+   "summary": "중국 화웨이(Huawei)가 금융기관의 인공지능(AI) 에이전트를 대규모로 개발하고 운영하기 위한 통합 솔루션을 공개했다.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "d76f155076de",
+   "url": "https://news.hada.io/topic?id=37578",
+   "title": "Vint Cerf가 말하는 TCP/IP를 특허로 등록하지 않은 이유",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T13:39:08+00:00",
+   "image": "https://social.news.hada.io/topic/37578/pf374a29777d1f407b21fab2c02b2686",
+   "summary": "TCP/IP를 개방한 이유 는 미래의 동맹국도 접근할 수 있도록 하기 위해서였음.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "370bc3d21547",
+   "url": "https://news.hada.io/topic?id=37577",
+   "title": "새 도메인으로 살펴보는 사람들이 만들고 있는 제품들",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T13:36:08+00:00",
+   "image": "https://social.news.hada.io/topic/37577/p3533af9d51fb1f8260a2186f9476075",
+   "summary": "NovumSignals 는 웹사이트가 공개되는 시점에 새로운 제품 회사를 발견하고, 판매 제품과 운영 주체, 이후 변경 사항을 모아 보여주는 서비스임 제품 목록에",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "985c10195c27",
+   "url": "https://news.hada.io/topic?id=37575",
+   "title": "OpenAI, 내부 연구 모델이 DNS 설정 오류로 인터넷에 접근해 최상위 모델 학습을 11일간 중단",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T12:22:05+00:00",
+   "image": "https://social.news.hada.io/topic/37575/p53a4d1d181fffb5ed1ed09342e8956f",
+   "summary": "OpenAI가 모델 학습, 내부 배포, 외부 배포 단계마다 거치는 안전 게이트를 설명한 글 감시 시스템이 내부 연구 모델이 DNS 설정 오류를 이용해 제한적으로 ",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "1c9b4ffd8a41",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42835",
+   "title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로",
+   "source": "인공지능신문",
+   "source_id": "aitimes-kr",
+   "published_at": "2026-11-21T12:10:59+00:00",
+   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42835_64336_926_v150.jpg",
+   "summary": "매사추세츠공과대학교(MIT) 연구진이 기상과 기후, 난류처럼 예측하기 어려운 복잡한 물리 시스템에서 인공지능(AI)의 예측값이 비현실적으로 무한히 커지는 현상을 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
   {
    "id": "cfbbac161a2b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217644",
@@ -75,6 +339,18 @@
    "buzz": 0
   },
   {
+   "id": "42b8d99dd30b",
+   "url": "https://discuss.pytorch.kr/t/topic/12600",
+   "title": "파이토치데이에서.. 헤드폰을 잃어버렸는데.. 혹시 보신분 있으실까요?",
+   "source": "PyTorchKR",
+   "source_id": "pytorchkr",
+   "published_at": "2026-11-21T11:09:46+00:00",
+   "image": "https://discuss.pytorch.kr/uploads/default/original/1X/40d969600704f473ee638268df8651e8137bd49b.png",
+   "summary": "오래된 헤드폰인데..",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
    "id": "79ace1906231",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42832",
    "title": "메타, 뇌 연구 데이터 2만5천시간으로 확대…원자 수준 신약·효소 시뮬레이션 연구 강화",
@@ -135,18 +411,6 @@
    "buzz": 0
   },
   {
-   "id": "11c2f6b1af9b",
-   "url": "https://news.hada.io/topic?id=37571",
-   "title": "Ask HN: 미국에서 경력 15년인데 2년째 실업 상태입니다. 어떻게 해야 할까요?",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T10:36:04+00:00",
-   "image": "https://social.news.hada.io/topic/37571/p11735a322ac2364645ba68e0ffd18af",
-   "summary": "미국 DMV 지역의 경력 15년 선임 소프트웨어 엔지니어 로, Fortune 50+ 기업과 여러 중견기업에서 일했지만 2년째 개발 일자리를 구하지 못한 상황임.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "a8aa2852b1a2",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217645",
    "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락",
@@ -155,18 +419,6 @@
    "published_at": "2026-11-21T10:32:11+00:00",
    "image": "https://cdn.aitimes.com/news/photo/202611/217645_221958_2811.png",
    "summary": "미국 증권거래위원회(SEC)가 엔비디아의 회계 처리 문제를 조사하는 것으로 알려지면서 주가가 14% 폭락했다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "efb57c87c2f8",
-   "url": "https://news.hada.io/topic?id=37569",
-   "title": "Show GN: Claude로 만든 디스코드 개인 비서 — 결제 문자 자동 가계부까지 (MIT, 무료 서버로 운영)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T10:01:50+00:00",
-   "image": "https://social.news.hada.io/topic/37569/p6d15a54daff3a0f9d016c91d4d1227f",
-   "summary": "안녕하세요.",
    "category": "ai",
    "buzz": 0
   },
@@ -207,30 +459,6 @@
    "buzz": 0
   },
   {
-   "id": "b8241d21cc38",
-   "url": "https://news.hada.io/topic?id=37568",
-   "title": "Show GN: codemap-search - 코딩 에이전트용 단일 바이너리 Rust 코드 탐색 MCP 서버",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T09:36:47+00:00",
-   "image": "https://social.news.hada.io/topic/37568/pd6501e55cf56e8a5f3e62b6a4a149ad",
-   "summary": "codemap-search는 Claude Code나 Codex 같은 코딩 에이전트에서 로컬 저장소를 탐색할 때 쓰는 단일 바이너리 Rust MCP 서버입니다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "0f6c8fc54182",
-   "url": "https://news.hada.io/topic?id=37567",
-   "title": "Backblaze 개인정보 수집 고지 및 개인정보 처리방침",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T09:34:13+00:00",
-   "image": "https://social.news.hada.io/topic/37567/p8527820eb631591fa4d3a547ca6fa34",
-   "summary": "Backblaze는 데이터 컨트롤러로서 처리하는 개인정보 의 수집, 이용, 공개, 보관 범위와 이용자 권리를 규정함.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "73dcf1c12412",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217616",
    "title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진",
@@ -240,7 +468,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217616_221922_3641.jpg",
    "summary": "정부가 비수도권 AI 데이터센터 가운데 계약전력 50메가와트(MW) 이하 시설에 대한 전력계통영향평가를 면제하는 방안을 추진한다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "27a97ab90fe1",
@@ -251,54 +479,6 @@
    "published_at": "2026-11-21T09:15:00+00:00",
    "image": "https://cdn.aitimes.com/news/photo/202611/217553_221882_5321.jpg",
    "summary": "베트남 자라이성에서 35메가와트(MW) 규모의 수상태양광 발전소 착공식이 열렸다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "439490e97709",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217563",
-   "title": "칠레 103MW 태양광발전소, 사이버공격 신고 후 80일 넘게 가동 중단",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-21T09:10:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217563_221883_5359.jpg",
-   "summary": "칠레 북부의 103메가와트(MW) 규모 태양광발전소가 사이버공격을 원인으로 신고한 뒤 80일 넘게 가동을 재개하지 못하고 있다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "ea465225d013",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217639",
-   "title": "앤트로픽, 상장 이틀째 8.5% 급락...공모가까지 근접",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-21T09:08:29+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217639_221953_316.jpg",
-   "summary": "역대 최대 규모의 기업공개(IPO)를 기록한 앤트로픽이 상장 이틀 만에 주가가 급락하며 공모가에 근접했다.",
-   "category": "ai",
-   "buzz": 2
-  },
-  {
-   "id": "167e57d54a9a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217554",
-   "title": "위성으로 본 칭하이성 태양광단지, 준공 2~5년 뒤 식생지수 28.4% 높아져",
-   "source": "AI타임스",
-   "source_id": "aitimes",
-   "published_at": "2026-11-21T09:05:00+00:00",
-   "image": "https://cdn.aitimes.com/news/photo/202611/217554_221884_5446.jpg",
-   "summary": "중국 칭하이성의 대규모 태양광 발전단지에서 준공 2~5년 후 식생지수가 공사 이전 대비 평균 28.4% 높아진 것으로 나타났다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "750ee83e6ce0",
-   "url": "https://news.hada.io/topic?id=37566",
-   "title": "Vim Classic 8.3.1 출시, Python 2 지원 제거 및 Vim 패치 반영",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T09:01:01+00:00",
-   "image": "https://social.news.hada.io/topic/37566/p3c5b6bbf16adab5b71048a86b18814c",
-   "summary": "안정성과 장기 지원(LTS) 을 지향하는 Vim 포크, Vim Classic의 두 번째 릴리스 8.3.1 이 출시됨 Vim 8.2.3237까지의 적용 가능한 패치",
    "category": "ai",
    "buzz": 0
   },
@@ -327,66 +507,6 @@
    "buzz": 0
   },
   {
-   "id": "6a6db6893bb0",
-   "url": "https://news.hada.io/topic?id=37564",
-   "title": "DreamCoder: Mastering Emacs 저자가 만든 코딩 하네스와 IDE",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T07:39:07+00:00",
-   "image": "https://social.news.hada.io/topic/37564/p0b6742ffc9722fcd84d2dc6feaa804a",
-   "summary": "DreamCoder 는 15개월간 개발과 베타 테스트를 거쳐 공개된 AI 코딩 하네스로, 브라우저에서 타일링 창 관리자와 대화창, 터미널을 함께 제공함 사람 중심",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "ae2e7217626f",
-   "url": "https://news.hada.io/topic?id=37563",
-   "title": "Slopstrap - 사이트를 급하게 바이브 코딩한 것처럼 보이게 만들기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T07:36:07+00:00",
-   "image": "https://social.news.hada.io/topic/37563/p6d2fa73f4225c20f785a541f1acfb3c",
-   "summary": "Slopstrap 은 사이트를 LLM이 만든 듯한 모습으로 꾸미는 CSS 프레임워크로, 복사해 붙여 넣을 수 있는 UI 컴포넌트를 제공함 빌드 도구 없이 CSS와",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "f74400d26c69",
-   "url": "https://news.hada.io/topic?id=37561",
-   "title": "Show GN: 업종별로 눌러 볼 수 있는 가상 데모 사이트 20종을 AI로 만든 과정",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T05:46:21+00:00",
-   "image": "https://social.news.hada.io/topic/37561/pa84ed54160bc0e8b6a0f9d7b2a8e8cc",
-   "summary": "HS솔루션에서 혼자 개발하는 사람입니다.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "f91522b42293",
-   "url": "https://news.hada.io/topic?id=37560",
-   "title": "NINLIVE: Nine Inch Nails 라이브 아카이브",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T05:32:25+00:00",
-   "image": "https://social.news.hada.io/topic/37560/p4dd11add8f3ce7666b3aea940613296",
-   "summary": "NINLIVE 는 공연 탐색, 녹음 다운로드, 오디오 스트리밍을 지원하는 팬 운영 아카이브로, Nine Inch Nails나 소속 레이블과는 무관함 1988~20",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "94c9d45c7fb2",
-   "url": "https://news.hada.io/topic?id=37559",
-   "title": "Re: Riemann - 리만 가설 증명 발표와 AI 앞에서 인간의 주체성",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T04:32:59+00:00",
-   "image": "https://social.news.hada.io/topic/37559/p75df14fbd3ea6d9e829b6a317cdf0f2",
-   "summary": "Claude와 리만 가설을 증명했다고 믿는다는 발표 를 계기로, AI의 성취를 기뻐하는 서사가 인간의 주체성을 밀어내고 있다고 비판함 발표자는 논증을 가정 없이 ",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "365a410fd021",
    "url": "https://www.venturesquare.net/1130521",
    "title": "네이버, 애플 학생 할인부터 로봇 AI 연구까지…쇼핑·여행·금융 서비스 확대",
@@ -397,66 +517,6 @@
    "summary": "네이버가 쇼핑과 여행, 금융, 로봇 기술 등 주요 사업 영역에서 신규 서비스와 협력 프로그램을 잇달아 선보였다.",
    "category": "ai",
    "buzz": 1
-  },
-  {
-   "id": "1139df2672d2",
-   "url": "https://news.hada.io/topic?id=37558",
-   "title": "AGI 다음에는 무엇이 올까?",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T02:37:39+00:00",
-   "image": "https://social.news.hada.io/topic/37558/p7588f872610c12fce5bccc848e05026",
-   "summary": "인간 수준의 AGI는 지능의 상한이 아님 .",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "a21a41f248a8",
-   "url": "https://news.hada.io/topic?id=37557",
-   "title": "Anthropic, IPO 직후 주가 급락…Nasdaq은 2026년 상승분 반납",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T01:32:44+00:00",
-   "image": "https://social.news.hada.io/topic/37557/p6cc8bdd1063cd927fdb9bcac5f5779e",
-   "summary": "Anthropic 주가가 상장 다음 날 9% 하락 하며 매도세를 이끌었고, 상반기 증시와 경제성장을 견인한 AI 투자 열풍의 지속 가능성에 대한 우려가 커짐 Na",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "74afe94b5c66",
-   "url": "https://news.hada.io/topic?id=37556",
-   "title": "Codex로 일하는 새로운 방식 [영상]",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T00:50:02+00:00",
-   "image": "https://social.news.hada.io/topic/37556/p3870a8548cbadd2bb4f5be2a5188bbc",
-   "summary": "Codex 하네스 가 CLI, 데스크톱 앱, ChatGPT, Slack, Dots, Agents API로 확장되며, 로컬 코딩뿐 아니라 클라우드 장기 작업과 여러",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "e2d47285aa84",
-   "url": "https://news.hada.io/topic?id=37555",
-   "title": "Cloudflare가 Raft 대신 QuePaxa를 선택한 이유",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T00:40:02+00:00",
-   "image": "https://social.news.hada.io/topic/37555/p94586dba8360096301910237c5ce487",
-   "summary": "Cloudflare는 전 세계에 분산된 실험적 제어 평면 서비스 Meerkat 에 QuePaxa를 채택함.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "4ae878ce869d",
-   "url": "https://news.hada.io/topic?id=37554",
-   "title": "‘확률적 앵무새’가 리만 가설을 증명한 모양이다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T00:39:41+00:00",
-   "image": "https://social.news.hada.io/topic/37554/p6caec6ca7d4bd6e1755aeebc376ac54",
-   "summary": "Levent Alpöge가 Anthropic 모델로 일반화 리만 가설을 증명했다 고 발표했으며, 결과물은 1,740만 줄의 Lean 코드 임 Scott Aaron",
-   "category": "ai",
-   "buzz": 0
   },
   {
    "id": "0e8e0dbcdd36",
@@ -555,30 +615,6 @@
    "buzz": 0
   },
   {
-   "id": "b155b20049c4",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42826",
-   "title": "본에이아이, 107억원 규모 피지컬 AI 국책사업 참여…국산 AI 반도체 탑재 산불 감지 드론 실증",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-20T14:35:54+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42826_64328_3459_v150.jpg",
-   "summary": "디펜스테크 기업 본에이아이(대표 이도경)가 국산 AI 반도체와 다중 감각 센서를 결합한 화재 감지 기술을 개발하고, 실제 산림 현장에서 드론을 활용한 피지컬 AI",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "6605c8fa417e",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42825",
-   "title": "제조 AI 학습데이터 표준화 추진…국표원, 로봇·생산설비 데이터 수집 기준 마련",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-20T14:21:29+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42825_64327_2119_v150.jpg",
-   "summary": "산업용 로봇과 절삭기, 생산라인 등 제조설비마다 서로 다른 형식으로 생성되는 데이터를 인공지능 학습에 활용할 수 있도록 공통 수집 기준이 마련된다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "415120388b1e",
    "url": "https://www.venturesquare.net/1130496",
    "title": "셀렉트스타, 대한출판문화협회와 AI 학습용 출판데이터 협력…저작권 보호·품질 검증 체계 구축",
@@ -625,18 +661,6 @@
    "summary": "산업용 인공지능(AI) 플랫폼 기업 심플랫폼이 말레이시아를 거점으로 글로벌 제조업 인공지능 전환(AX) 시장 공략에 나선다.",
    "category": "business",
    "buzz": 0
-  },
-  {
-   "id": "c3484714abb8",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42823",
-   "title": "정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제",
-   "source": "인공지능신문",
-   "source_id": "aitimes-kr",
-   "published_at": "2026-11-20T12:25:17+00:00",
-   "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42823_64326_253_v150.jpg",
-   "summary": "정부가 AI 산업의 핵심 인프라인 인공지능 데이터센터(AIDC)의 구축 속도를 높이기 위해 전력계통영향평가 제도를 개선한다.",
-   "category": "ai",
-   "buzz": 1
   },
   {
    "id": "9a0cb9e4cb15",
@@ -807,18 +831,6 @@
    "buzz": 0
   },
   {
-   "id": "457d6491ac0a",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=679208",
-   "title": "\"치매 치료부터 당뇨 관리까지\"…헬스케어 스타트업 출사표 [현장+]",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-20T09:56:01+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/679208_294208_243_v150.jpg",
-   "summary": "국내 헬스케어 산업의 패러다임이 AI(인공지능)와 디지털 솔루션을 융합한 예방·정밀 진단 영역으로 이동하고 있다.",
-   "category": "business",
-   "buzz": 0
-  },
-  {
    "id": "0d6ce502ac24",
    "url": "http://www.newstheai.com/news/articleView.html?idxno=22011",
    "title": "AI가 찾은 논문, 사람이 검증한다...라이너, AI 연구 공모전 성료",
@@ -828,7 +840,7 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/22011_22807_3849.jpg",
    "summary": "라이너는 학술 연구 AI 에이전트 ‘라이너 스콜라’를 활용한 ‘제1회 라이너 스콜라 연구공모전’을 마무리하고, 지난 19일 서울 마포구 본사에서 시상식을 개최했다",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "9d8a1a9e0f9a",
@@ -864,7 +876,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/1-26-522x522.jpg",
    "summary": "원하는 기능을 자연어로 설명하면 AI가 코드를 작성하는 ‘바이브 코딩(Vibe Coding)’이 확산하면서 프로그래밍 경험이 없는 학생과 직장인도 업무와 학습에 ",
    "category": "vibe_coding",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "36b0005af7bc",
@@ -876,7 +888,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-56-775x522.jpeg",
    "summary": "생성형 인공지능(AI)이 학술 자료를 탐색하고 분석하는 도구로 확산하면서 연구에 참여할 수 있는 사람의 범위도 넓어지고 있다.",
    "category": "business",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "e1fa9578d813",
@@ -1020,7 +1032,7 @@
    "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-307.png",
    "summary": "역대 최대 규모의 기업공개(IPO)가 성사된 19일(현지시간) 뉴욕 증시에서 AI 관련주가 동반 급락했다.",
    "category": "business",
-   "buzz": 3
+   "buzz": 2
   },
   {
    "id": "ccc6689b1870",
@@ -1128,18 +1140,6 @@
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/19093521/%ED%99%94%EB%A9%B4-%EC%BA%A1%EC%B2%98-2026-11-19-093434.png",
    "summary": "공식 홈페이지 “전화로만 변경 가능한 비행기 티켓을 바꿔주니 너무 편해요” 개인 AI 에이전트 앱 피클(Pickle)의 앱스토어 리뷰 중 하나예요.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "fd4825721d8c",
-   "url": "https://discuss.pytorch.kr/t/google-gemini-4-neon-aa-carbon-gemini-4/12590",
-   "title": "Google, Gemini 4 Neon 출시: AA 지수에서 Carbon을 앞선 Gemini 4 중간 모델",
-   "source": "PyTorchKR",
-   "source_id": "pytorchkr",
-   "published_at": "2026-11-19T23:00:53+00:00",
-   "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/8/f/8fd4a78bb87b5249e4cef9589ba5409483911481_2_1028x685.jpeg",
-   "summary": "핵심 요약 Google은 11월 18일 Gemini 4 Neon 발표 글 에서 Carbon과 Hydrogen 사이에 놓이는 중간 모델을 공개했습니다.",
-   "category": "vibe_coding",
    "buzz": 0
   },
   {
