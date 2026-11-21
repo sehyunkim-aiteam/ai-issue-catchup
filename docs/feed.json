@@ -1,7 +1,187 @@
 {
  "version": 4,
- "generated_at": "2026-11-20T20:23:42+00:00",
+ "generated_at": "2026-11-21T02:17:33+00:00",
  "items": [
+  {
+   "id": "a21a41f248a8",
+   "url": "https://news.hada.io/topic?id=37557",
+   "title": "Anthropic, IPO 직후 주가 급락…Nasdaq은 2026년 상승분 반납",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T01:32:44+00:00",
+   "image": "https://social.news.hada.io/topic/37557/p6cc8bdd1063cd927fdb9bcac5f5779e",
+   "summary": "Anthropic 주가가 상장 다음 날 9% 하락 하며 매도세를 이끌었고, 상반기 증시와 경제성장을 견인한 AI 투자 열풍의 지속 가능성에 대한 우려가 커짐 Na",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "74afe94b5c66",
+   "url": "https://news.hada.io/topic?id=37556",
+   "title": "Codex로 일하는 새로운 방식 [영상]",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:50:02+00:00",
+   "image": "https://social.news.hada.io/topic/37556/p3870a8548cbadd2bb4f5be2a5188bbc",
+   "summary": "Codex 하네스 가 CLI, 데스크톱 앱, ChatGPT, Slack, Dots, Agents API로 확장되며, 로컬 코딩뿐 아니라 클라우드 장기 작업과 여러",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "e2d47285aa84",
+   "url": "https://news.hada.io/topic?id=37555",
+   "title": "Cloudflare가 Raft 대신 QuePaxa를 선택한 이유",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:40:02+00:00",
+   "image": "https://social.news.hada.io/topic/37555/p94586dba8360096301910237c5ce487",
+   "summary": "Cloudflare는 전 세계에 분산된 실험적 제어 평면 서비스 Meerkat 에 QuePaxa를 채택함.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "4ae878ce869d",
+   "url": "https://news.hada.io/topic?id=37554",
+   "title": "‘확률적 앵무새’가 리만 가설을 증명한 모양이다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:39:41+00:00",
+   "image": "https://social.news.hada.io/topic/37554/p6caec6ca7d4bd6e1755aeebc376ac54",
+   "summary": "Levent Alpöge가 Anthropic 모델로 일반화 리만 가설을 증명했다 고 발표했으며, 결과물은 1,740만 줄의 Lean 코드 임 Scott Aaron",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "bb62848f5d7b",
+   "url": "https://news.hada.io/topic?id=37553",
+   "title": "Nvidia 회계 처리, SEC가 조사 중이라고 소식통 전해",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:36:41+00:00",
+   "image": "https://social.news.hada.io/topic/37553/p74d935d8f5ee7ce08ec141c1c721ab4",
+   "summary": "미국 증권거래위원회(SEC) 가 Nvidia의 잠재적인 회계 문제를 조사 중이라고 Reuters가 보도함 Nvidia 주가는 금요일 약 14% 하락 하며 7거래일",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "af9e4b2abb8f",
+   "url": "https://news.hada.io/topic?id=37552",
+   "title": "초대형 Git 저장소의 개발 속도 높이기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:31:01+00:00",
+   "image": "https://social.news.hada.io/topic/37552/p536add3cb524a802b50f0f1d5c5cbbc",
+   "summary": "Google이 대규모 Git 프로젝트의 소스 동기화와 빌드 병목을 줄이는 ABFS(Another Build File Service) 를 오픈소스로 공개함 Andr",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "e4994285c0e2",
+   "url": "https://news.hada.io/topic?id=37551",
+   "title": "SignuDoc - 내 계정에 배포해 운영하는 오픈소스 전자서명 앱",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:30:02+00:00",
+   "image": "https://social.news.hada.io/topic/37551/p50265e88ecfdaadaaf58d906b2670b8",
+   "summary": "PDF에 서명과 입력란을 배치하고 이메일로 서명을 요청 하는 DocuSign 대체재 받는 사람은 가입 없이 링크를 열어 이름을 입력하거나 손으로 서명하며, 휴대폰",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "a327c2a1a10d",
+   "url": "https://news.hada.io/topic?id=37550",
+   "title": "항상 작동하는 에이전트 구축하기",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:20:02+00:00",
+   "image": "https://social.news.hada.io/topic/37550/pe9ff87575dafff3b463410bd9f1caa3",
+   "summary": "상시 작동 에이전트 는 세션 간 맥락을 유지하고 직접적인 감독 없이 행동하며, 실제로는 대부분 대기하다가 이벤트가 발생할 때 짧게 실행되는 구조임 핵심은 새로운 ",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "f6e064189521",
+   "url": "https://news.hada.io/topic?id=37549",
+   "title": "jj-musubi 공개: Jujutsu 저장소의 실시간 동기화",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T00:03:36+00:00",
+   "image": "https://social.news.hada.io/topic/37549/pa8abfc5bbc35140c769667349268727",
+   "summary": "jj-musubi 는 여러 머신의 Jujutsu( jj ) 저장소를 실시간으로 동기화하며, 작업 스냅샷뿐 아니라 커밋, 리베이스, 가져오기 등의 변경도 다른 머신",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "99186ea0e8c3",
+   "url": "https://news.hada.io/topic?id=37548",
+   "title": "우리는 개발자들에게 알리지도 않고 아키텍트로 승진시켰다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-20T22:33:30+00:00",
+   "image": "https://social.news.hada.io/topic/37548/p77432c6b7f2e301ad1e792726e66384",
+   "summary": "AI에 요구사항만 전달하고 아키텍처를 지정하지 않으면 , 성능과 데이터 설계에 관한 결정까지 AI에 맡기게 됨 Google Forms 애드온에서 AI가 작성한 설",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "b768775c5588",
+   "url": "https://news.hada.io/topic?id=37547",
+   "title": "Google 직원들, AI를 원하지 않는 학교에 불이익 주지 말라고 회사에 요구",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-20T21:44:37+00:00",
+   "image": "https://social.news.hada.io/topic/37547/p0b6bb462882c23c3a3d740ca07a0c81",
+   "summary": "Google 직원 수백 명이 Gemini AI 도구를 끄는 학교의 Google 검색 접근을 차단 하는 정책을 철회하라고 경영진에 요구함 Alphabet Worke",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "6bd2d58ef06a",
+   "url": "https://news.hada.io/topic?id=37546",
+   "title": "외력이 없는 Euler와 Navier-Stokes 방정식의 특이점과 일반화 리만 가설",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-20T21:41:37+00:00",
+   "image": "https://social.news.hada.io/topic/37546/p09fc860fb23566ec81df86c22334f99",
+   "summary": "AI를 활용한 Euler 방정식, Navier-Stokes 방정식, 일반화 리만 가설의 증명 자료 가 공개됨.",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "9a82802232b0",
+   "url": "https://news.hada.io/topic?id=37545",
+   "title": "Inkling 2 Mini - 노트북에서 실행하는 반복형 트랜스포머 모델",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-20T21:38:36+00:00",
+   "image": "https://social.news.hada.io/topic/37545/pef5a713913cf49e862fd5c0f99a31c6",
+   "summary": "Thinking Machines Lab이 Inkling 2 Mini 를 오픈 웨이트로 공개함.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "54d21d70c02e",
+   "url": "https://news.hada.io/topic?id=37544",
+   "title": "Oxygene의 제작 과정",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-20T20:38:22+00:00",
+   "image": "https://social.news.hada.io/topic/37544/pe108f1c040d4f8130161390a4cd4bf7",
+   "summary": "Jean-Michel Jarre의 Oxygène 은 파리 아파트 주방에서 8트랙 녹음기와 제한된 전자악기로 만든 연주 앨범으로, 1976년 프랑스 발매 이후 전 ",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "2b96b7794f72",
+   "url": "https://news.hada.io/topic?id=37543",
+   "title": "Navier–Stokes 방정식의 유한 시간 발산",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-20T20:35:22+00:00",
+   "image": "https://social.news.hada.io/topic/37543/pf197bdabcd4c0358d8dfc997014189a",
+   "summary": "유한 시간 발산 을 다루는 논문과 이에 동반하는 Lean 4 형식화 를 담은 저장소임 형식화는 정리의 명세와 증명을 분리하며, Solution.lean 이 lea",
+   "category": "etc",
+   "buzz": 0
+  },
   {
    "id": "0e8e0dbcdd36",
    "url": "https://www.bloter.net/news/articleView.html?idxno=679240",
@@ -13,30 +193,6 @@
    "summary": "김범수 카카오 미래이니셔티브센터장이 'SM엔터테인먼트 시세조종 혐의' 관련 사법 족쇄를 2심에서도 벗어던졌다.",
    "category": "ai",
    "buzz": 1
-  },
-  {
-   "id": "6b0964e94959",
-   "url": "https://news.hada.io/topic?id=37542",
-   "title": "Anthropic의 기록적인 IPO도 AI주 매도세 막지 못해, 세계 증시 급락",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T19:37:02+00:00",
-   "image": "https://social.news.hada.io/topic/37542/p4f0ace44755d89441624377ad9d96bf",
-   "summary": "Anthropic 주가가 상장 둘째 날 최대 12% 하락하며 공모가에 근접했고, 기록적인 IPO도 AI 관련 기업의 매도세를 멈추지 못함 Nasdaq 종합지수 는",
-   "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "dd73c2fdf466",
-   "url": "https://news.hada.io/topic?id=37541",
-   "title": "긴급 공지: Alessandro Masullo의 GRH 증명안 공개",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T19:34:02+00:00",
-   "image": "https://social.news.hada.io/topic/37541/p33e30a562c0255618cdcf7b63b428fd",
-   "summary": "Alessandro Masullo의 GRH 증명안 이 현재 초안 형태로 공개됨.",
-   "category": "ai",
-   "buzz": 0
   },
   {
    "id": "65d1cc2db4f5",
@@ -51,78 +207,6 @@
    "buzz": 0
   },
   {
-   "id": "064f73c59eec",
-   "url": "https://news.hada.io/topic?id=37540",
-   "title": "언어 모델은 자신의 가중치를 직접 다시 쓸 수 있다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T18:38:36+00:00",
-   "image": "https://social.news.hada.io/topic/37540/p1dfd54c3a0b25a869550efe5fdc142d",
-   "summary": "Qwen3.5 27B 가 자신의 가중치, 채점된 답변, 실행 도구를 이용해 실패를 진단하고, 그래디언트나 추가 학습 없이 가중치를 수정해 미공개 문제 정확도를 6",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "c1aaa4cc9a6c",
-   "url": "https://news.hada.io/topic?id=37539",
-   "title": "iOS에 여전히 WebKit 이외의 엔진을 쓰는 브라우저가 없는 이유",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T18:35:36+00:00",
-   "image": "https://social.news.hada.io/topic/37539/p58cb8b9e8cb55604b35a6329611738c",
-   "summary": "Apple은 EU와 일본에서 iOS용 대체 브라우저 엔진을 허용했지만, Mozilla는 충족하기 어려운 조건 때문에 아직 비WebKit 브라우저가 출시되지 못했다",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "2fd9d7d890e6",
-   "url": "https://news.hada.io/topic?id=37537",
-   "title": "IEA, 건물 냉방 에너지 수요가 난방을 추월하고 있음",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T17:55:44+00:00",
-   "image": "https://social.news.hada.io/topic/37537/pea00f10ba281b660095f6ac10f67272",
-   "summary": "IEA의 World Energy Outlook 2026 에 따르면 건물 냉방이 역사상 처음으로 난방을 추월하는 변화가 진행 중임.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "dfcf2bc9d9ba",
-   "url": "https://news.hada.io/topic?id=37536",
-   "title": "Postgres 19 REPACK: 더 빠른 내장 테이블 비대화 정리",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T17:52:44+00:00",
-   "image": "https://social.news.hada.io/topic/37536/pa3218ad69f211667a9f762e6fb56ccc",
-   "summary": "Postgres 19는 확장 없이 테이블을 재구축하는 REPACK SQL 명령을 추가함.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "827c7b2db17f",
-   "url": "https://news.hada.io/topic?id=37535",
-   "title": "Synology 보안 권고: DSM과 BeeStation OS의 치명적 취약점",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T17:49:44+00:00",
-   "image": "https://social.news.hada.io/topic/37535/pc04dc51e3d12d779ab73ea99db7c2a9",
-   "summary": "Synology가 원격 공격자의 임의 파일 읽기/쓰기와 서비스 거부 공격 을 허용하는 CVE-2026-120382에 대응하는 보안 업데이트를 공개함 취약점은 DS",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "dfc627cba611",
-   "url": "https://news.hada.io/topic?id=37534",
-   "title": "코드 작성을 멈추면 코드 리뷰 실력도 떨어진다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T17:46:44+00:00",
-   "image": "https://social.news.hada.io/topic/37534/pb2d5a7fff873232d8435d726746b0da",
-   "summary": "코드를 직접 쓰지 않고 지시와 리뷰만으로 전문성을 유지하거나 높이기는 어려우며, 직접 연습하는 과정 이 개발 역량 유지와 향상에 필요함 쟁점은 AI가 만든 코드의",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "8caaddde4c2d",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217633",
    "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
@@ -131,18 +215,6 @@
    "published_at": "2026-11-20T17:45:00+00:00",
    "image": "https://cdn.aitimes.com/news/photo/202611/217633_221943_465.jpg",
    "summary": "구글이 '제미나이 4'에 화학 원소 이름을 붙이면서 독특한 작명법이 화제가 되고 있다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "bc6e17fcd7a8",
-   "url": "https://news.hada.io/topic?id=37533",
-   "title": "다시는 Framework 하드웨어를 사지 않겠다",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T17:43:43+00:00",
-   "image": "https://social.news.hada.io/topic/37533/p9f50105637bae7bfa123ccf5f6aa1f0",
-   "summary": "개발자용으로 구매한 약 3,000유로짜리 Framework Laptop 16 에서 개봉 직후 입력 모듈 오류가 발생했고, 3개월 넘게 지원과 부품 교체를 거쳐도 ",
    "category": "vibe_coding",
    "buzz": 0
   },
@@ -231,18 +303,6 @@
    "buzz": 0
   },
   {
-   "id": "47a40ed0bb87",
-   "url": "https://news.hada.io/topic?id=37531",
-   "title": "Jujutsu 입문: Git 사용자에게 익숙하면서도 다른 버전 관리 방식",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T16:40:15+00:00",
-   "image": "https://social.news.hada.io/topic/37531/pee65dcd7adfae7911d5b27e68afe3d7",
-   "summary": "Jujutsu( jj ) 는 Git 저장소에서 Git과 함께 사용할 수 있는 버전 관리 시스템으로, 자동 리베이스와 실행 취소를 조합해 커밋 그래프 중심으로 작업",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "25cb3a598bd4",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
    "title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어",
@@ -252,7 +312,7 @@
    "image": "https://cdn.aitimes.com/news/photo/202611/217606_221907_4422.png",
    "summary": "구글이 맥용 '제미나이' 앱에 컴퓨터를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 도입했다.",
    "category": "vibe_coding",
-   "buzz": 0
+   "buzz": 2
   },
   {
    "id": "f44ab91bc891",
@@ -263,18 +323,6 @@
    "published_at": "2026-11-20T16:37:57+00:00",
    "image": "https://cdn.newstheai.com/news/photo/202611/22021_22818_3022.jpg",
    "summary": "AI 모델 성능은 이미 웬만한 업무를 감당할 수준에 올라섰다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "2e643eb53353",
-   "url": "https://news.hada.io/topic?id=37530",
-   "title": "Signal은 사용자의 프라이버시 보호에 진지함",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T16:37:14+00:00",
-   "image": "https://social.news.hada.io/topic/37530/pc60d93178b68aaff1a17dd62f7bc717",
-   "summary": "Signal 이 모바일 운영체제에 내장된 AI 에이전트의 대화 데이터 수집을 막기 위해, iOS 27과 AI 비서의 화면 접근을 감지할 수 있는 Android 환",
    "category": "ai",
    "buzz": 0
   },
@@ -351,18 +399,6 @@
    "buzz": 2
   },
   {
-   "id": "a6fbd8cc7470",
-   "url": "https://news.hada.io/topic?id=37529",
-   "title": "Anthropic 수학자, Claude와 리만 가설 및 일반화 리만 가설을 증명했다고 발표 [pdf]",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T15:34:01+00:00",
-   "image": "https://social.news.hada.io/topic/37529/p8b34398c2cb415efb894e896183f58d",
-   "summary": "Anthropic의 수학자 Levent Alpöge 가 Claude와 함께 리만 가설과 일반화 리만 가설(GRH)의 증명을 발견했다 고 발표함.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
    "id": "4ab5b53ef433",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42827",
    "title": "화웨이, AI 에이전트 통신량 100배 증가 전망…차세대 AI 네이티브 코어 네트워크 제시",
@@ -396,7 +432,7 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/XYZ_DEUX_-475x522.png",
    "summary": "피지컬 AI의 기술 경쟁이 로봇의 개별 동작 구현에서 실제 현장에서 발생하는 문제를 해결하는 방향으로 확대되고 있다.",
    "category": "ai",
-   "buzz": 1
+   "buzz": 0
   },
   {
    "id": "935ea82d6813",
@@ -423,18 +459,6 @@
    "buzz": 0
   },
   {
-   "id": "5057144c49d5",
-   "url": "https://news.hada.io/topic?id=37527",
-   "title": "쉽게 설명할 수 없다면 이해한 것이 아니다 (2017)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T14:32:17+00:00",
-   "image": "https://social.news.hada.io/topic/37527/pe0581261983248a7bfbf2b6f144d2e9",
-   "summary": "Richard Feynman 은 어려운 개념을 초보자에게 설명하는 능력을 중시했으며, 대학 1학년 수준으로 설명하지 못한 물리 현상에 대해 “우리가 정말로 이해하",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
    "id": "6a3a5ab1ec9d",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217611",
    "title": "엔비디아, dLLM 개발사 인셉션 6700억 이상에 인수 협상",
@@ -456,7 +480,7 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42825_64327_2119_v150.jpg",
    "summary": "산업용 로봇과 절삭기, 생산라인 등 제조설비마다 서로 다른 형식으로 생성되는 데이터를 인공지능 학습에 활용할 수 있도록 공통 수집 기준이 마련된다.",
    "category": "ai",
-   "buzz": 2
+   "buzz": 1
   },
   {
    "id": "415120388b1e",
@@ -492,30 +516,6 @@
    "image": "https://cdn.bloter.net/news/thumbnail/202611/679249_294268_3145_v150.jpg",
    "summary": "카카오뱅크의 애플페이 합류를 기점으로 국내 금융권의 애플페이 도입 움직임이 속도를 내고 있다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "d11bfa6cc781",
-   "url": "https://news.hada.io/topic?id=37526",
-   "title": "Show GN: 잘하나 – 지방의회 회의록을 사안별로 이어 보여 주는 서비스",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T13:43:48+00:00",
-   "image": "https://social.news.hada.io/topic/37526/p131d7ea8059f56b156dd20705748fb7",
-   "summary": "잘하나는 지방의회 회의록을 읽어, 누가 무엇을 했는지보다 사안이 어떻게 이어졌는지를 보여 주는 서비스입니다.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "09f226bad39a",
-   "url": "https://news.hada.io/topic?id=37525",
-   "title": "Carnival Cruises의 황산화물 배출량, 유럽 전체 자동차의 10배에 달함(2019)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-20T13:39:21+00:00",
-   "image": "https://social.news.hada.io/topic/37525/p2b9de6b34f5786f6a1cd137238a8182",
-   "summary": "Transport & Environment(T&E) 분석에 따르면, Carnival Corporation 이 2017년 유럽 연안에서 배출한 황산화물(SOx)은 ",
-   "category": "etc",
    "buzz": 0
   },
   {
@@ -576,7 +576,7 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42820_64322_1639_v150.jpg",
    "summary": "구글의 AI 모델 제미나이에 애플의 맥(Mac) 컴퓨터의 애플리케이션과 웹사이트를 직접 조작하는 '컴퓨터 사용(Computer Use)' 기능을 도입했다.",
    "category": "ai",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "9a0cb9e4cb15",
@@ -759,6 +759,18 @@
    "buzz": 0
   },
   {
+   "id": "3f02134091ba",
+   "url": "https://yozm.wishket.com/magazine/detail/4057",
+   "title": "외주로 만든 우리 쇼핑몰, PHP 취약점 뉴스에 해당될까?",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-20T10:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4057/img-01.png",
+   "summary": "2026년 11월 19일 PHP 개발팀이 보안 업데이트(8.5.13·8.4.28·8.3.37·8.2.36)로 취약점 18건을 고쳤는데, 그중 여러 건은 로그인 없",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
    "id": "457d6491ac0a",
    "url": "https://www.bloter.net/news/articleView.html?idxno=679208",
    "title": "\"치매 치료부터 당뇨 관리까지\"…헬스케어 스타트업 출사표 [현장+]",
@@ -780,7 +792,7 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/22011_22807_3849.jpg",
    "summary": "라이너는 학술 연구 AI 에이전트 ‘라이너 스콜라’를 활용한 ‘제1회 라이너 스콜라 연구공모전’을 마무리하고, 지난 19일 서울 마포구 본사에서 시상식을 개최했다",
    "category": "ai",
-   "buzz": 2
+   "buzz": 1
   },
   {
    "id": "9d8a1a9e0f9a",
@@ -855,6 +867,18 @@
    "buzz": 2
   },
   {
+   "id": "fb4dd3e316b4",
+   "url": "https://platum.kr/archives/299174",
+   "title": "APEC 무대에 휴머노이드 로봇을 세운 선전",
+   "source": "플래텀",
+   "source_id": "platum",
+   "published_at": "2026-11-20T08:07:27+00:00",
+   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-311.png",
+   "summary": "제33차 아시아태평양경제협력체(APEC) 정상회의가 열린 18~19일을 전후해 중국 선전에서는 휴머노이드 로봇이 거리와 행사장 곳곳에 등장했다.",
+   "category": "ai",
+   "buzz": 0
+  },
+  {
    "id": "b13201bb92ee",
    "url": "https://www.venturesquare.net/1130427",
    "title": "아임웹, AI 에이전트 개발·운영 사례 공개…‘AI 루프 엔지니어링’으로 업무 방식 재설계",
@@ -876,6 +900,18 @@
    "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/BAAS-789x444.png",
    "summary": "기업의 인공지능(AI) 도입 방식이 개발 조직 중심의 개별 자동화에서 현업 구성원이 직접 필요한 도구를 만드는 방향으로 변화하고 있다.",
    "category": "vibe_coding",
+   "buzz": 1
+  },
+  {
+   "id": "2a1b87a855e9",
+   "url": "https://platum.kr/archives/299171",
+   "title": "생성형 AI 없이 만든 GTA 6, ‘AI 이전 마지막 대작’ 평가",
+   "source": "플래텀",
+   "source_id": "platum",
+   "published_at": "2026-11-20T07:48:36+00:00",
+   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-310-1024x928.png",
+   "summary": "19일 출시된 ‘그랜드 테프트 오토 6(GTA 6)’는 개발사가 제작 과정에 생성형 AI를 쓰지 않았다고 거듭 밝혀 온 게임이다.",
+   "category": "business",
    "buzz": 0
   },
   {
@@ -948,6 +984,18 @@
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/17080357/autodraft-20261120-r2777-1-1024x768.png",
    "summary": "프롬프트는 채팅창에 쓰는 요청, 그 뿐이에요 AI를 쓰려고 하니 ‘프롬프트’라는 낯선 말부터 나옵니다.",
    "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "14b2d95a0cf6",
+   "url": "https://yozm.wishket.com/magazine/detail/4054",
+   "title": "AI로 만든 거 안 쓰고 있나요? : 계속 쓰게 만드는 방법 4가지",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-20T05:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4054/img-01.png",
+   "summary": "신나게 만든 AI 자동화, 지금도 쓰고 계신가요?",
+   "category": "vibe_coding",
    "buzz": 0
   },
   {
@@ -1071,27 +1119,15 @@
    "buzz": 0
   },
   {
-   "id": "1a8f67d3b156",
-   "url": "https://platum.kr/archives/299103",
-   "title": "빈속 운동은 지방을 더 태울까, AI로 논문 찾고 직접 확인한 시민 연구 430편",
-   "source": "플래텀",
-   "source_id": "platum",
-   "published_at": "2026-11-20T00:53:53+00:00",
-   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-295-1024x690.png",
-   "summary": "‘빈속에 운동하면 지방이 더 잘 탈까’, ‘감정을 털어놓으면 정말 마음이 편해질까’.",
+   "id": "a56f6fd459d4",
+   "url": "https://yozm.wishket.com/magazine/detail/4053",
+   "title": "출시 취소 후 새로 나온 GPT-6.2 Astra, 무엇이 달라졌을까",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-20T00:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4053/01-openai-og.png",
+   "summary": "출시 취소 후 새로 나온 GPT-6.2 Astra는 무엇이 달라졌을까요?",
    "category": "ai",
-   "buzz": 1
-  },
-  {
-   "id": "28bf166aa98b",
-   "url": "https://platum.kr/archives/299098",
-   "title": "냉난방기에 붙이는 AI 제어기, 정부 에너지 표창 받고 베트남 롯데리아 매장으로",
-   "source": "플래텀",
-   "source_id": "platum",
-   "published_at": "2026-11-20T00:37:12+00:00",
-   "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-294-1024x703.png",
-   "summary": "기존 냉난방기는 기기 안에 달린 센서를 기준으로 돌아간다.",
-   "category": "business",
    "buzz": 0
   },
   {
@@ -1152,6 +1188,18 @@
    "image": "https://cdn.byline.network/wp-content/uploads/2026/11/SOOHOIO123.jpg",
    "summary": "인공지능(AI) 에이전트가 가게 주인을 대신해 물건을 주문하고 대금까지 지급하려면 무엇이 필요할까.",
    "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "044083190196",
+   "url": "https://yozm.wishket.com/magazine/detail/4047",
+   "title": "[리포트] 국내 FDE 현황 조사 2026: ① 누가, 어디서 와서, 무슨 일을 하나",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-19T07:30:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4047/%EC%8D%B8%EB%84%A4%EC%9D%BC_B-01_2.png",
+   "summary": "2026년 FDE를 채용하거나 FDE 조직·서비스를 발표한 국내 회사는 122곳에 이르지만, 이 일을 하는 사람들이 모두 FDE라는 직함을 쓰는 건 아닙니다.",
+   "category": "etc",
    "buzz": 0
   },
   {
@@ -1227,6 +1275,18 @@
    "buzz": 0
   },
   {
+   "id": "a40e08005cac",
+   "url": "https://yozm.wishket.com/magazine/detail/4043",
+   "title": "AI 코딩 세션 10개를 동시에 관리하는 개발 워크플로우",
+   "source": "요즘IT",
+   "source_id": "yozm",
+   "published_at": "2026-11-19T00:00:17+00:00",
+   "image": "https://yozm.wishket.com/media/news/4043/img-01.png",
+   "summary": "AI 코딩 세션을 여덟 개에서 열 개까지 동시에 돌려본 기록입니다.",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
    "id": "6549f51171f0",
    "url": "https://www.mobiinside.co.kr/2026/11/19/ai-adoption-organizational-silence-business",
    "title": "[직장생존을 위한 비즈니스] 다음 질문은 우리 스스로 정해야 합니다",
@@ -1248,18 +1308,6 @@
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/16085654/autodraft-20261118-r2768-1-1024x590.png",
    "summary": "AI가 똑똑해질수록 전문가의 시간이 비싸지는 이유 머코어(Mercor)는 AI 연구소에 의사·변호사·과학자의 시간을 공급하는 전문가 데이터 기업입니다.",
    "category": "business",
-   "buzz": 0
-  },
-  {
-   "id": "24876f0e4ba2",
-   "url": "https://outstanding.kr/carbonsix20261118",
-   "title": "2300억원 엑시트 창업자가 제조업 공장에서 본 ‘미칠 것 같은 사업 기회’",
-   "source": "아웃스탠딩",
-   "source_id": "outstanding",
-   "published_at": "2026-11-18T00:18:59+00:00",
-   "image": "https://outstanding.kr/wp-content/uploads/2026/11/carbonth-900x476.jpg",
-   "summary": "“10년 동안 공장을 다니면서 사람 손에 의존하는 작업이 너무 많다는 걸 봤어요” “기존 기술로는 자동화하기 어려운 작업들이었는데요” “로봇 AI 연구에서도 심상",
-   "category": "ai",
    "buzz": 0
   }
  ]
