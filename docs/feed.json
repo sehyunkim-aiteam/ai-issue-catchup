@@ -1,7 +1,79 @@
 {
  "version": 4,
- "generated_at": "2026-11-21T19:18:18+00:00",
+ "generated_at": "2026-11-22T01:21:04+00:00",
  "items": [
+  {
+   "id": "282ba9f253a3",
+   "url": "https://news.hada.io/topic?id=37600",
+   "title": "UI SDK - AI 에이전트가 UI의 기본 동작을 조합해 컴포넌트를 만드는 라이브러리",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-22T00:30:02+00:00",
+   "image": "https://social.news.hada.io/topic/37600/p43f02484cf7f97b52f3639482353387",
+   "summary": "AI 에이전트가 UI의 기본 동작을 조합해 맞춤형 컴포넌트를 만드는 라이브러리 팝업 열기, 항목 선택, 입력한 글자로 항목 찾기 를 재사용해 Select부터 자동",
+   "category": "vibe_coding",
+   "buzz": 0
+  },
+  {
+   "id": "308aa33d0e82",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=679307",
+   "title": "[어바웃 C] LGU+ 홍범식 유임…AI 성과 속 신뢰 회복은 과제",
+   "source": "블로터",
+   "source_id": "bloter",
+   "published_at": "2026-11-21T21:55:00+00:00",
+   "image": "https://cdn.bloter.net/news/thumbnail/202611/679307_294353_405_v150.jpg",
+   "summary": "기업 최고 의사결정권자(CEO, CFO, COO, CIO 등)의 행보에서 투자 인사이트를 얻어 가세요.",
+   "category": "business",
+   "buzz": 0
+  },
+  {
+   "id": "399f95a8769b",
+   "url": "https://news.hada.io/topic?id=37598",
+   "title": "췌장암 치료 알약, ‘수십 년 만의 최대 돌파구’로 평가받음",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T21:31:35+00:00",
+   "image": "https://social.news.hada.io/topic/37598/p5acf45b4c7f6ed62605482d37063775",
+   "summary": "경구 치료제 daraxonrasib 임상시험 에서 전이성 췌장암 환자 61명 중 약 8%는 CT로 종양이 검출되지 않았으며, 약 90%에서 종양이 줄거나 더 자라",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "ba4fb0849bc8",
+   "url": "https://news.hada.io/topic?id=37597",
+   "title": "FBI, 범죄정보 데이터베이스 해킹 의심 사건 조사 중인 것으로 알려져",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T20:37:21+00:00",
+   "image": "https://social.news.hada.io/topic/37597/p8b89714289c7e30d440fa9c935aea37",
+   "summary": "사안을 보고받은 두 명을 인용한 미국 언론 보도에 따르면, FBI가 범죄정보 데이터베이스 침해 의심 사건 을 조사 중임 대상인 국가범죄정보센터(NCIC) 데이터베",
+   "category": "etc",
+   "buzz": 0
+  },
+  {
+   "id": "9667afc8b943",
+   "url": "https://news.hada.io/topic?id=37595",
+   "title": "5.4 GB 메모리의 Inkling-2-Mini",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T20:34:21+00:00",
+   "image": "https://social.news.hada.io/topic/37595/p06dc39588846bb18e5a1a413785dbf9",
+   "summary": "LookAtMyQuant 가 Inkling-2-Mini의 텍스트 가중치를 18.89 GB에서 5.38 GB로 압축함.",
+   "category": "ai",
+   "buzz": 1
+  },
+  {
+   "id": "c0701d9fb540",
+   "url": "https://news.hada.io/topic?id=37594",
+   "title": "binder.c 제거, Android Binder의 C 구현을 Rust로 대체",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T20:02:02+00:00",
+   "image": "https://social.news.hada.io/topic/37594/p922caa884f5de2539b7bd2d021e2c79",
+   "summary": "Android의 핵심 프로세스 간 통신 드라이버인 Binder의 C 구현이 Linux 7.4에서 제거됨 .",
+   "category": "etc",
+   "buzz": 0
+  },
   {
    "id": "320083b37009",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
@@ -12,6 +84,18 @@
    "image": "https://cdn.aitimes.kr/news/thumbnail/202611/42837_64338_475_v150.jpg",
    "summary": "이재명 대통령이 21일, 울산 SK AI데이터센터 건설 현장을 방문해 사업 추진 상황을 점검하고, 인공지능(AI) 인프라 확충을 통한 국가 경쟁력 강화와 지역 균",
    "category": "ai",
+   "buzz": 0
+  },
+  {
+   "id": "8a488d1cb4be",
+   "url": "https://news.hada.io/topic?id=37593",
+   "title": "브라이언 메이, Hera의 소행성 영상에 입체감을 더하다",
+   "source": "GeekNews",
+   "source_id": "geeknews",
+   "published_at": "2026-11-21T19:31:25+00:00",
+   "image": "https://social.news.hada.io/topic/37593/pcdbca3b78f5a3dccf797573fa73d06e",
+   "summary": "Hera 과학팀 소속 천체물리학자이자 Queen 기타리스트인 브라이언 메이(Sir Brian May) 가 Claudia Manzoni와 함께 Didymos 소행성",
+   "category": "etc",
    "buzz": 0
   },
   {
@@ -113,7 +197,7 @@
   {
    "id": "2b872e9f4040",
    "url": "https://news.hada.io/topic?id=37586",
-   "title": "리만 가설의 Lean 검증, Lean과 Mathlib 커뮤니티 공동 성명",
+   "title": "Lean과 Mathlib 커뮤니티, 리만 가설 증명 검증 완료 발표",
    "source": "GeekNews",
    "source_id": "geeknews",
    "published_at": "2026-11-21T16:36:36+00:00",
@@ -171,42 +255,6 @@
    "buzz": 2
   },
   {
-   "id": "224cef936ac3",
-   "url": "https://news.hada.io/topic?id=37582",
-   "title": "Show GN: BerthNTFS – 커널 확장 없이 맥에서 NTFS 디스크에 쓰기 (FSKit + Rust)",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T14:55:03+00:00",
-   "image": "https://social.news.hada.io/topic/37582/p9eaa3315d86cb458c723db718ed3106",
-   "summary": "맥에서 NTFS 디스크를 읽고 쓸 수 있게 해 주는 앱을 만들었습니다.",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "58f38b20a5f9",
-   "url": "https://news.hada.io/topic?id=37581",
-   "title": "추론 칩을 바이브 코딩하기",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T14:38:47+00:00",
-   "image": "https://social.news.hada.io/topic/37581/pb3ec763026e7da91ccd0f2acf764720",
-   "summary": "하드웨어 개발 경험이 거의 없는 상태에서 코딩 에이전트로 AWS FPGA에 LLM 추론을 구현 하고, 비트 단위로 일치하는 최초 구현 대비 속도를 33배 높임 C",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
-   "id": "d278a2387415",
-   "url": "https://news.hada.io/topic?id=37580",
-   "title": "Winedroid - Android 없이 Android 앱 실행하기, WASM 데모",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T14:35:47+00:00",
-   "image": "https://social.news.hada.io/topic/37580/pc1edf25af08d2b849a94063c091f9b5",
-   "summary": "Winedroid 는 Android 자체를 실행하지 않고 Android를 재현해 앱을 실행하며, 데모에서는 F-Droid에서 다운로드한 실제 APK 파일을 사용함",
-   "category": "vibe_coding",
-   "buzz": 0
-  },
-  {
    "id": "0b716e8813ab",
    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42836",
    "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
@@ -217,42 +265,6 @@
    "summary": "중국 화웨이(Huawei)가 금융기관의 인공지능(AI) 에이전트를 대규모로 개발하고 운영하기 위한 통합 솔루션을 공개했다.",
    "category": "ai",
    "buzz": 1
-  },
-  {
-   "id": "d76f155076de",
-   "url": "https://news.hada.io/topic?id=37578",
-   "title": "Vint Cerf가 말하는 TCP/IP를 특허로 등록하지 않은 이유",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T13:39:08+00:00",
-   "image": "https://social.news.hada.io/topic/37578/pf374a29777d1f407b21fab2c02b2686",
-   "summary": "TCP/IP를 개방한 이유 는 미래의 동맹국도 접근할 수 있도록 하기 위해서였음.",
-   "category": "etc",
-   "buzz": 0
-  },
-  {
-   "id": "370bc3d21547",
-   "url": "https://news.hada.io/topic?id=37577",
-   "title": "새 도메인으로 살펴보는 사람들이 만들고 있는 제품들",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T13:36:08+00:00",
-   "image": "https://social.news.hada.io/topic/37577/p3533af9d51fb1f8260a2186f9476075",
-   "summary": "NovumSignals 는 웹사이트가 공개되는 시점에 새로운 제품 회사를 발견하고, 판매 제품과 운영 주체, 이후 변경 사항을 모아 보여주는 서비스임 제품 목록에",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "985c10195c27",
-   "url": "https://news.hada.io/topic?id=37575",
-   "title": "OpenAI, 내부 연구 모델이 DNS 설정 오류로 인터넷에 접근해 최상위 모델 학습을 11일간 중단",
-   "source": "GeekNews",
-   "source_id": "geeknews",
-   "published_at": "2026-11-21T12:22:05+00:00",
-   "image": "https://social.news.hada.io/topic/37575/p53a4d1d181fffb5ed1ed09342e8956f",
-   "summary": "OpenAI가 모델 학습, 내부 배포, 외부 배포 단계마다 거치는 안전 게이트를 설명한 글 감시 시스템이 내부 연구 모델이 DNS 설정 오류를 이용해 제한적으로 ",
-   "category": "ai",
-   "buzz": 0
   },
   {
    "id": "1c9b4ffd8a41",
@@ -504,7 +516,7 @@
    "image": "https://discuss.pytorch.kr/uploads/default/optimized/3X/2/9/29fdeb76cf2c8eddb9047814ced5850da63cdb46_2_1028x688.jpeg",
    "summary": "핵심 요약 NVIDIA가 GPU 기반 데이터 수집 블로그 글 에서 Berkeley Lab 전자현미경 카메라가 내보내는 초당 500Gb 이상의 데이터를 GPU 메모",
    "category": "vibe_coding",
-   "buzz": 0
+   "buzz": 1
   },
   {
    "id": "365a410fd021",
@@ -816,18 +828,6 @@
    "image": "https://cdn.newstheai.com/news/photo/202611/22012_22809_5636.jpg",
    "summary": "로크웰 오토메이션은 오스트리아 자율이동로봇(AMR) 기업 애질록스(AGILOX) 인수를 위한 최종 계약을 체결했다고 20일 밝혔다.",
    "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "1e2f961377f5",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=679189",
-   "title": "[심플랫폼 줌인]① 산업 AX 고객군 확대…수익구조 다변화",
-   "source": "블로터",
-   "source_id": "bloter",
-   "published_at": "2026-11-20T10:00:33+00:00",
-   "image": "https://cdn.bloter.net/news/thumbnail/202611/679189_294201_2751_v150.jpg",
-   "summary": "산업용 인공지능(AI) 플랫폼 기업 심플랫폼이 기술 경쟁력을 바탕으로 사업화에 속도를 내고 있다.",
-   "category": "business",
    "buzz": 0
   },
   {
@@ -1235,18 +1235,6 @@
    "published_at": "2026-11-19T02:00:00+00:00",
    "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/16090100/autodraft-20261119-r2770-1-1024x682.png",
    "summary": "솔직히 말하면, 하루가 멀다 하고 AI를 사용한다.",
-   "category": "ai",
-   "buzz": 0
-  },
-  {
-   "id": "6549f51171f0",
-   "url": "https://www.mobiinside.co.kr/2026/11/19/ai-adoption-organizational-silence-business",
-   "title": "[직장생존을 위한 비즈니스] 다음 질문은 우리 스스로 정해야 합니다",
-   "source": "모비인사이드",
-   "source_id": "mobiinside",
-   "published_at": "2026-11-19T00:00:00+00:00",
-   "image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/11/16085908/autodraft-20261119-r2769-1.png",
-   "summary": "답은 AI가 주고, 그 답을 일로 옮기는 대화는 여전히 우리 몫입니다 Epilogue 이 연재는 한 질문으로 시작했습니다 “AI를 들이면 일이 잘 될 거라 기대했",
    "category": "ai",
    "buzz": 0
   }
