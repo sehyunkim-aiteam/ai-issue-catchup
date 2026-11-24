@@ -252,6 +252,7 @@ def fetch_source(src: dict, now: float, first_seen: dict[str, float]) -> list[di
 
 # ───────────────────────── fishcrawl ─────────────────────────
 
+LOOSE_TIME = re.compile(r"^(\d{4})[./](\d{1,2})[./](\d{1,2})\.?(?:\s+(\d{1,2}):(\d{2})(?::\d{2})?)?$")
 FISHCRAWL_PAGE = 100       # API 상한
 FISHCRAWL_MAX_PAGES = 20
 
@@ -259,6 +260,9 @@ FISHCRAWL_MAX_PAGES = 20
 def fishcrawl_time(raw, collected_ts: float) -> float:
     """발행 시각 형식이 매체마다 다르다: 시간대 포함 / 시간대 없음(KST로 본다) / 날짜만."""
     raw = str(raw or "").strip()
+    m = LOOSE_TIME.match(raw)   # '2026.11.24 10:40' 같은 표기는 ISO 형식으로 바꿔 읽는다
+    if m:
+        raw = "{}-{:0>2}-{:0>2}".format(*m.group(1, 2, 3)) + (f"T{m.group(4):0>2}:{m.group(5)}" if m.group(4) else "")
     try:
         if len(raw) == 10:  # 날짜만: 그날(KST) 수집했으면 수집 시각, 아니면 그날 정오
             day = datetime.fromisoformat(raw).date()
