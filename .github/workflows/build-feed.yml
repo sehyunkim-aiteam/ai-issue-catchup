@@ -26,6 +26,9 @@ jobs:
       - run: pip install -r pipeline/requirements.txt
       - run: ./sync-web.sh
       - run: python pipeline/build_feed.py
+        env:
+          FISHCRAWL_API_URL: ${{ secrets.FISHCRAWL_API_URL }}
+          FISHCRAWL_TOKEN: ${{ secrets.FISHCRAWL_TOKEN }}
       - name: Commit feed
         run: |
           git config user.name "feed-bot"

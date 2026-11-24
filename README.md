@@ -7,7 +7,7 @@
 ```
 GitHub Actions (3시간마다)
   pipeline/build_feed.py
-    한국어 RSS 14개 수집 → 영문 제외·종합매체는 AI 키워드 기사만 → 중복 제거 → 썸네일(og:image) 확보
+    한국어 RSS 14개 + 사내 크롤러(fishcrawl) 수집분 → 영문 제외·종합매체는 AI 키워드 기사만 → 중복 제거 → 썸네일(og:image) 확보
     → 규칙 기반 처리 (API 키 불필요) → docs/feed.json 커밋
        · 한 줄 요약 = RSS 본문 첫 문장(기자명·머리말 제거)
        · 카테고리(AI/Vibe Coding/Business/etc) = 키워드 규칙 → 소스 기본값
@@ -48,7 +48,12 @@ python3 -m venv .venv && .venv/bin/pip install -r pipeline/requirements.txt
 
 ## 소스 추가
 
-`pipeline/sources.py`에 한 줄 추가. 한국어 콘텐츠만 남기므로(한글 비율 30% 미만 제외) 영문 소스는 넣어도 걸러진다. EO Planet은 RSS가 없어 제외했다.
+`pipeline/sources.py`에 한 줄 추가. 한국어 콘텐츠만 남기므로(한글 비율 30% 미만 제외) 영문 소스는 넣어도 걸러진다.
+
+RSS가 없는 매체는 사내 크롤러 fishcrawl에 프로젝트를 만들고, 그 프로젝트 ID를 `fishcrawl` 키에 적는다(`url`은 생략). EO 플래닛은 홍보·모집 글이 섞여 일단 뺐다.
+- RSS와 fishcrawl을 둘 다 가진 소스는 합쳐서 쓴다. 같은 기사는 RSS 쪽을 쓰고, 소스별 건수는 합친 뒤 `max_items`로 자른다.
+- 접속 정보는 저장소에 두지 않는다. Actions secret `FISHCRAWL_API_URL`(읽기 API의 `/api/documents` 주소)·`FISHCRAWL_TOKEN`으로 넣는다. 둘 중 하나라도 없으면 RSS만으로 돈다.
+- 크롤러가 준 본문은 요약·분류에만 쓰고 저장하지 않는다.
 
 ## 주의
 

@@ -1,4 +1,4 @@
-"""RSS 수집 → 썸네일 확보 → 규칙 기반 요약·분류·화제도 → docs/feed.json.
+"""RSS·fishcrawl 수집 → 썸네일 확보 → 규칙 기반 요약·분류·화제도 → docs/feed.json.
 
 API 키 없이 돈다. 모든 판정은 규칙이다.
 - 한국어 콘텐츠만 남긴다(제목+발췌의 한글 비율).
@@ -6,6 +6,8 @@ API 키 없이 돈다. 모든 판정은 규칙이다.
 - 분류: 제목·본문 키워드 규칙 → 안 걸리면 소스 기본값.
 - 화제도(buzz): 최근 48시간 안에 '다른 매체'가 같은 이슈(제목 핵심어 2개 이상 겹침)를 다룬 수.
   인기 콘텐츠 순위에 쓴다. 조회수가 아니다.
+- fishcrawl(사내 크롤러) 수집분은 환경변수 FISHCRAWL_API_URL·FISHCRAWL_TOKEN이 있을 때만 합친다.
+  RSS에 이미 있는 기사는 RSS 쪽을 쓰고, 소스별 건수는 합친 뒤 max_items로 다시 자른다.
 - 이미 처리한 기사(URL 기준)는 이전 feed.json에서 썸네일·발행 시각을 재사용한다.
 
 선택: --ai 를 주면 새 기사만 Claude Haiku 5.5로 한 줄 요약·분류를 덮어쓴다(ANTHROPIC_API_KEY 필요).
@@ -22,13 +24,15 @@ import calendar
 import hashlib
 import html
 import json
+import os
 import re
 import sys
 import time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+import urllib.error
 from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
 
 import feedparser
@@ -97,10 +101,17 @@ def is_korean(text: str) -> bool:
     return bool(letters) and len(HANGUL.findall(text)) / len(letters) >= MIN_HANGUL_RATIO
 
 
+KST = timezone(timedelta(hours=9))
+NAIVE_TIME = re.compile(r"^\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2}(:\d{2})?$")
+
+
 def entry_time(entry) -> float | None:
-    for key in ("published_parsed", "updated_parsed"):
-        t = entry.get(key)
+    for key in ("published", "updated"):
+        t = entry.get(f"{key}_parsed")
         if t:
+            # 시간대 없는 시각(AI타임스·블로터 등 allArticle.xml)은 KST다. feedparser는 UTC로 읽어 9시간 늦게 잡는다
+            if NAIVE_TIME.match(str(entry.get(key, "")).strip()):
+                return calendar.timegm(t) - 9 * 3600
             return calendar.timegm(t)
     return None
 
@@ -239,6 +250,112 @@ def fetch_source(src: dict, now: float, first_seen: dict[str, float]) -> list[di
     return items
 
 
+# ───────────────────────── fishcrawl ─────────────────────────
+
+FISHCRAWL_PAGE = 100       # API 상한
+FISHCRAWL_MAX_PAGES = 20
+
+
+def fishcrawl_time(raw, collected_ts: float) -> float:
+    """발행 시각 형식이 매체마다 다르다: 시간대 포함 / 시간대 없음(KST로 본다) / 날짜만."""
+    raw = str(raw or "").strip()
+    try:
+        if len(raw) == 10:  # 날짜만: 그날(KST) 수집했으면 수집 시각, 아니면 그날 정오
+            day = datetime.fromisoformat(raw).date()
+            if datetime.fromtimestamp(collected_ts, KST).date() == day:
+                return collected_ts
+            return datetime(day.year, day.month, day.day, 12, tzinfo=KST).timestamp()
+        dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        return (dt if dt.tzinfo else dt.replace(tzinfo=KST)).timestamp()
+    except ValueError:
+        return collected_ts
+
+
+def fishcrawl_docs(api_url: str, token: str, project_ids: list[str], since: float) -> list[dict]:
+    params = [("limit", FISHCRAWL_PAGE),
+              ("collected_from", datetime.fromtimestamp(since, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))]
+    params += [("project_id", pid) for pid in project_ids]
+    docs: list[dict] = []
+    for _ in range(FISHCRAWL_MAX_PAGES):
+        req = urllib.request.Request(f"{api_url}?{urlencode(params)}",
+                                     headers={"Authorization": f"Bearer {token}", "Accept": "application/json"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            page = json.load(resp)
+        docs += page.get("items", [])
+        info = page.get("page") or {}
+        if not info.get("has_more") or not info.get("next_cursor"):
+            break
+        params = [("limit", FISHCRAWL_PAGE), ("cursor", info["next_cursor"])]  # 필터는 커서에 들어 있다
+    return docs
+
+
+def fetch_fishcrawl(now: float) -> list[dict]:
+    """fishcrawl 읽기 API에서 최근 수집분을 가져와 RSS 기사와 같은 모양으로 만든다. 실패해도 RSS만으로 계속 간다."""
+    by_project = {s["fishcrawl"]: s for s in SOURCES if s.get("fishcrawl")}
+    api_url, token = os.environ.get("FISHCRAWL_API_URL"), os.environ.get("FISHCRAWL_TOKEN")
+    if not by_project:
+        return []
+    if not api_url or not token:
+        print("fishcrawl 건너뜀 (FISHCRAWL_API_URL·FISHCRAWL_TOKEN 없음)")
+        return []
+    try:
+        # 크롤러가 늦게 주운 기사도 잡도록 수집 시각은 넉넉히 보고, 기간은 발행 시각으로 자른다
+        docs = fishcrawl_docs(api_url, token, list(by_project), now - (WINDOW_HOURS + 24) * 3600)
+    except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+        print(f"  ✗ fishcrawl: {exc}", file=sys.stderr)
+        return []
+    per_source: dict[str, list[dict]] = {}
+    for d in docs:
+        src, data = by_project.get(d.get("project_id")), d.get("data") or {}
+        link, title = data.get("url"), clean_text(data.get("title") or "")
+        if not src or not link or not title:
+            continue
+        try:
+            collected = datetime.fromisoformat(d["collected_at"].replace("Z", "+00:00")).timestamp()
+        except (KeyError, ValueError):
+            collected = now
+        ts = min(fishcrawl_time(data.get("published_at"), collected), now)
+        if now - ts > WINDOW_HOURS * 3600:
+            continue
+        body = clean_text(data.get("body") or "")
+        if not is_korean(f"{title} {body[:500]}"):
+            continue
+        if src.get("require_ai") and not (KW_AI.search(title) or KW_AI.search(body[:800])):
+            continue
+        url = normalize_url(link)
+        per_source.setdefault(src["id"], []).append({
+            "id": hashlib.sha1(url.encode()).hexdigest()[:12],
+            "url": url,
+            "title": title,
+            "source": src["name"],
+            "source_id": src["id"],
+            "published_at": datetime.fromtimestamp(ts, timezone.utc).isoformat(timespec="seconds"),
+            "image": d.get("thumbnail_url") or None,
+            "summary": one_line(title, body),
+            "category": classify(f"{title} {body[:800]}", src["category"]),
+            "_excerpt": body[:MAX_EXCERPT_CHARS],
+            "_date_guessed": False,
+        })
+    out = []
+    for sid, rows in per_source.items():
+        rows.sort(key=lambda x: x["published_at"], reverse=True)
+        out += rows
+        print(f"  ✓ fishcrawl {rows[0]['source']}: {len(rows)}건")
+    return out
+
+
+def cap_per_source(items: list[dict]) -> list[dict]:
+    """RSS와 fishcrawl을 합치면 한 소스가 max_items를 넘을 수 있어, 소스별로 최신순 max_items만 남긴다."""
+    limit = {s["id"]: s["max_items"] for s in SOURCES}
+    seen: dict[str, int] = {}
+    out = []
+    for it in sorted(items, key=lambda x: x["published_at"], reverse=True):
+        seen[it["source_id"]] = seen.get(it["source_id"], 0) + 1
+        if seen[it["source_id"]] <= limit.get(it["source_id"], MAX_ITEMS):
+            out.append(it)
+    return out
+
+
 def dedupe(items: list[dict]) -> list[dict]:
     seen_url, seen_title, out = set(), set(), []
     for it in sorted(items, key=lambda x: x["published_at"]):
@@ -365,9 +482,12 @@ def main() -> None:
     now = time.time()
     prev, first_seen = load_previous()
     print("RSS 수집")
+    rss_sources = [s for s in SOURCES if s.get("url")]
     with ThreadPoolExecutor(max_workers=8) as pool:
-        raw = [it for batch in pool.map(lambda s: fetch_source(s, now, first_seen), SOURCES) for it in batch]
-    items = dedupe(raw)
+        raw = [it for batch in pool.map(lambda s: fetch_source(s, now, first_seen), rss_sources) for it in batch]
+    rss_urls = {it["url"] for it in raw}
+    raw += [it for it in fetch_fishcrawl(now) if it["url"] not in rss_urls]
+    items = cap_per_source(dedupe(raw))
 
     todo = [it for it in items if it["url"] not in prev]
     print(f"기사 {len(items)}건 (재사용 {len(items) - len(todo)} / 신규 {len(todo)})")
